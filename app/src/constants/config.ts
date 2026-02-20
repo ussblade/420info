@@ -8,7 +8,7 @@
  * Replace YOUR_USERNAME with your GitHub username.
  */
 export const CDN_URL =
-  'https://ussblade.github.io/420info/dispensaries.json';
+  'https://ussblade.github.io/420info/scraper/output/dispensaries.json';
 
 /** Search radius in meters for Overpass API queries */
 export const SEARCH_RADIUS_METERS = 16093; // ~10 miles

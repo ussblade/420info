@@ -7,8 +7,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
   scrape:
@@ -23,31 +21,33 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: scraper/package-lock.json
 
       - name: Install scraper dependencies
-        run: cd scraper && npm ci
+        run: cd scraper && npm install
 
       - name: Run scrapers
         run: cd scraper && npm run scrape
-        env:
-          # Rate limit: Nominatim requires identifying User-Agent
-          SCRAPER_USER_AGENT: '420nearme-scraper/1.0 (github.com/${{ github.repository }})'
 
       - name: Verify output
         run: |
           echo "=== Output file ==="
-          cat scraper/output/dispensaries.json | head -50
+          head -20 scraper/output/dispensaries.json
           echo ""
-          echo "=== Count ==="
-          cat scraper/output/dispensaries.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(f'Total dispensaries: {d[\"count\"]}')"
+          python3 -c "
+          import json
+          with open('scraper/output/dispensaries.json') as f:
+              d = json.load(f)
+          print(f'Total dispensaries: {d[\"count\"]}')
+          "
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: scraper/output
-          destination_dir: .
-          commit_message: 'data: update dispensaries.json [${{ github.run_number }}]'
-          cname: ''  # Set to your custom domain if you have one
+      - name: Commit updated dispensaries.json to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scraper/output/dispensaries.json
+          if git diff --staged --quiet; then
+            echo "No changes to dispensaries.json — skipping commit"
+          else
+            git commit -m "data: update dispensaries.json [run ${{ github.run_number }}]"
+            git push origin main
+          fi
