@@ -4994,5 +4994,1161 @@
   "749 east enterprise drive, pueblo, co 81007": {
     "lat": 38.3276058,
     "lon": -104.7120965
+  },
+  "3420 iowa ave, saint louis, mo 63118": {
+    "lat": 38.5928928,
+    "lon": -90.2289305
+  },
+  "6166 delmar blvd, saint louis, mo 63112": {
+    "lat": 38.6550661,
+    "lon": -90.2984836
+  },
+  "3737 s grand blvd, saint louis, mo 63118": null,
+  "11088 new halls ferry rd, florissant, mo 63033": {
+    "lat": 38.793777,
+    "lon": -90.2876856
+  },
+  "9800 manchester road suite c, rock hill, mo 63119": null,
+  "215 e charles st, kirksville, mo 63501": {
+    "lat": 40.2208785,
+    "lon": -92.5820324
+  },
+  "121 s. walnut street, cameron, mo 64429": {
+    "lat": 39.7398038,
+    "lon": -94.2357971
+  },
+  "13518 us-169, smithville, mo 64089": {
+    "lat": 39.3861071,
+    "lon": -94.5851119
+  },
+  "8411 n. lindberg blvd, florissant, mo 63031": null,
+  "5918 southview dr, liberty, mo 64068": {
+    "lat": 39.2241331,
+    "lon": -94.4120256
+  },
+  "908 north belt highway, saint joseph, mo 64506": {
+    "lat": 39.7730233,
+    "lon": -94.8034982
+  },
+  "149 crown hill rd, excelsior spg, mo 64024": null,
+  "1117 nw state route 7, blue springs, mo 64015": null,
+  "6510 nw pairieview, kansas city, mo 64151": null,
+  "2221 n belt hwy, saint joseph, mo 64506": {
+    "lat": 39.7853385,
+    "lon": -94.8036923
+  },
+  "8606 n church rd, kansas city, mo 64157": {
+    "lat": 39.2461178,
+    "lon": -94.456647
+  },
+  "4451 brown rd, berkeley, mo 63134": {
+    "lat": 38.7281128,
+    "lon": -90.3453421
+  },
+  "4403 nw gateway ave, riverside, mo 64150": {
+    "lat": 39.1745773,
+    "lon": -94.6128228
+  },
+  "10417a saint charles rock rd, saint ann, mo 63074": null,
+  "5901 nw barry rd, kansas city, mo 64154": {
+    "lat": 39.2466802,
+    "lon": -94.6480767
+  },
+  "2000 highway 61 s, hannibal, mo 63401": null,
+  "4225 commonwealth court, st. joseph, mo 64503": {
+    "lat": 39.7232371,
+    "lon": -94.7924487
+  },
+  "400 n baltimore st, kirksville, mo 63501": {
+    "lat": 40.197185,
+    "lon": -92.571886
+  },
+  "310 s platte clay way, kearney, mo 64060": {
+    "lat": 39.3720651,
+    "lon": -94.3678855
+  },
+  "7766 n lindbergh blvd, hazelwood, mo 63042": {
+    "lat": 38.787034,
+    "lon": -90.3502208
+  },
+  "9324 rt-7 s, lee's summit, mo 64064": null,
+  "5501 chippewa st, saint louis, mo 63109": {
+    "lat": 38.592624,
+    "lon": -90.285978
+  },
+  "941 washington st, chillicothe, mo 64601": {
+    "lat": 39.7972891,
+    "lon": -93.5536059
+  },
+  "1531 s broadway, saint louis, mo 63104": null,
+  "2316 s. main st, maryville, mo 64468": {
+    "lat": 40.3236449,
+    "lon": -94.8739982
+  },
+  "2005 n missouri st, macon, mo 63552": {
+    "lat": 39.7556322,
+    "lon": -92.4678735
+  },
+  "2316 cherokee st, saint louis, mo 63118": {
+    "lat": 38.5930479,
+    "lon": -90.2244408
+  },
+  "19341 e us highway 40, independence, mo 64055": null,
+  "6660 manchester ave, saint louis, mo 63139": {
+    "lat": 38.6183815,
+    "lon": -90.3021021
+  },
+  "10915 nw 45 hwy, parkville, mo 64152": null,
+  "20 s euclid ave, saint louis, mo 63108": {
+    "lat": 38.639543,
+    "lon": -90.2621405
+  },
+  "824 s 291 highway, liberty, mo 64068": null,
+  "120 s main st, kirksville, mo 63501": null,
+  "1041 burlington st, n kansas city, mo 64116": {
+    "lat": 39.1277543,
+    "lon": -94.5807986
+  },
+  "2001 olive st, saint louis, mo 63103": {
+    "lat": 38.632065,
+    "lon": -90.20855
+  },
+  "1221 west 103rd st, kansas city, mo 64114": {
+    "lat": 38.9411821,
+    "lon": -94.6064621
+  },
+  "6200 troost ave, kansas city, mo 64110": {
+    "lat": 39.0145304,
+    "lon": -94.5748196
+  },
+  "1222 mcgee street, kansas city, mo 64106": {
+    "lat": 39.0990306,
+    "lon": -94.5801215
+  },
+  "7555 olive blvd, university cy, mo 63130": null,
+  "2918 southwest blvd, kansas city, mo 64108": {
+    "lat": 39.0747984,
+    "lon": -94.6044613
+  },
+  "517 s florissant rd, ferguson, mo 63135": null,
+  "7025 prospect ave, kansas city, mo 64132": {
+    "lat": 38.999068,
+    "lon": -94.55675
+  },
+  "1041 ne sam walton ln, lees summit, mo 64086": null,
+  "1421 wabash ave, kansas city, mo 64127": {
+    "lat": 39.0953069,
+    "lon": -94.5523874
+  },
+  "16820 e. us highway 24, independence, mo 64056": {
+    "lat": 39.1267867,
+    "lon": -94.3614914
+  },
+  "444 howdershell rd, florissant, mo 63031": {
+    "lat": 38.8048552,
+    "lon": -90.3613098
+  },
+  "207 ne 72nd st suites a,b,c, gladstone, mo 64118": null,
+  "7130 wornall rd, kansas city, mo 64114": {
+    "lat": 38.9990101,
+    "lon": -94.5939598
+  },
+  "10834 saint charles rock rd, saint ann, mo 63074": null,
+  "15823 e us highway 24, independence, mo 64050": {
+    "lat": 39.1267867,
+    "lon": -94.3614914
+  },
+  "1463 s vandeventer ave, saint louis, mo 63110": {
+    "lat": 38.6240349,
+    "lon": -90.2537583
+  },
+  "3721 s. noland road, independence, mo 64055": null,
+  "490 sw mo-7 hwy, blue springs, mo 64015": null,
+  "13531 madison avenue, kansas city, mo 64145": {
+    "lat": 38.8823237,
+    "lon": -94.6051506
+  },
+  "6700-6704 highway n, o'fallon, mo 63304": {
+    "lat": 38.7536323,
+    "lon": -90.6903471
+  },
+  "9010 e state rte 350, raytown, mo 64133": null,
+  "15396-15398 manchester rd, ellisville, mo 63011": null,
+  "10420 blue ridge blvd, kansas city, mo 64134": {
+    "lat": 38.9343647,
+    "lon": -94.5082892
+  },
+  "4900 east bannister road, kansas city, mo 64132": {
+    "lat": 38.9540253,
+    "lon": -94.5340513
+  },
+  "16075 manchester rd, ellisville, mo 63011": {
+    "lat": 38.5908484,
+    "lon": -90.5946631
+  },
+  "240 e linwood blvd, kansas city, mo 64111": {
+    "lat": 39.0684247,
+    "lon": -94.5822547
+  },
+  "2631 ne vivion rd, kansas city, mo 64119": null,
+  "10855 manchester rd, kirkwood, mo 63122": {
+    "lat": 38.6001024,
+    "lon": -90.4086481
+  },
+  "1004 w 45th st, kansas city, mo 64111": null,
+  "105 n lindbergh blvd, creve coeur, mo 63141": {
+    "lat": 38.6552333,
+    "lon": -90.4054216
+  },
+  "510 sw 3rd st, lees summit, mo 64063": null,
+  "13836 s us highway 71, grandview, mo 64030": null,
+  "6820 e front st, kansas city, mo 64120": {
+    "lat": 39.1308901,
+    "lon": -94.5029461
+  },
+  "108 c hilltop village center dr, eureka, mo 63025": {
+    "lat": 38.5059327,
+    "lon": -90.6423966
+  },
+  "2093 smizer station rd, valley park, mo 63088": null,
+  "4027 richard joseph blvd, joplin, mo 64804": null,
+  "3903 s campbell ave, springfield, mo 65807": {
+    "lat": 37.1432418,
+    "lon": -93.2961978
+  },
+  "2918 e 20th st, joplin, mo 64804": {
+    "lat": 37.0691795,
+    "lon": -94.4796093
+  },
+  "18031 business 13, branson west, mo 65737": {
+    "lat": 36.6959868,
+    "lon": -93.3699876
+  },
+  "9933 watson rd, saint louis, mo 63126": {
+    "lat": 38.5840849,
+    "lon": -90.3172529
+  },
+  "2868 s glenstone ave, springfield, mo 65804": {
+    "lat": 37.1616788,
+    "lon": -93.2624399
+  },
+  "234 kingston dr, saint louis, mo 63125": {
+    "lat": 38.5183399,
+    "lon": -90.2814676
+  },
+  "2823 n glenstone ave, springfield, mo 65803": {
+    "lat": 37.2480989,
+    "lon": -93.2621715
+  },
+  "1421 west highway j, ozark, mo 65721": null,
+  "25733 fir rd, joplin, mo 64801": null,
+  "201 s wildwood dr, branson, mo 65616": {
+    "lat": 36.6359594,
+    "lon": -93.266018
+  },
+  "15335 state hwy 76, cassville, mo 65625": null,
+  "1510 e sunshine st, springfield, mo 65804": {
+    "lat": 37.1816426,
+    "lon": -93.2687524
+  },
+  "2782 w republic rd, springfield, mo 65807": {
+    "lat": 37.138347,
+    "lon": -93.335868
+  },
+  "3800 w sunshine st a, springfield, mo 65807": null,
+  "2929 the loop, carthage, mo 64836": {
+    "lat": 37.1379255,
+    "lon": -94.318172
+  },
+  "3004 s saint peters pkwy ste s, saint peters, mo 63303": null,
+  "202 west st ste 1, nixa, mo 65714": null,
+  "1416 harvestowne industrial dr, saint charles, mo 63304": null,
+  "35 macadoodle lane, pineville, mo 64856": null,
+  "751 s glenstone ave, springfield, mo 65802": {
+    "lat": 37.200664,
+    "lon": -93.2621042
+  },
+  "10425 watson rd, st. louis, mo 63127": {
+    "lat": 38.5560561,
+    "lon": -90.4040513
+  },
+  "850 e kearney st, springfield, mo 65803": {
+    "lat": 37.2405613,
+    "lon": -93.281242
+  },
+  "18490 business 13, branson west, mo 65737": {
+    "lat": 36.7020718,
+    "lon": -93.3696883
+  },
+  "70 missouri ln, pineville, mo 64856": null,
+  "218 n. national avenue, springfield, mo 65802": {
+    "lat": 37.2102679,
+    "lon": -93.2756186
+  },
+  "1729 e 7th st, joplin, mo 64801": {
+    "lat": 37.0841406,
+    "lon": -94.4952631
+  },
+  "1502 s range line rd, joplin, mo 64804": {
+    "lat": 37.0739115,
+    "lon": -94.4778027
+  },
+  "7827 w. farm road 174, republic, mo 65738": {
+    "lat": 37.132837,
+    "lon": -93.4519157
+  },
+  "25 s kingshighway, cape girardeau, mo 63703": {
+    "lat": 37.3048744,
+    "lon": -89.5528581
+  },
+  "7417 s lindbergh blvd, saint louis, mo 63125": {
+    "lat": 38.5055983,
+    "lon": -90.3251946
+  },
+  "1026 brentwood blvd, richmond heights, mo 63117": {
+    "lat": 38.6368155,
+    "lon": -90.3457825
+  },
+  "903 e. washington st., hayti, mo 63851": {
+    "lat": 36.2337978,
+    "lon": -89.7421524
+  },
+  "2285 us highway 67 ste a, festus, mo 63028": null,
+  "11062 olive blvd, creve coeur, mo 63141": {
+    "lat": 38.6733022,
+    "lon": -90.4239565
+  },
+  "100 strauss dr, park hills, mo 63601": {
+    "lat": 37.842823,
+    "lon": -90.496961
+  },
+  "11420 concord village ave, saint louis, mo 63123": {
+    "lat": 38.5248846,
+    "lon": -90.3552628
+  },
+  "1817 e malone, sikeston, mo 63801": null,
+  "839 meramec station rd, valley park, mo 63088": {
+    "lat": 38.5660835,
+    "lon": -90.4956157
+  },
+  "1435 n. westwood blvd, poplar bluff, mo 63901": {
+    "lat": 36.771332,
+    "lon": -90.4186464
+  },
+  "2008 richardson road, arnold, mo 63010": {
+    "lat": 38.4185829,
+    "lon": -90.3920796
+  },
+  "1636 bruce smith pkwy, west plains, mo 65775": {
+    "lat": 36.7116699,
+    "lon": -91.874348
+  },
+  "803 w scenic rivers blvd ste a, salem, mo 65560": null,
+  "118 south hanley rd, st. charles, mo 63105": null,
+  "1421 forum dr a1 and b1, rolla, mo 65401": null,
+  "1803 w business us 60, dexter, mo 63841": null,
+  "17409 chesterfield airport rd g, chesterfield, mo 63005": null,
+  "80 state hwy o, steele, mo 63877": null,
+  "1168 w gannon dr, festus, mo 63028": {
+    "lat": 38.2126566,
+    "lon": -90.403404
+  },
+  "730 market st, farmington, mo 63640": {
+    "lat": 37.7911017,
+    "lon": -90.4371849
+  },
+  "205 state route b, saint james, mo 65559": null,
+  "2421 e jackson boulevard, cape girardeau, mo 63755": {
+    "lat": 37.3679433,
+    "lon": -89.6411988
+  },
+  "812 lester st, kennett, mo 63857": null,
+  "929 peachtree plaza dr, hillsboro, mo 63050": {
+    "lat": 38.2222074,
+    "lon": -90.5760379
+  },
+  "1330 broadway street, suite b, cape girardeau, mo 63701": null,
+  "350 n kingshighway st, cape girardeau, mo 63701": null,
+  "1001 broadway, cape girardeau, mo 63701": {
+    "lat": 37.3077243,
+    "lon": -89.531743
+  },
+  "180 gravois bluffs cir ste b, fenton, mo 63026": null,
+  "772 s kingshighway ste a, cape girardeau, mo 63703": null,
+  "1391 mitchell rd, west plains, mo 65775": {
+    "lat": 36.7128424,
+    "lon": -91.8771026
+  },
+  "901 e. first street, washington, mo 63090": null,
+  "1801 s limit ave, sedalia, mo 65301": {
+    "lat": 38.696466,
+    "lon": -93.250627
+  },
+  "1404 missouri blvd ste a, jefferson cty, mo 65109": null,
+  "68 e 300th road, humansville, mo 65674": null,
+  "3 walters pl, house springs, mo 63051": null,
+  "219 w young ave, warrensburg, mo 64093": null,
+  "146 jungermann rd, saint peters, mo 63376": {
+    "lat": 38.7938411,
+    "lon": -90.5767853
+  },
+  "1193 bryan road, o fallon, mo 63366": {
+    "lat": 38.7900702,
+    "lon": -90.7368332
+  },
+  "14747 state highway 38, marshfield, mo 65706": null,
+  "109 n lincoln dr e, troy, mo 63379": null,
+  "1172 w terra ln, o fallon, mo 63366": {
+    "lat": 38.8043035,
+    "lon": -90.7326556
+  },
+  "17211 s. 71 highway, belton, mo 64012": null,
+  "3848 s clark st, mexico, mo 65265": {
+    "lat": 39.1337723,
+    "lon": -91.8925212
+  },
+  "711 n state highway 47, warrenton, mo 63383": null,
+  "3899 veterans memorial pkwy, saint peters, mo 63376": {
+    "lat": 38.7914676,
+    "lon": -90.5646655
+  },
+  "204 e broadway, columbia, mo 65203": {
+    "lat": 38.951568,
+    "lon": -92.3349737
+  },
+  "150 mid rivers mall cir, saint peters, mo 63376": {
+    "lat": 38.7983778,
+    "lon": -90.6192403
+  },
+  "2118 missouri blvd, jefferson cty, mo 65109": {
+    "lat": 38.5811239,
+    "lon": -92.238561
+  },
+  "2220 e austin blvd, nevada, mo 64772": {
+    "lat": 37.8362642,
+    "lon": -94.3288634
+  },
+  "6396 osage beach pkwy, osage beach, mo 65079": {
+    "lat": 38.1219461,
+    "lon": -92.6771171
+  },
+  "1709 state hwy z, pevely, mo 63070": null,
+  "1812 highway 52, eldon, mo 65026": null,
+  "1401 creekwood pkwy suite # 102, columbia, mo 65202": null,
+  "4300 n service rd, saint peters, mo 63376": {
+    "lat": 38.8013284,
+    "lon": -90.6189332
+  },
+  "23 spring cove rd, sunrise beach, mo 65079": {
+    "lat": 38.1613409,
+    "lon": -92.7764991
+  },
+  "1905 w foxwood dr, raymore, mo 64083": {
+    "lat": 38.8120384,
+    "lon": -94.49012
+  },
+  "12077 n state highway 5, sunrise beach, mo 65079": {
+    "lat": 38.1758638,
+    "lon": -92.7838051
+  },
+  "3919 peachtree dr, columbia, mo 65203": null,
+  "859 robert raymond dr, lake st louis, mo 63367": {
+    "lat": 38.7709448,
+    "lon": -90.7821112
+  },
+  "1408 n state route 291, harrisonville, mo 64701": null,
+  "2173 w terra ln, o fallon, mo 63366": {
+    "lat": 38.805183,
+    "lon": -90.7676849
+  },
+  "4003 ponderosa st, columbia, mo 65201": {
+    "lat": 38.9091939,
+    "lon": -92.2948614
+  },
+  "1163 wentzville pkwy # 1171 building c, wentzville, mo 63385": null,
+  "1909 n service rd e b, saint clair, mo 63077": null,
+  "225 n cedar dr, belton, mo 64012": null,
+  "1340 thorton st, pacific, mo 63069": null,
+  "1500 interstate 70 dr sw suite 1, 2, and 3, columbia, mo 65203": null,
+  "231 saint robert blvd, st. robert, mo 65584": {
+    "lat": 37.8259251,
+    "lon": -92.1582129
+  },
+  "2060 village ln suites 1-3, hermann, mo 65041": null,
+  "2750 nw 7 highway, clinton, mo 64735": null,
+  "1210 deadra dr, lebanon, mo 65536": null,
+  "412 w coates st # 101, moberly, mo 65270": null,
+  "812 vandiver dr, columbia, mo 65202": {
+    "lat": 38.9711835,
+    "lon": -92.3283264
+  },
+  "2500 broadway bluffs dr # 102 suite 102, columbia, mo 65201": null,
+  "1407 cinnamon hill lane, columbia, mo 65201": {
+    "lat": 38.9337656,
+    "lon": -92.2929084
+  },
+  "2004 west broadway blvd, sedalia, mo 65301": {
+    "lat": 38.705226,
+    "lon": -93.2525161
+  },
+  "14173 manchester rd ste m, manchester, mo 63011": null,
+  "28744 highway 5, gravois mills, mo 65037": null,
+  "4108 manchester ave, saint louis, mo 63110": null,
+  "11031 kingshighway, rolla, mo 65401": {
+    "lat": 37.9481843,
+    "lon": -91.7755882
+  },
+  "6497 chippewa ave, saint louis, mo 63109": null,
+  "513 s ash st, buffalo, mo 65622": {
+    "lat": 37.63961,
+    "lon": -93.1043696
+  },
+  "8170 nw prairie view rd, kansas city, mo 64151": {
+    "lat": 39.2422275,
+    "lon": -94.658886
+  },
+  "4730 mid rivers mall drive, cottleville, mo 63376": {
+    "lat": 38.7577117,
+    "lon": -90.6364239
+  },
+  "201 s. mo 291, lee's summit, mo 64063": {
+    "lat": 38.9318771,
+    "lon": -94.3601042
+  },
+  "12095 manchester rd, des peres, mo 63131": {
+    "lat": 38.6025878,
+    "lon": -90.4371012
+  },
+  "1551 state hwy 248, branson, mo 65616": null,
+  "4716 ne vivion rd, kansas city, mo 64119": {
+    "lat": 39.1880785,
+    "lon": -94.5243984
+  },
+  "1631 s broadway, saint louis, mo 63104": {
+    "lat": 38.6104841,
+    "lon": -90.199323
+  },
+  "706 westport rd, kansas city, mo 64111": {
+    "lat": 39.0517166,
+    "lon": -94.5950393
+  },
+  "12430 st. charles rock road, bridgeton, mo 63044": null,
+  "2024 mckelvey rd., maryland heights, mo 63043": {
+    "lat": 38.7156445,
+    "lon": -90.45339
+  },
+  "1015 mccausland ave, saint louis, mo 63117": {
+    "lat": 38.6324599,
+    "lon": -90.304961
+  },
+  "3125 green mountain drive, branson, mo 65616": {
+    "lat": 36.6325786,
+    "lon": -93.2787981
+  },
+  "319 e ashley rd, boonville, mo 65233": null,
+  "20021 e state hwy n, eagleville, mo 64442": null,
+  "668 e red bridge road, kansas city, mo 64131": {
+    "lat": 38.9256516,
+    "lon": -94.5838635
+  },
+  "42 arnage road, chesterfield, mo 63005": {
+    "lat": 38.6693071,
+    "lon": -90.6139105
+  },
+  "3646 state highway ac, cardwell, mo 63829": null,
+  "4805 osage beach parkway, osage beach, mo 65065": {
+    "lat": 38.1384054,
+    "lon": -92.6356806
+  },
+  "3205 missouri blvd., jefferson city, mo 65109": {
+    "lat": 38.5807678,
+    "lon": -92.2571378
+  },
+  "3910 s. ward ave, caruthersville, mo 63830": {
+    "lat": 36.1591218,
+    "lon": -89.6636091
+  },
+  "3285 bagnell dam blvd, lake ozark, mo 65049": {
+    "lat": 38.1910352,
+    "lon": -92.6446086
+  },
+  "17015-17017 bel ray blvd, belton, mo 64012": null,
+  "1201 vincent drive, perryville, mo 63775": {
+    "lat": 37.7067666,
+    "lon": -89.8913925
+  },
+  "165 hollister parkway, hollister, mo 65672": {
+    "lat": 36.6062018,
+    "lon": -93.2316811
+  },
+  "105 speedys dr, rock port, mo 64482": null,
+  "8500 ward parkway, kansas city, mo 64114": {
+    "lat": 38.974522,
+    "lon": -94.606989
+  },
+  "1289 mo-84, caruthersville, mo 63830": {
+    "lat": 36.1849745,
+    "lon": -89.6669201
+  },
+  "707 w sunshine st, springfield, mo 65807": {
+    "lat": 37.182687,
+    "lon": -93.3003724
+  },
+  "11642 concord village ave, saint louis, mo 63128": {
+    "lat": 38.5221274,
+    "lon": -90.3604668
+  },
+  "308 ichord ave, waynesville, mo 65583": {
+    "lat": 37.8090666,
+    "lon": -92.2240177
+  },
+  "4293 veterans memorial pkwy, saint peters, mo 63376": {
+    "lat": 38.7961032,
+    "lon": -90.5758456
+  },
+  "3016 s grand blvd, saint louis, mo 63118": {
+    "lat": 38.6033513,
+    "lon": -90.2420446
+  },
+  "884 western ave, manchester, me": {
+    "lat": 44.3253916,
+    "lon": -69.8570171
+  },
+  "23 marginal way, portland, me": {
+    "lat": 43.6616685,
+    "lon": -70.2656229
+  },
+  "745 forest ave, portland, me": {
+    "lat": 43.6742528,
+    "lon": -70.2857428
+  },
+  "152 main street, stratton, me": null,
+  "185 running hill road, south portland, me": {
+    "lat": 43.6351562,
+    "lon": -70.3473124
+  },
+  "198 maine mall rd # 1, south portland, me": null,
+  "137 leeman highway, bath, me": {
+    "lat": 43.9091144,
+    "lon": -69.8259639
+  },
+  "696 main street, rockland, me": {
+    "lat": 44.1111788,
+    "lon": -69.1086999
+  },
+  "60 route 236, berwick, me": {
+    "lat": 43.2624325,
+    "lon": -70.8484634
+  },
+  "601 western ave, manchester, me": {
+    "lat": 44.3214671,
+    "lon": -69.8313204
+  },
+  "1 priest rd, northport, me": {
+    "lat": 44.3463161,
+    "lon": -68.9701153
+  },
+  "469 stillwater ave, bangor, me": {
+    "lat": 44.8259012,
+    "lon": -68.755805
+  },
+  "435 maine street, poland, me": {
+    "lat": 44.0723478,
+    "lon": -70.4125428
+  },
+  "119 skiway road, newry, me": {
+    "lat": 44.4711536,
+    "lon": -70.8432318
+  },
+  "1172 hammond st, bangor, me": {
+    "lat": 44.7888675,
+    "lon": -68.8220999
+  },
+  "3 kind farms way, berwick, me": null,
+  "145 commercial st, portland, me": {
+    "lat": 43.6563268,
+    "lon": -70.2521225
+  },
+  "377 saint john st, portland, me": {
+    "lat": 43.6565366,
+    "lon": -70.2806212
+  },
+  "442 fore st, portland, me": {
+    "lat": 43.6556608,
+    "lon": -70.2547109
+  },
+  "50 mechanic falls rd, poland, me": {
+    "lat": 44.0889948,
+    "lon": -70.3386584
+  },
+  "290 harold l dow highway, eliot, me": {
+    "lat": 43.1649897,
+    "lon": -70.8051263
+  },
+  "55 rome rd unit 2, rome, me": null,
+  "415 hollis rd, hollis center, me": {
+    "lat": 43.6021592,
+    "lon": -70.5927833
+  },
+  "22 sunday river rd unit a, bethel, me": null,
+  "409 main st, rockland, me": {
+    "lat": 44.1044928,
+    "lon": -69.1090234
+  },
+  "613 main st unit c, grand isle, me": null,
+  "373 forest ave, portland, me": {
+    "lat": 43.6645933,
+    "lon": -70.2739336
+  },
+  "684 congress st, portland, me": {
+    "lat": 43.6528999,
+    "lon": -70.267578
+  },
+  "648 turner st, auburn, me": {
+    "lat": 44.1185401,
+    "lon": -70.2329104
+  },
+  "446 western ave, south portland, me": {
+    "lat": 43.6436213,
+    "lon": -70.3302874
+  },
+  "47 india st ste c, portland, me": null,
+  "415 main st, presque isle, me": {
+    "lat": 46.6802573,
+    "lon": -68.0159233
+  },
+  "327 saint john st, portland, me": {
+    "lat": 43.6546977,
+    "lon": -70.279511
+  },
+  "16 north main street, peru, me": {
+    "lat": 44.527419,
+    "lon": -70.4638495
+  },
+  "415 sabattus st ste a, lewiston, me": null,
+  "1716 carl broggi hwy, lebanon, me": {
+    "lat": 43.3368341,
+    "lon": -70.9398461
+  },
+  "223 s main st unit a, solon, me": null,
+  "49 bangor mall blvd, bangor, me": {
+    "lat": 44.8358015,
+    "lon": -68.7465249
+  },
+  "155 new county rd, thomaston, me": null,
+  "132 church rd, brunswick, me": {
+    "lat": 43.9054221,
+    "lon": -69.9949938
+  },
+  "510 portland rd, bridgton, me": {
+    "lat": 44.0213239,
+    "lon": -70.6865827
+  },
+  "475 kennedy memorial dr, waterville, me": {
+    "lat": 44.5457494,
+    "lon": -69.6787249
+  },
+  "11 seal cove rd, southwest harbor, me": {
+    "lat": 44.288317,
+    "lon": -68.3301211
+  },
+  "22 rockwood rd, greenville junction, me": {
+    "lat": 45.4626712,
+    "lon": -69.6228194
+  },
+  "1114 hammond st ste 2, bangor, me": null,
+  "682 main st unit a, south portland, me": null,
+  "152 portland rd, bridgton, me": {
+    "lat": 44.0433337,
+    "lon": -70.6998636
+  },
+  "6 stillwater ave ste 600, orono, me": null,
+  "483 main st, oxford, me": null,
+  "370 fore st, portland, me": {
+    "lat": 43.656534,
+    "lon": -70.2528234
+  },
+  "953 congress st, portland, me": {
+    "lat": 43.6536924,
+    "lon": -70.2794599
+  },
+  "94 portland st unit 1, portland, me": null,
+  "767 western ave, manchester, me": {
+    "lat": 44.3254764,
+    "lon": -69.8456306
+  },
+  "19 park st, milo, me": {
+    "lat": 45.2774677,
+    "lon": -69.0051312
+  },
+  "375 center st, auburn, me": {
+    "lat": 44.1157448,
+    "lon": -70.2241767
+  },
+  "185 pleasant st, rockland, me": {
+    "lat": 44.0988878,
+    "lon": -69.1227436
+  },
+  "740 broadway ste 700, south portland, me": null,
+  "11 storm dr unit 4, windham, me": null,
+  "2 post office mall, newry, me": null,
+  "1215 carrabassett dr, carrabassett valley, me": null,
+  "638 wiscasset rd, boothbay, me": {
+    "lat": 43.9005742,
+    "lon": -69.6254435
+  },
+  "200 gorham rd, south portland, me": {
+    "lat": 43.6332236,
+    "lon": -70.3258482
+  },
+  "1995 medway rd, medway, me": {
+    "lat": 45.6131881,
+    "lon": -68.5319167
+  },
+  "605 congress st unit c, portland, me": null,
+  "109 water st, hallowell, me": {
+    "lat": 44.2864622,
+    "lon": -69.7902751
+  },
+  "7 oxford homes ln unit 1, oxford, me": null,
+  "321 hollis rd, hollis center, me": {
+    "lat": 43.5897378,
+    "lon": -70.6228552
+  },
+  "429 warren ave unit 7, portland, me": null,
+  "1369 atlantic hwy, northport, me": {
+    "lat": 44.3864266,
+    "lon": -68.9884422
+  },
+  "9 exchange st, portland, me": null,
+  "104 fairbanks rd, farmington, me": {
+    "lat": 44.6734507,
+    "lon": -70.1548004
+  },
+  "657 broadway, bangor, me": {
+    "lat": 44.823378,
+    "lon": -68.778837
+  },
+  "1139 stillwater ave unit a, bangor, me": null,
+  "484b wilson st, brewer, me": {
+    "lat": 44.7899575,
+    "lon": -68.7593253
+  },
+  "52 river rd, chelsea, me": {
+    "lat": 44.2903182,
+    "lon": -69.7719355
+  },
+  "115 w broadway unit 2b, lincoln, me": null,
+  "8 main st, lisbon, me": {
+    "lat": 43.9964914,
+    "lon": -70.060932
+  },
+  "1140 brighton ave ste c, portland, me": null,
+  "1 wiggin st, lebanon, me": {
+    "lat": 43.3384816,
+    "lon": -70.9395409
+  },
+  "97 main st, woolwich, me": null,
+  "28 levesque dr ste 3, eliot, me": null,
+  "312 mayville rd unit 4, bethel, me": null,
+  "115 leeman hwy, bath, me": {
+    "lat": 43.9100744,
+    "lon": -69.8239409
+  },
+  "8 crimson dr unit 3, windham, me": null,
+  "602 west bethel road, bethel, me": {
+    "lat": 44.4082528,
+    "lon": -70.8516098
+  },
+  "228 norridgewock rd, fairfield, me": null,
+  "265 us-1, columbia, me": {
+    "lat": 44.6382362,
+    "lon": -67.7694731
+  },
+  "739 main street, lewiston, me": {
+    "lat": 44.1252508,
+    "lon": -70.2009872
+  },
+  "35 bridge st, gardiner, me": {
+    "lat": 44.2308913,
+    "lon": -69.7733891
+  },
+  "532 pigeon hill rd bldg 2, mechanic falls, me": null,
+  "188 unit 2, columbia, me": null,
+  "35 north rd, detroit, me": null,
+  "20 union st unit c, auburn, me": null,
+  "2742 auburn rd, turner, me": {
+    "lat": 44.3567772,
+    "lon": -70.2563329
+  },
+  "465 kennedy memorial dr, waterville, me": {
+    "lat": 44.5454954,
+    "lon": -69.6780882
+  },
+  "36 moosehead trl ste 1, newport, me": null,
+  "1104 carl broggi hwy unit a, lebanon, me": null,
+  "470 auburn rd, turner, me": {
+    "lat": 44.2249093,
+    "lon": -70.2500808
+  },
+  "1150 center st bldg 1 unit b, auburn, me": null,
+  "19 moosehead trl ste 2b, newport, me": null,
+  "684 forest ave, portland, me": {
+    "lat": 43.6713223,
+    "lon": -70.2847427
+  },
+  "268 hammond st, bangor, me": {
+    "lat": 44.8011255,
+    "lon": -68.7770759
+  },
+  "210 new county rd, thomaston, me": null,
+  "85 western ave, south portland, me": {
+    "lat": 43.6349923,
+    "lon": -70.3173328
+  },
+  "1221 carrabassett dr unit b, carrabassett valley, me": null,
+  "53a chapman st, damariscotta, me": {
+    "lat": 44.0331246,
+    "lon": -69.521928
+  },
+  "64 washington ave, portland, me": {
+    "lat": 43.6653744,
+    "lon": -70.2523641
+  },
+  "484 congress st, portland, me": {
+    "lat": 43.6566604,
+    "lon": -70.2597584
+  },
+  "18 american way, eliot, me": {
+    "lat": 43.1361978,
+    "lon": -70.7735389
+  },
+  "325 bath rd, brunswick, me": {
+    "lat": 43.913079,
+    "lon": -69.8938425
+  },
+  "73 main st, woolwich, me": {
+    "lat": 43.915484,
+    "lon": -69.8012378
+  },
+  "72 emery st unit 105, sanford, me": null,
+  "964 auburn rd, turner, me": {
+    "lat": 44.2474934,
+    "lon": -70.26011
+  },
+  "225 first flight dr, auburn, me": null,
+  "202 us route 1, baring plantation, me": {
+    "lat": 45.1283977,
+    "lon": -67.318403
+  },
+  "200 roosevelt trl, casco, me": {
+    "lat": 43.9190228,
+    "lon": -70.5244864
+  },
+  "1048 atlantic hwy, warren, me": {
+    "lat": 44.0986212,
+    "lon": -69.2461118
+  },
+  "325 roosevelt trl, casco, me": {
+    "lat": 43.9262329,
+    "lon": -70.5313414
+  },
+  "419 hill st, biddeford, me": {
+    "lat": 43.4653786,
+    "lon": -70.4774204
+  },
+  "8 business pkwy, brunswick, me": {
+    "lat": 43.9048258,
+    "lon": -70.0003383
+  },
+  "154 mount auburn ave, auburn, me": {
+    "lat": 44.1220462,
+    "lon": -70.240536
+  },
+  "1384 carl broggi hwy bldg b, lebanon, me": null,
+  "341 main st, waterville, me": {
+    "lat": 44.5677299,
+    "lon": -69.6378681
+  },
+  "155 maine mall rd, south portland, me": {
+    "lat": 43.6407676,
+    "lon": -70.334404
+  },
+  "343 gorham rd, south portland, me": {
+    "lat": 43.6366623,
+    "lon": -70.3296595
+  },
+  "911 lisbon st, lewiston, me": {
+    "lat": 44.0828998,
+    "lon": -70.2009419
+  },
+  "1139 augusta rd, rome, me": {
+    "lat": 44.5957983,
+    "lon": -69.9292092
+  },
+  "230 warren ave, portland, me": {
+    "lat": 43.6875999,
+    "lon": -70.3068854
+  },
+  "1674 carl broggi hwy, lebanon, me": {
+    "lat": 43.3397862,
+    "lon": -70.9375345
+  },
+  "84 college ave unit 2, waterville, me": null,
+  "22 smada dr, sanford, me": null,
+  "646 forest ave, portland, me": {
+    "lat": 43.6703003,
+    "lon": -70.2841615
+  },
+  "10 china rd unit 2, winslow, me": null,
+  "6 hudson ave, guilford, me": {
+    "lat": 45.1665759,
+    "lon": -69.3843271
+  },
+  "7 dana st, portland, me": {
+    "lat": 43.6559166,
+    "lon": -70.253288
+  },
+  "27 hancock ln bldg 1, sanford, me": null,
+  "4 wellspring rd, biddeford, me": {
+    "lat": 43.4799269,
+    "lon": -70.4907831
+  },
+  "89 route 236, kittery, me": {
+    "lat": 43.1186062,
+    "lon": -70.7579827
+  },
+  "1 beaver creek farm rd, bridgton, me": {
+    "lat": 44.0179387,
+    "lon": -70.6850519
+  },
+  "791 kittyhawk ave ste 6, auburn, me": null,
+  "640 rockland road, somerville, me": {
+    "lat": 44.2553249,
+    "lon": -69.48601
+  },
+  "588 elm st, biddeford, me": {
+    "lat": 43.466913,
+    "lon": -70.4878151
+  },
+  "790 sabattus st, lewiston, me": {
+    "lat": 44.10344,
+    "lon": -70.1754941
+  },
+  "1364 congress st unit 4, portland, me": null,
+  "15 maclellen dr, eliot, me": null,
+  "140 park st, rockland, me": {
+    "lat": 44.1014399,
+    "lon": -69.1187992
+  },
+  "159 us route 1, bucksport, me": {
+    "lat": 44.5695655,
+    "lon": -68.7749523
+  },
+  "468 portland st, berwick, me": {
+    "lat": 43.2637509,
+    "lon": -70.7809835
+  },
+  "806 sabattus st ste 2, lewiston, me": null,
+  "325 water st, gardiner, me": {
+    "lat": 44.2298773,
+    "lon": -69.773916
+  },
+  "45 wharf st, portland, me": {
+    "lat": 43.6556324,
+    "lon": -70.2545718
+  },
+  "685 wilson st, brewer, me": {
+    "lat": 44.7758081,
+    "lon": -68.7332468
+  },
+  "265 western ave, augusta, me": {
+    "lat": 44.3155718,
+    "lon": -69.8040516
+  },
+  "9 renaissance way ste 3, sanford, me": null,
+  "152 western ave ste 7, augusta, me": null,
+  "292 state st, augusta, me": {
+    "lat": 44.3002714,
+    "lon": -69.7830625
+  },
+  "393 western ave ste 1, augusta, me": null,
+  "1258 main st, oxford, me": {
+    "lat": 44.194582,
+    "lon": -70.888736
+  },
+  "29 western ave, south portland, me": {
+    "lat": 43.6346672,
+    "lon": -70.3158889
+  },
+  "685 congress st, portland, me": {
+    "lat": 43.6533618,
+    "lon": -70.2676313
+  },
+  "31 main ave, gardiner, me": null,
+  "221 dirigo dr, brewer, me": {
+    "lat": 44.7750342,
+    "lon": -68.739602
+  },
+  "222 w broadway unit 2, lincoln, me": null,
+  "253 bethel rd unit a, west paris, me": null,
+  "945 forest ave, portland, me": {
+    "lat": 43.6800698,
+    "lon": -70.2886778
+  },
+  "285 main st, fryeburg, me": null,
+  "564 bath rd, wiscasset, me": {
+    "lat": 43.9797005,
+    "lon": -69.7038459
+  },
+  "445 main st, presque isle, me": {
+    "lat": 46.6808601,
+    "lon": -68.0158412
+  },
+  "27 ocean st ste 1, south portland, me": null,
+  "569 stillwater ave ste c, bangor, me": null,
+  "20 industrial st, waterville, me": {
+    "lat": 44.5697599,
+    "lon": -69.6369839
+  },
+  "8 dexter ln unit 8, kittery, me": null,
+  "460 warren ave, portland, me": {
+    "lat": 43.6867963,
+    "lon": -70.3176688
+  },
+  "32 brook rd bldg 1 unit b, eliot, me": null,
+  "11 ocean park road, old orchard beach, me": {
+    "lat": 43.5080337,
+    "lon": -70.4153844
+  },
+  "829 hogan rd unit 46, bangor, me": null,
+  "1240 lisbon st, lewiston, me": {
+    "lat": 44.0773324,
+    "lon": -70.1869878
+  },
+  "495 harold l dow hwy, eliot, me": {
+    "lat": 43.1461853,
+    "lon": -70.7914279
+  },
+  "1236 congress st, portland, me": {
+    "lat": 43.6571918,
+    "lon": -70.2907023
+  },
+  "363 fore st, portland, me": {
+    "lat": 43.656714,
+    "lon": -70.2528333
+  },
+  "378 western ave, augusta, me": {
+    "lat": 44.3173879,
+    "lon": -69.8153231
+  },
+  "18 federal rd, parsonsfield, me": null,
+  "210 college ave, waterville, me": {
+    "lat": 44.5736367,
+    "lon": -69.6157866
+  },
+  "216 wilton rd, farmington, me": {
+    "lat": 44.6550501,
+    "lon": -70.1505008
   }
 }
