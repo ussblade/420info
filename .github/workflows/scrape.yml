@@ -49,5 +49,6 @@ jobs:
             echo "No changes — skipping commit"
           else
             git commit -m "data: update dispensaries + geocode cache [run ${{ github.run_number }}]"
+            git pull --rebase origin main
             git push origin main
           fi
