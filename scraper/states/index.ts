@@ -3,3 +3,7 @@ export { scrapeCalifornia } from './california';
 export { scrapeOregon } from './oregon';
 export { scrapeWashington } from './washington';
 export { scrapeIllinois } from './illinois';
+export { scrapeNewYork } from './new-york';
+export { scrapeMissouri } from './missouri';
+export { scrapeConnecticut } from './connecticut';
+export { scrapeMaine } from './maine';
