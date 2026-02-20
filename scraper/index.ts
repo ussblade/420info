@@ -21,6 +21,7 @@ import {
   scrapeMissouri,
   scrapeConnecticut,
   scrapeMaine,
+  scrapeMassachusetts,
 } from './states';
 import { loadGeoCache, saveGeoCache } from './geocode';
 
@@ -89,6 +90,7 @@ async function main() {
     scrapeMissouri,
     scrapeConnecticut,
     scrapeMaine,
+    scrapeMassachusetts,
   ];
 
   const allResults: ScrapedDispensary[] = [];

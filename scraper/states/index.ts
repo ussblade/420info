@@ -7,3 +7,4 @@ export { scrapeNewYork } from './new-york';
 export { scrapeMissouri } from './missouri';
 export { scrapeConnecticut } from './connecticut';
 export { scrapeMaine } from './maine';
+export { scrapeMassachusetts } from './massachusetts';
