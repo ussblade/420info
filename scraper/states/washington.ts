@@ -2,9 +2,10 @@
  * Washington WSLCB (WA State Liquor and Cannabis Board) retailer scraper.
  * Source: https://lcb.wa.gov/records/frequently-requested-lists
  *
- * WSLCB publishes a date-stamped XLSX updated ~mid-month.
- * The filename changes each month (e.g. CannabisApplicants02172026.xlsx),
- * so we scrape the landing page first to find the current link.
+ * Actual columns: Tradename | License  | UBI | Street Address | Suite Rm |
+ *                 City | State | county | Zip Code | Priv Desc | Privilege Status | Day Phone
+ *
+ * Filter: Priv Desc = "CANNABIS RETAILER", Privilege Status = "ACTIVE ..." (not CLOSED)
  */
 
 import * as XLSX from 'xlsx';
@@ -22,7 +23,6 @@ async function getCurrentXlsxUrl(): Promise<string | null> {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const html = await response.text();
 
-    // Find href matching CannabisApplicants*.xlsx
     const match = html.match(/href="([^"]*CannabisApplicants[^"]*\.xlsx)"/i);
     if (!match) {
       console.warn('[WA] Could not find CannabisApplicants link on page');
@@ -30,7 +30,6 @@ async function getCurrentXlsxUrl(): Promise<string | null> {
     }
 
     const href = match[1];
-    // Make absolute if relative
     return href.startsWith('http') ? href : `${WSLCB_BASE_URL}${href}`;
   } catch (err) {
     console.error('[WA] Failed to fetch WSLCB page:', err);
@@ -65,9 +64,8 @@ export async function scrapeWashington(): Promise<ScrapedDispensary[]> {
   let records: Record<string, string>[];
   try {
     const workbook = XLSX.read(buffer, { type: 'buffer' });
-    // The file has multiple sheets; find one with retailer data
     const targetSheet =
-      workbook.SheetNames.find(n => /license|applicant|retailer/i.test(n)) ||
+      workbook.SheetNames.find(n => /retailer/i.test(n)) ||
       workbook.SheetNames[0];
     const sheet = workbook.Sheets[targetSheet];
     records = XLSX.utils.sheet_to_json<Record<string, string>>(sheet, {
@@ -80,33 +78,17 @@ export async function scrapeWashington(): Promise<ScrapedDispensary[]> {
     return [];
   }
 
-  if (records.length > 0) {
-    console.log('[WA] Columns:', Object.keys(records[0]).join(' | '));
-    console.log('[WA] Sample row:', JSON.stringify(records[0]));
-  }
-
-  // Filter: active cannabis retailers
+  // Filter: CANNABIS RETAILER privilege, not closed
   const retailers = records.filter(r => {
-    const privilege = (
-      r['Privilege'] ||
-      r['License Type'] ||
-      r['Type'] ||
-      r['Privilege Description'] ||
-      ''
-    ).toLowerCase();
-    const status = (r['License Status'] || r['Status'] || '').toLowerCase();
-
-    const isRetailer =
-      privilege.includes('cannabis retailer') ||
-      privilege.includes('retail cannabis') ||
-      privilege.includes('marijuana retailer');
-    const isActive =
-      !status ||
-      status === 'active' ||
-      status.includes('active') ||
-      status.includes('issued');
-
-    return isRetailer && isActive;
+    const priv = (r['Priv Desc'] || '').trim().toUpperCase();
+    const status = (r['Privilege Status'] || '').trim().toUpperCase();
+    return (
+      priv === 'CANNABIS RETAILER' &&
+      !status.includes('CLOSED') &&
+      !status.includes('CANCELLED') &&
+      !status.includes('REVOKED') &&
+      !status.includes('EXPIRED')
+    );
   });
 
   console.log(`[WA] Found ${retailers.length} active cannabis retailers`);
@@ -114,56 +96,39 @@ export async function scrapeWashington(): Promise<ScrapedDispensary[]> {
   const dispensaries: ScrapedDispensary[] = [];
 
   for (const row of retailers) {
-    const name =
-      row['Tradename'] ||
-      row['Trade Name'] ||
-      row['Business Name'] ||
-      row['Name'] ||
-      '';
+    const name = (row['Tradename'] || '').trim();
     if (!name) continue;
 
-    const address =
-      row['Premise Street'] ||
-      row['Street Address'] ||
-      row['Premise Address'] ||
-      row['Address'] ||
-      '';
-    const city =
-      row['Premise City'] || row['City'] || '';
-    const zip =
-      row['Premise Zip'] || row['Zip Code'] || row['Zip'] || '';
-    const licenseNumber =
-      row['License Number'] || row['UBI'] || '';
-    const phone =
-      row['Phone Number'] || row['Phone'] || '';
+    const street = (row['Street Address'] || '').trim();
+    const suite = (row['Suite Rm'] || '').trim();
+    const address = suite ? `${street} ${suite}`.trim() : street;
+    const city = (row['City'] || '').trim();
+    // Zip Code may have extra digits (e.g. "981038924") — take first 5
+    const zip = (row['Zip Code'] || '').trim().slice(0, 5);
+    const licenseNumber = (row['License '] || '').trim(); // note trailing space in column name
+    const phone = (row['Day Phone'] || '').trim();
 
-    let lat = parseFloat(row['Latitude'] || row['Lat'] || '');
-    let lon = parseFloat(row['Longitude'] || row['Long'] || row['Lon'] || '');
+    if (!address || !city) {
+      console.warn(`[WA] Missing address for: ${name}`);
+      continue;
+    }
 
-    if (isNaN(lat) || isNaN(lon)) {
-      if (!address || !city) {
-        console.warn(`[WA] Missing address for: ${name}`);
-        continue;
-      }
-      const coords = await geocodeAddress(`${address}, ${city}, WA ${zip}`);
-      if (!coords) {
-        console.warn(`[WA] Could not geocode: ${address}, ${city}`);
-        continue;
-      }
-      lat = coords.lat;
-      lon = coords.lon;
+    const coords = await geocodeAddress(`${address}, ${city}, WA ${zip}`);
+    if (!coords) {
+      console.warn(`[WA] Could not geocode: ${address}, ${city}`);
+      continue;
     }
 
     dispensaries.push({
-      name: name.trim(),
-      address: address.trim(),
-      city: city.trim(),
+      name,
+      address,
+      city,
       state: 'WA',
-      zip: zip.trim(),
-      latitude: lat,
-      longitude: lon,
-      phone: phone.trim() || undefined,
-      licenseNumber: licenseNumber.trim() || undefined,
+      zip,
+      latitude: coords.lat,
+      longitude: coords.lon,
+      phone: phone || undefined,
+      licenseNumber: licenseNumber || undefined,
       source: 'scraped',
     });
   }

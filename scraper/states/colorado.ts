@@ -2,16 +2,13 @@
  * Colorado MED (Marijuana Enforcement Division) licensed retailer scraper.
  * Source: https://med.colorado.gov/licensee-information-and-lookup-tool/licensed-facilities
  *
- * The MED maintains a public Google Sheet of licensed facilities.
- * We export it as CSV directly — no auth required.
+ * Actual columns: License Number | Facility Name | DBA | Facility Type | Street | City | ZIP Code | Date Updated
  */
 
 import { parse } from 'csv-parse/sync';
 import { geocodeAddress } from '../geocode';
 import type { ScrapedDispensary } from '../index';
 
-// MED public Google Sheet → CSV export
-// Sheet ID sourced from: https://med.colorado.gov/licensee-information-and-lookup-tool/licensed-facilities
 const MED_CSV_URL =
   'https://docs.google.com/spreadsheets/d/1PqYThJJwGEsrwWvciu9vXosuC0BzAw4YtD03RvlSKzE/export?format=csv&gid=0';
 
@@ -21,10 +18,7 @@ export async function scrapeColorado(): Promise<ScrapedDispensary[]> {
   let csvText: string;
   try {
     const response = await fetch(MED_CSV_URL, {
-      headers: {
-        'User-Agent': '420nearme-scraper/1.0',
-        // Google redirects; follow redirects (default in Node fetch)
-      },
+      headers: { 'User-Agent': '420nearme-scraper/1.0' },
       redirect: 'follow',
     });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -47,15 +41,10 @@ export async function scrapeColorado(): Promise<ScrapedDispensary[]> {
     return [];
   }
 
-  if (records.length > 0) {
-    console.log('[CO] Columns:', Object.keys(records[0]).join(' | '));
-    console.log('[CO] Sample row:', JSON.stringify(records[0]));
-  }
-
-  // Filter to retail marijuana stores
+  // Filter to retail marijuana stores (medical or recreational)
   const retailers = records.filter(r => {
-    const type = Object.values(r).join(' ').toLowerCase();
-    return type.includes('retail') && type.includes('marijuana');
+    const type = (r['Facility Type'] || '').toLowerCase();
+    return type.includes('retail marijuana store');
   });
 
   console.log(`[CO] Found ${retailers.length} retail marijuana stores`);
@@ -63,41 +52,30 @@ export async function scrapeColorado(): Promise<ScrapedDispensary[]> {
   const dispensaries: ScrapedDispensary[] = [];
 
   for (const row of retailers) {
-    // Column names vary — try common variants
-    const name =
-      row['Trade Name'] || row['Licensee'] || row['Business Name'] || row['Name'] || '';
-    const address =
-      row['Street Address'] || row['Address'] || row['Premise Address'] || '';
-    const city = row['City'] || '';
-    const zip = row['Zip'] || row['ZIP'] || row['Postal Code'] || '';
-    const licenseNumber = row['License Number'] || row['License No'] || '';
-    const phone = row['Phone'] || '';
+    // Use DBA (trade name) if available, fall back to Facility Name
+    const name = (row['DBA'] || row['Facility Name'] || '').trim();
+    const address = (row['Street'] || '').trim();
+    const city = (row['City'] || '').trim();
+    const zip = (row['ZIP Code'] || '').trim();
+    const licenseNumber = (row['License Number'] || '').trim();
 
     if (!name || !address || !city) continue;
 
-    let lat = parseFloat(row['Latitude'] || row['Lat'] || '');
-    let lon = parseFloat(row['Longitude'] || row['Long'] || row['Lon'] || '');
-
-    if (isNaN(lat) || isNaN(lon)) {
-      const coords = await geocodeAddress(`${address}, ${city}, CO ${zip}`);
-      if (!coords) {
-        console.warn(`[CO] Could not geocode: ${address}, ${city}`);
-        continue;
-      }
-      lat = coords.lat;
-      lon = coords.lon;
+    const coords = await geocodeAddress(`${address}, ${city}, CO ${zip}`);
+    if (!coords) {
+      console.warn(`[CO] Could not geocode: ${address}, ${city}`);
+      continue;
     }
 
     dispensaries.push({
-      name: name.trim(),
-      address: address.trim(),
-      city: city.trim(),
+      name,
+      address,
+      city,
       state: 'CO',
-      zip: zip.trim(),
-      latitude: lat,
-      longitude: lon,
-      phone: phone.trim() || undefined,
-      licenseNumber: licenseNumber.trim() || undefined,
+      zip,
+      latitude: coords.lat,
+      longitude: coords.lon,
+      licenseNumber: licenseNumber || undefined,
       source: 'scraped',
     });
   }
