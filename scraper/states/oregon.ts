@@ -44,6 +44,11 @@ export async function scrapeOregon(): Promise<ScrapedDispensary[]> {
     return [];
   }
 
+  if (records.length > 0) {
+    console.log('[OR] Columns:', Object.keys(records[0]).join(' | '));
+    console.log('[OR] Sample row:', JSON.stringify(records[0]));
+  }
+
   // Filter to retailers only
   const retailers = records.filter(r => {
     const type = (

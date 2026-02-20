@@ -47,6 +47,11 @@ export async function scrapeColorado(): Promise<ScrapedDispensary[]> {
     return [];
   }
 
+  if (records.length > 0) {
+    console.log('[CO] Columns:', Object.keys(records[0]).join(' | '));
+    console.log('[CO] Sample row:', JSON.stringify(records[0]));
+  }
+
   // Filter to retail marijuana stores
   const retailers = records.filter(r => {
     const type = Object.values(r).join(' ').toLowerCase();

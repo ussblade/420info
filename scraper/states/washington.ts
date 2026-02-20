@@ -80,6 +80,11 @@ export async function scrapeWashington(): Promise<ScrapedDispensary[]> {
     return [];
   }
 
+  if (records.length > 0) {
+    console.log('[WA] Columns:', Object.keys(records[0]).join(' | '));
+    console.log('[WA] Sample row:', JSON.stringify(records[0]));
+  }
+
   // Filter: active cannabis retailers
   const retailers = records.filter(r => {
     const privilege = (
