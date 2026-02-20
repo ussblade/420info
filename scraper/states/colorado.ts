@@ -9,49 +9,52 @@ import { parse } from 'csv-parse/sync';
 import { geocodeAddress } from '../geocode';
 import type { ScrapedDispensary } from '../index';
 
-const MED_CSV_URL =
+// Same workbook, two tabs:
+// gid=0           → Medical Marijuana Stores
+// gid=1679153291  → Retail Marijuana Stores (recreational)
+const MED_MEDICAL_URL =
   'https://docs.google.com/spreadsheets/d/1PqYThJJwGEsrwWvciu9vXosuC0BzAw4YtD03RvlSKzE/export?format=csv&gid=0';
+const MED_RETAIL_URL =
+  'https://docs.google.com/spreadsheets/d/1PqYThJJwGEsrwWvciu9vXosuC0BzAw4YtD03RvlSKzE/export?format=csv&gid=1679153291';
 
-export async function scrapeColorado(): Promise<ScrapedDispensary[]> {
-  console.log('[CO] Fetching MED licensed businesses (Google Sheets CSV)...');
-
-  let csvText: string;
+async function fetchAndParseSheet(url: string, label: string): Promise<Record<string, string>[]> {
   try {
-    const response = await fetch(MED_CSV_URL, {
+    const response = await fetch(url, {
       headers: { 'User-Agent': '420nearme-scraper/1.0' },
       redirect: 'follow',
     });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    csvText = await response.text();
-  } catch (err) {
-    console.error('[CO] Failed to fetch MED sheet:', err);
-    return [];
-  }
-
-  let records: Record<string, string>[];
-  try {
-    records = parse(csvText, {
+    const csvText = await response.text();
+    return parse(csvText, {
       columns: true,
       skip_empty_lines: true,
       trim: true,
       bom: true,
     }) as Record<string, string>[];
   } catch (err) {
-    console.error('[CO] Failed to parse CSV:', err);
+    console.error(`[CO] Failed to fetch ${label}:`, err);
     return [];
   }
+}
 
-  // Log all unique Facility Types present in this sheet
-  const types = [...new Set(records.map(r => r['Facility Type'] || ''))];
-  console.log('[CO] Facility Types found:', types.join(' | '));
+export async function scrapeColorado(): Promise<ScrapedDispensary[]> {
+  console.log('[CO] Fetching MED Medical + Retail Marijuana Store tabs...');
 
-  // Include both Medical and Retail marijuana stores
-  const retailers = records.filter(r => {
+  const [medicalRecords, retailRecords] = await Promise.all([
+    fetchAndParseSheet(MED_MEDICAL_URL, 'Medical tab'),
+    fetchAndParseSheet(MED_RETAIL_URL, 'Retail tab'),
+  ]);
+
+  console.log(`[CO] Medical rows: ${medicalRecords.length}, Retail rows: ${retailRecords.length}`);
+
+  // Combine and filter to store types only
+  const allRecords = [...medicalRecords, ...retailRecords];
+  const retailers = allRecords.filter(r => {
     const type = (r['Facility Type'] || '').toLowerCase();
     return type.includes('marijuana store');
   });
 
-  console.log(`[CO] Found ${retailers.length} marijuana stores`);
+  console.log(`[CO] Found ${retailers.length} total marijuana stores (medical + retail)`);
 
   const dispensaries: ScrapedDispensary[] = [];
 
