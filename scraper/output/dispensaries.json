@@ -1,5 +1,40 @@
 {
-  "generatedAt": "2026-02-20T00:00:00.000Z",
-  "count": 0,
-  "dispensaries": []
+  "generatedAt": "2026-02-20T14:07:54.759Z",
+  "count": 3,
+  "dispensaries": [
+    {
+      "name": "Dispensary 33",
+      "address": "5001 N Clark St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60640",
+      "latitude": 41.9727,
+      "longitude": -87.6618,
+      "phone": "(773) 991-5524",
+      "source": "scraped",
+      "id": "il-dispensary-33-0"
+    },
+    {
+      "name": "Mission Dispensary Chicago",
+      "address": "1818 N Milwaukee Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60647",
+      "latitude": 41.9148,
+      "longitude": -87.6929,
+      "source": "scraped",
+      "id": "il-mission-dispensary-chicago-1"
+    },
+    {
+      "name": "Sunnyside Chicago North",
+      "address": "4102 N Kedzie Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60618",
+      "latitude": 41.9562,
+      "longitude": -87.7166,
+      "source": "scraped",
+      "id": "il-sunnyside-chicago-north-2"
+    }
+  ]
 }
