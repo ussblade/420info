@@ -1,29 +1,36 @@
 /**
  * Colorado MED (Marijuana Enforcement Division) licensed retailer scraper.
- * Source: https://sbg.colorado.gov/med-licensed-businesses
- * The MED publishes a regularly updated CSV of all licensed businesses.
+ * Source: https://med.colorado.gov/licensee-information-and-lookup-tool/licensed-facilities
+ *
+ * The MED maintains a public Google Sheet of licensed facilities.
+ * We export it as CSV directly — no auth required.
  */
 
 import { parse } from 'csv-parse/sync';
 import { geocodeAddress } from '../geocode';
 import type { ScrapedDispensary } from '../index';
 
-// MED publishes a direct CSV download of active licenses
+// MED public Google Sheet → CSV export
+// Sheet ID sourced from: https://med.colorado.gov/licensee-information-and-lookup-tool/licensed-facilities
 const MED_CSV_URL =
-  'https://sbg.colorado.gov/sites/sbg/files/MED%20Licensed%20Businesses.csv';
+  'https://docs.google.com/spreadsheets/d/1PqYThJJwGEsrwWvciu9vXosuC0BzAw4YtD03RvlSKzE/export?format=csv&gid=0';
 
 export async function scrapeColorado(): Promise<ScrapedDispensary[]> {
-  console.log('[CO] Fetching MED licensed businesses CSV...');
+  console.log('[CO] Fetching MED licensed businesses (Google Sheets CSV)...');
 
   let csvText: string;
   try {
     const response = await fetch(MED_CSV_URL, {
-      headers: { 'User-Agent': '420nearme-scraper/1.0' },
+      headers: {
+        'User-Agent': '420nearme-scraper/1.0',
+        // Google redirects; follow redirects (default in Node fetch)
+      },
+      redirect: 'follow',
     });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     csvText = await response.text();
   } catch (err) {
-    console.error('[CO] Failed to fetch MED CSV:', err);
+    console.error('[CO] Failed to fetch MED sheet:', err);
     return [];
   }
 
@@ -34,16 +41,16 @@ export async function scrapeColorado(): Promise<ScrapedDispensary[]> {
       skip_empty_lines: true,
       trim: true,
       bom: true,
-    });
+    }) as Record<string, string>[];
   } catch (err) {
     console.error('[CO] Failed to parse CSV:', err);
     return [];
   }
 
-  // Filter to retail marijuana stores only
+  // Filter to retail marijuana stores
   const retailers = records.filter(r => {
-    const type = (r['License Type'] || r['LicenseType'] || '').toLowerCase();
-    return type.includes('retail marijuana store');
+    const type = Object.values(r).join(' ').toLowerCase();
+    return type.includes('retail') && type.includes('marijuana');
   });
 
   console.log(`[CO] Found ${retailers.length} retail marijuana stores`);
@@ -51,31 +58,29 @@ export async function scrapeColorado(): Promise<ScrapedDispensary[]> {
   const dispensaries: ScrapedDispensary[] = [];
 
   for (const row of retailers) {
-    const name = row['Licensee Name'] || row['LicenseeName'] || '';
-    const licenseNumber = row['License Number'] || row['LicenseNumber'] || '';
-    const address = row['License Address'] || row['LicenseAddress'] || '';
+    // Column names vary — try common variants
+    const name =
+      row['Trade Name'] || row['Licensee'] || row['Business Name'] || row['Name'] || '';
+    const address =
+      row['Street Address'] || row['Address'] || row['Premise Address'] || '';
     const city = row['City'] || '';
-    const zip = row['ZIP'] || row['Zip'] || '';
+    const zip = row['Zip'] || row['ZIP'] || row['Postal Code'] || '';
+    const licenseNumber = row['License Number'] || row['License No'] || '';
     const phone = row['Phone'] || '';
 
-    if (!name || !address) continue;
+    if (!name || !address || !city) continue;
 
-    const fullAddress = `${address}, ${city}, CO ${zip}`;
-    let lat: number | undefined;
-    let lon: number | undefined;
+    let lat = parseFloat(row['Latitude'] || row['Lat'] || '');
+    let lon = parseFloat(row['Longitude'] || row['Long'] || row['Lon'] || '');
 
-    // Geocode if we have a full address
-    if (address && city) {
-      const coords = await geocodeAddress(fullAddress);
-      if (coords) {
-        lat = coords.lat;
-        lon = coords.lon;
+    if (isNaN(lat) || isNaN(lon)) {
+      const coords = await geocodeAddress(`${address}, ${city}, CO ${zip}`);
+      if (!coords) {
+        console.warn(`[CO] Could not geocode: ${address}, ${city}`);
+        continue;
       }
-    }
-
-    if (lat === undefined || lon === undefined) {
-      console.warn(`[CO] Could not geocode: ${fullAddress}`);
-      continue;
+      lat = coords.lat;
+      lon = coords.lon;
     }
 
     dispensaries.push({
@@ -92,6 +97,6 @@ export async function scrapeColorado(): Promise<ScrapedDispensary[]> {
     });
   }
 
-  console.log(`[CO] Geocoded ${dispensaries.length} dispensaries`);
+  console.log(`[CO] Processed ${dispensaries.length} dispensaries`);
   return dispensaries;
 }

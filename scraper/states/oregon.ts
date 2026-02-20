@@ -1,48 +1,57 @@
 /**
  * Oregon OLCC (Oregon Liquor and Cannabis Commission) retailer scraper.
- * Source: https://www.oregon.gov/olcc/marijuana/Pages/Approved-Marijuana-Licenses.aspx
- * OLCC publishes a weekly CSV of approved marijuana licenses.
+ * Source: https://www.oregon.gov/olcc/marijuana/pages/recreational-marijuana-licensee-reports.aspx
+ *
+ * OLCC publishes a stable XLSX file of all cannabis business licenses.
+ * URL: https://www.oregon.gov/olcc/marijuana/Documents/Cannabis-Business-Licenses-All.xlsx
+ * File is overwritten in-place monthly — same URL every time.
  */
 
-import { parse } from 'csv-parse/sync';
+import * as XLSX from 'xlsx';
 import { geocodeAddress } from '../geocode';
 import type { ScrapedDispensary } from '../index';
 
-// OLCC weekly license CSV
-const OLCC_CSV_URL =
-  'https://www.oregon.gov/olcc/marijuana/Documents/Approved_License_List.csv';
+const OLCC_XLSX_URL =
+  'https://www.oregon.gov/olcc/marijuana/Documents/Cannabis-Business-Licenses-All.xlsx';
 
 export async function scrapeOregon(): Promise<ScrapedDispensary[]> {
-  console.log('[OR] Fetching OLCC approved license CSV...');
+  console.log('[OR] Fetching OLCC Cannabis-Business-Licenses-All.xlsx...');
 
-  let csvText: string;
+  let buffer: ArrayBuffer;
   try {
-    const response = await fetch(OLCC_CSV_URL, {
+    const response = await fetch(OLCC_XLSX_URL, {
       headers: { 'User-Agent': '420nearme-scraper/1.0' },
+      redirect: 'follow',
     });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    csvText = await response.text();
+    buffer = await response.arrayBuffer();
   } catch (err) {
-    console.error('[OR] Failed to fetch OLCC CSV:', err);
+    console.error('[OR] Failed to fetch OLCC XLSX:', err);
     return [];
   }
 
   let records: Record<string, string>[];
   try {
-    records = parse(csvText, {
-      columns: true,
-      skip_empty_lines: true,
-      trim: true,
-      bom: true,
+    const workbook = XLSX.read(buffer, { type: 'buffer' });
+    const sheetName = workbook.SheetNames[0];
+    const sheet = workbook.Sheets[sheetName];
+    records = XLSX.utils.sheet_to_json<Record<string, string>>(sheet, {
+      defval: '',
+      raw: false,
     });
   } catch (err) {
-    console.error('[OR] Failed to parse CSV:', err);
+    console.error('[OR] Failed to parse XLSX:', err);
     return [];
   }
 
-  // Filter to recreational retailers (license type = "Recreational Marijuana Retailer")
+  // Filter to retailers only
   const retailers = records.filter(r => {
-    const type = (r['License Type'] || r['LicenseType'] || '').toLowerCase();
+    const type = (
+      r['License Type'] ||
+      r['LicenseType'] ||
+      r['Type'] ||
+      ''
+    ).toLowerCase();
     return type.includes('retailer');
   });
 
@@ -51,23 +60,36 @@ export async function scrapeOregon(): Promise<ScrapedDispensary[]> {
   const dispensaries: ScrapedDispensary[] = [];
 
   for (const row of retailers) {
-    const name = row['Trade Name'] || row['Business Name'] || row['Licensee Name'] || '';
+    const name =
+      row['Trade Name'] ||
+      row['TradeName'] ||
+      row['Business Name'] ||
+      row['Licensee'] ||
+      '';
     if (!name) continue;
 
-    const address = row['Street Address'] || row['Address'] || '';
-    const city = row['City'] || '';
-    const zip = row['Zip Code'] || row['ZIP'] || '';
-    const licenseNumber = row['License Number'] || '';
+    const address =
+      row['Premise Address'] ||
+      row['Street Address'] ||
+      row['Address'] ||
+      row['Premise Street'] ||
+      '';
+    const city = row['Premise City'] || row['City'] || '';
+    const zip = row['Premise Zip'] || row['Zip Code'] || row['Zip'] || '';
+    const licenseNumber = row['License Number'] || row['License No'] || '';
     const phone = row['Phone'] || '';
 
-    let lat = parseFloat(row['Latitude'] || '');
-    let lon = parseFloat(row['Longitude'] || '');
+    let lat = parseFloat(row['Latitude'] || row['Lat'] || '');
+    let lon = parseFloat(row['Longitude'] || row['Lon'] || '');
 
     if (isNaN(lat) || isNaN(lon)) {
-      const fullAddress = `${address}, ${city}, OR ${zip}`;
-      const coords = await geocodeAddress(fullAddress);
+      if (!address || !city) {
+        console.warn(`[OR] Missing address for: ${name}`);
+        continue;
+      }
+      const coords = await geocodeAddress(`${address}, ${city}, OR ${zip}`);
       if (!coords) {
-        console.warn(`[OR] Could not geocode: ${fullAddress}`);
+        console.warn(`[OR] Could not geocode: ${address}, ${city}`);
         continue;
       }
       lat = coords.lat;
@@ -88,6 +110,6 @@ export async function scrapeOregon(): Promise<ScrapedDispensary[]> {
     });
   }
 
-  console.log(`[OR] Geocoded ${dispensaries.length} dispensaries`);
+  console.log(`[OR] Processed ${dispensaries.length} dispensaries`);
   return dispensaries;
 }
