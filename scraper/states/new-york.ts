@@ -51,16 +51,21 @@ export async function scrapeNewYork(): Promise<ScrapedDispensary[]> {
   console.log('[NY] License types:', types.join(' | '));
 
   // Filter to retail dispensaries that are actually open
+  // Operational Status values: 'Active' (open), 'Non-Operational' (not yet open), '' (unknown)
+  // License Status values: 'Active', 'In-Process', 'Expired'
   const retailers = records.filter(r => {
     const type = (r['License Type'] || '').toLowerCase();
     const opStatus = (r['Operational Status'] || '').toLowerCase();
-    return (
-      (type.includes('retail') ||
-        type.includes('caurd') ||
-        type.includes('consumption') ||
-        type.includes('dispensar')) &&
-      opStatus === 'operational'
-    );
+    const licStatus = (r['License Status'] || '').toLowerCase();
+    const isRetailType =
+      type.includes('retail') ||
+      type.includes('caurd') ||
+      type.includes('consumption') ||
+      type.includes('dispensar');
+    // Include if actively operating, or license is active but operational status not set
+    const isOpen =
+      opStatus === 'active' || (licStatus === 'active' && opStatus === '');
+    return isRetailType && isOpen;
   });
 
   console.log(`[NY] Found ${retailers.length} operational retail dispensaries`);
