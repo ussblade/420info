@@ -3722,5 +3722,1277 @@
   "1526, siskiyou blvd ashland, or 97520": {
     "lat": 42.1838644,
     "lon": -122.6888293
+  },
+  "10232 interstate 25, walsenburg, co 81089": null,
+  "1310 factory circle unit a, fort lupton, co 80621": null,
+  "401 16th street, denver, co 80202": {
+    "lat": 39.743321,
+    "lon": -104.989614
+  },
+  "2306 north powers frontage road suite 100, colorado springs, co 80915": null,
+  "417 north commercial street, trinidad, co 81082": {
+    "lat": 37.1713957,
+    "lon": -104.5069807
+  },
+  "505 west 40th avenue, denver, co 80216": {
+    "lat": 39.771809,
+    "lon": -104.9938517
+  },
+  "5403 quebec street, commerce city, co 80022": {
+    "lat": 39.8429735,
+    "lon": -104.903303
+  },
+  "920 west 104th avenue, northglenn, co 80234": {
+    "lat": 39.8850122,
+    "lon": -104.9977553
+  },
+  "1929 highway 550, durango, co 81303": {
+    "lat": 37.2200942,
+    "lon": -107.8489128
+  },
+  "307 main street, antonito, co 81120": {
+    "lat": 37.0741207,
+    "lon": -106.0088894
+  },
+  "3049 delta drive, colorado springs, co 80112": null,
+  "468 south federal boulevard, denver, co 80219": {
+    "lat": 39.708142,
+    "lon": -105.0249766
+  },
+  "922 east hailey lane unit b, pueblo west, co 81007": null,
+  "511 ambassador thompson boulevard, las animas, co 81054": {
+    "lat": 38.0650941,
+    "lon": -103.2203855
+  },
+  "137 west cedar street, trinidad, co 81082": {
+    "lat": 37.1708477,
+    "lon": -104.5075388
+  },
+  "116 santa fe trail drive, trinidad, co 81082": null,
+  "2291 south kalamath street, denver, co 80223": {
+    "lat": 39.6751098,
+    "lon": -105.0007235
+  },
+  "1198 north main unit a, gunnison, co 81230": null,
+  "2750 glenwood drive, suite 8, boulder, co 80304": null,
+  "1630 grand avenue, norwood, co 81423": {
+    "lat": 38.130823,
+    "lon": -108.2891684
+  },
+  "300 west colorado avenue, unit 2c, suites b-h, telluride, co 81435": null,
+  "5312 highway 119, unit b, black hawk, co 80422": null,
+  "161 gregory street, central city, co 80427": {
+    "lat": 39.8000429,
+    "lon": -105.5104298
+  },
+  "260 north broadway, denver, co 80203": {
+    "lat": 39.7203027,
+    "lon": -104.9873619
+  },
+  "1185 camino del rio, durango, co 81301": {
+    "lat": 37.276761,
+    "lon": -107.881718
+  },
+  "890 dublin boulevard suite c, colorado springs, co 80918": null,
+  "720 east durant avenue, unit e-3, aspen, co 81611": null,
+  "5420 arapahoe avenue, suite e, boulder, co 80303": null,
+  "701 east brontosaurus boulevard, dinosaur, co 81610": null,
+  "1563 east bridge street unit b, brighton, co 80601": null,
+  "138 main street, unit 6a, lyons, co 80540": null,
+  "10030 west 27th avenue, wheat ridge, co 80215": {
+    "lat": 39.7557593,
+    "lon": -105.1101047
+  },
+  "2005 bryant street, denver, co 80211": {
+    "lat": 39.7477304,
+    "lon": -105.0190741
+  },
+  "1518 north quince street, denver, co 80220": {
+    "lat": 39.740596,
+    "lon": -104.9019818
+  },
+  "514 bent avenue, las animas, co 81054": {
+    "lat": 38.0675234,
+    "lon": -103.219808
+  },
+  "432 south broadway, denver, co 80209": {
+    "lat": 39.7087927,
+    "lon": -104.9874931
+  },
+  "11 west hampden avenue, suite 102, englewood, co 80110": null,
+  "1537 pearl street, suite b, boulder, co 80302": null,
+  "5290 arapahoe avenue, unit j, boulder, co 80303": null,
+  "1805 airport road, units b2 & b3, breckenridge, co 80424": null,
+  "765 west anemone trail, unit c, dillon, co 80435": null,
+  "1900 airport road, units a1 and a2, breckenridge, co 80424": null,
+  "15200 east 6th avenue unit 1, aurora, co 80011": null,
+  "9462 north federal boulevard, federal heights, co 80260": null,
+  "4343 south buckley road, unit e, aurora, co 80015": null,
+  "973 u.s. highway 85-87  suite 300, walsenburg, co 81089": null,
+  "2034 i-70 frontage road, de beque, co 81630": null,
+  "104 cardinal way, parachute, co 81635": {
+    "lat": 39.4496255,
+    "lon": -108.0515075
+  },
+  "4401 east 46th avenue suite b, denver, co 80216": null,
+  "762 horizon drive, grand junction, co 81506": {
+    "lat": 39.1152039,
+    "lon": -108.5326489
+  },
+  "102 railroad avenue, dolores, co 81323": {
+    "lat": 37.4724419,
+    "lon": -108.5073596
+  },
+  "250 fischer avenue, unit a, grand junction, co 81503": null,
+  "11900 east 33rd avenue, suite 1, aurora, co 80010": null,
+  "3814 walnut street, denver, co 80205": null,
+  "4745 west 38th avenue, denver, co 80212": {
+    "lat": 39.7695643,
+    "lon": -105.048464
+  },
+  "5555 dahlia street unit 1000, commerce city, co 80022": null,
+  "155 north federal boulevard, denver, co 80219": null,
+  "609 east enterprise drive suite #140, pueblo west, co 81007": null,
+  "440 lawrence street, central city, co 80427": {
+    "lat": 39.8014474,
+    "lon": -105.5039613
+  },
+  "655 buggy circle, suite d, carbondale, co 81623": null,
+  "7853 us highway 85, fort lupton, co 80621": {
+    "lat": 40.0884579,
+    "lon": -104.8181199
+  },
+  "422 north commercial street, trinidad, co 81082": {
+    "lat": 37.1715029,
+    "lon": -104.506801
+  },
+  "80 rosalie road, bailey, co 80421": null,
+  "1531 north lebanon road, cortez, co 81321": null,
+  "777 canosa court, denver, co 80204": {
+    "lat": 39.728964,
+    "lon": -105.0201652
+  },
+  "3054 larimer street, denver, co 80205": {
+    "lat": 39.7629066,
+    "lon": -104.9794172
+  },
+  "3995 east 50th avenue, denver, co 80216": {
+    "lat": 39.7873273,
+    "lon": -104.9407712
+  },
+  "5301 vasquez boulevard unit 101, commerce city, co 80022": null,
+  "4405 chambers road unit 101, denver, co 80239": null,
+  "813 smithfield drive, units c & d, fort collins, co 80524": null,
+  "1020 south broadway avenue, cortez, co 81321": null,
+  "135 nevada street, central city, co 80427": {
+    "lat": 39.7995599,
+    "lon": -105.5128091
+  },
+  "250 south main street, longmont, co 80501": {
+    "lat": 40.1534726,
+    "lon": -105.102658
+  },
+  "2020 south broadway, denver, co 80210": {
+    "lat": 39.6797313,
+    "lon": -104.9870592
+  },
+  "879 struthers avenue, grand junction, co 81501": {
+    "lat": 39.0555047,
+    "lon": -108.557859
+  },
+  "125 peach avenue, unit c, palisade, co 81526": null,
+  "1133 bannock street, denver, co 80204": {
+    "lat": 39.7343595,
+    "lon": -104.990354
+  },
+  "2553 sheridan boulevard, edgewater, co 80214": null,
+  "3431 south federal boulevard unit a, englewood, co 80110": null,
+  "5341 west highway 96, pueblo, co 81005": null,
+  "739 horizon drive unit b, grand junction, co 81506": null,
+  "5744 south datura street, littleton, co 80120": {
+    "lat": 39.6123946,
+    "lon": -105.004331
+  },
+  "2205 montebello square drive suite 101, colorado springs, co 80918": null,
+  "42023 highway 112, del norte, co 81132": null,
+  "500 east rogers road, longmont, co 80501": {
+    "lat": 40.1614289,
+    "lon": -105.0812342
+  },
+  "130 west 84th avenue, thornton, co 80260": {
+    "lat": 39.8484508,
+    "lon": -104.9887931
+  },
+  "1201 20th street, denver, co 80202": {
+    "lat": 39.7526077,
+    "lon": -104.9917111
+  },
+  "1100 west dillon road, suite d3, louisville, co 80027": null,
+  "1669 coal creek drive, suite a, lafayette, co 80026": null,
+  "302 pearl street, boulder, co 80302": {
+    "lat": 40.0151476,
+    "lon": -105.2913816
+  },
+  "303 main street front unit a, carbondale, co 81623": null,
+  "755 south grand mesa drive, cedaredge, co 81413": {
+    "lat": 38.8927153,
+    "lon": -107.9281492
+  },
+  "535 yampa avenue  unit 100, craig, co 81625": null,
+  "423 belleview avenue, unit 1,, crested butte, co 81224": null,
+  "322 belleview avenue, suite 101, crested butte, co 81224": null,
+  "12018 west jewell avenue unit b & c, lakewood, co 80228": null,
+  "1110 west virginia avenue unit 1, denver, co 80223": null,
+  "2394 south broadway, denver, co 80210": {
+    "lat": 39.6732318,
+    "lon": -104.9872453
+  },
+  "3480 park avenue west, unit b,, denver, co 80216": null,
+  "990 west 6th avenue, suite 5, denver, co 80204": null,
+  "800 east 3rd street, dinosaur, co 81610": null,
+  "102 tyrannosaurus triangle, dinosaur, co 81610": {
+    "lat": 40.2444698,
+    "lon": -109.0029793
+  },
+  "2028 east colfax avenue, denver, co 80206": {
+    "lat": 39.739911,
+    "lon": -104.9630466
+  },
+  "12170 claude court, northglenn, co 80241": {
+    "lat": 39.9176476,
+    "lon": -104.9596229
+  },
+  "1620 market street, suite 5w, denver, co 80202": null,
+  "2683 east 120th avenue unit b1, thornton, co 80233": null,
+  "6302 east colfax avenue, denver, co 80220": {
+    "lat": 39.740064,
+    "lon": -104.9148789
+  },
+  "1750 30th street unit 12, boulder, co 80301": null,
+  "5190 south boulder road, boulder, co 80303": {
+    "lat": 39.9853823,
+    "lon": -105.2294777
+  },
+  "2675 west 38th avenue, denver, co 80211": {
+    "lat": 39.7695329,
+    "lon": -105.020324
+  },
+  "492 south colorado boulevard, glendale, co 80246": {
+    "lat": 39.7077848,
+    "lon": -104.9401905
+  },
+  "145 east college drive, units 1, 2, 3, 4 & 5, durango, co 81301": null,
+  "930 west byers place, denver, co 80223": {
+    "lat": 39.7121182,
+    "lon": -104.9978713
+  },
+  "5823 east 128th avenue, thornton, co 80602": null,
+  "19151 east quincy avenue, aurora, co 80015": {
+    "lat": 39.6385915,
+    "lon": -104.7647885
+  },
+  "2467 sheridan boulevard, unit b, edgewater, co 80214": null,
+  "1795 airport road, unit a3, breckenridge, co 80424": null,
+  "1250 north grant street, denver, co 80203": {
+    "lat": 39.7287912,
+    "lon": -104.9836082
+  },
+  "409 east hyman avenue, aspen, co 81611": {
+    "lat": 39.188968,
+    "lon": -106.8196143
+  },
+  "119 west colorado avenue, telluride, co 81435": {
+    "lat": 37.9372902,
+    "lon": -107.8110091
+  },
+  "1750 30th street, unit 7, boulder, co 80301": null,
+  "5130 east colfax avenue, denver, co 80220": {
+    "lat": 39.7400561,
+    "lon": -104.927348
+  },
+  "4103 sheridan boulevard, mountain view, co 80212": {
+    "lat": 39.7730769,
+    "lon": -105.053348
+  },
+  "15225 east 6th avenue, aurora, co 80011": {
+    "lat": 39.7256937,
+    "lon": -104.811104
+  },
+  "1845 north federal boulevard #120, denver, co 80204": null,
+  "120 east 36th street, durango, co 81301": {
+    "lat": 37.3047649,
+    "lon": -107.8670278
+  },
+  "310 north belleview avenue, unit 2, crested butte, co 81224": null,
+  "37 county road 232, durango, co 81303": null,
+  "72 suttle street unit g, durango, co 81303": null,
+  "2215 east mississippi avenue, denver, co 80209": {
+    "lat": 39.6967984,
+    "lon": -104.9614603
+  },
+  "2630 west pueblo boulevard suite a, pueblo, co 81004": null,
+  "970 north lincoln street, denver, co 80203": null,
+  "109 main street, romeo, co 81148": {
+    "lat": 37.1743387,
+    "lon": -105.9867456
+  },
+  "327 main street, antonito, co 81120": {
+    "lat": 37.0742864,
+    "lon": -106.0088876
+  },
+  "170 east 3rd street, de beque, co 81630": {
+    "lat": 39.3320028,
+    "lon": -108.2130301
+  },
+  "228 byers avenue, fraser, co 80442": {
+    "lat": 39.945525,
+    "lon": -105.815908
+  },
+  "3475 pine tree square suite e, colorado springs, co 80909": null,
+  "1568 south federal boulevard, denver, co 80219": {
+    "lat": 39.6883656,
+    "lon": -105.0246293
+  },
+  "6858 east evans avenue, denver, co 80224": {
+    "lat": 39.6780713,
+    "lon": -104.9090605
+  },
+  "10455 east colfax avenue, aurora, co 80010": {
+    "lat": 39.7404955,
+    "lon": -104.8661914
+  },
+  "745 east 6th avenue, denver, co 80203": {
+    "lat": 39.7258903,
+    "lon": -104.9779855
+  },
+  "445 north federal boulevard, denver, co 80204": null,
+  "12075 east 40th avenue, denver, co 80239": {
+    "lat": 39.7731327,
+    "lon": -104.848483
+  },
+  "1126 south sheridan boulevard, denver, co 80232": {
+    "lat": 39.6959531,
+    "lon": -105.0527921
+  },
+  "310 st. paul street, denver, co 80206": {
+    "lat": 39.7213419,
+    "lon": -104.9508182
+  },
+  "2601 west alameda avenue, denver, co 80219": {
+    "lat": 39.7114198,
+    "lon": -105.0182049
+  },
+  "2922 south glen avenue, glenwood springs, co 81601": null,
+  "118 santa fe trail, trinidad, co 81082": {
+    "lat": 37.1523688,
+    "lon": -104.5119186
+  },
+  "402 palomino trail, ridgway, co 81432": {
+    "lat": 38.1499029,
+    "lon": -107.745143
+  },
+  "291 east flatiron crossing drive unit b, broomfield, co 80021": null,
+  "605 south havana street, denver, co 80247": {
+    "lat": 39.7053564,
+    "lon": -104.8663193
+  },
+  "5421 rio vista drive suite 200, colorado springs, co 80917": null,
+  "2535 pearl street, boulder, co 80302": null,
+  "11450 cherokee street, units a6 and a7,, northglenn, co 80234": null,
+  "183 west alameda avenue, denver, co 80223": {
+    "lat": 39.7114502,
+    "lon": -104.9919315
+  },
+  "500 west highway 50, unit 103,, gunnison, co 81230": null,
+  "101 west bridge street, unit 1, hotchkiss, co 81419": null,
+  "1901 south havana street, aurora, co 80014": {
+    "lat": 39.6811056,
+    "lon": -104.8660541
+  },
+  "4116 nature center road, pueblo, co 81003": {
+    "lat": 38.2733858,
+    "lon": -104.6648238
+  },
+  "1410 argentine street, georgetown, co 80444": {
+    "lat": 39.7139987,
+    "lon": -105.6949662
+  },
+  "2280 south quebec street unit g, denver, co 80231": null,
+  "4401 zenobia street, denver, co 80212": {
+    "lat": 39.77671,
+    "lon": -105.0525651
+  },
+  "1755 south broadway, denver, co 80210": {
+    "lat": 39.6847917,
+    "lon": -104.9876464
+  },
+  "503 havana street, aurora, co 80010": null,
+  "401 4th avenue, fort garland, co 81133": {
+    "lat": 37.4276958,
+    "lon": -105.4360771
+  },
+  "2636 youngfield street, lakewood, co 80215": {
+    "lat": 39.7547316,
+    "lon": -105.1420901
+  },
+  "1410 south santa fe drive, denver, co 80223": {
+    "lat": 39.6910755,
+    "lon": -104.9922031
+  },
+  "4620 north peoria street, denver, co 80239": {
+    "lat": 39.780238,
+    "lon": -104.8469107
+  },
+  "605 grand avenue, grand junction, co 81501": {
+    "lat": 39.0700328,
+    "lon": -108.5624997
+  },
+  "1101 village road ul4b & ul5b, carbondale, co 81623": null,
+  "227 east victory way, craig, co 81625": {
+    "lat": 40.514352,
+    "lon": -107.5446374
+  },
+  "213 us highway 85 building 2, ault, co 80610": null,
+  "2313 colorado boulevard, idaho springs, co 80452": {
+    "lat": 39.7436748,
+    "lon": -105.5259641
+  },
+  "78902 us highway 40, winter park, co 80482": null,
+  "970 south oneida street, unit 15, denver, co 80224": null,
+  "150 south columbine court, unit 100, parachute, co 81635": null,
+  "3955 north oneida street, denver, co 80207": {
+    "lat": 39.77199,
+    "lon": -104.907892
+  },
+  "706 east 17th avenue suite 102, denver, co 80203": null,
+  "6651 north tower road, suite 120, denver, co 80249": null,
+  "1819 east main street, cortez, co 81321": {
+    "lat": 37.3487201,
+    "lon": -108.5624622
+  },
+  "7289 east hampden avenue, denver, co 80224": {
+    "lat": 39.653196,
+    "lon": -104.9036547
+  },
+  "836 north highway 50 business loop, olathe, co 81425": {
+    "lat": 38.6145333,
+    "lon": -107.9825896
+  },
+  "4335 north academy boulevard suite 100, colorado springs, co 80918": null,
+  "1052 south quebec street, denver, co 80231": {
+    "lat": 39.6969625,
+    "lon": -104.9036264
+  },
+  "755 south federal boulevard, units 4 & 5, denver, co 80219": null,
+  "5320 us highway 285, antonito, co 81120": null,
+  "5101 east colfax avenue, denver, co 80220": {
+    "lat": 39.740218,
+    "lon": -104.928498
+  },
+  "4615 east colfax avenue, denver, co 80220": {
+    "lat": 39.7402173,
+    "lon": -104.9334009
+  },
+  "67 north silicon drive, unit 130, pueblo west, co 81007": null,
+  "901 west new york avenue unit b, gunnison, co 81230": null,
+  "500 west highway 50, unit 101, gunnison, co 81230": null,
+  "716 grand avenue, glenwood springs, co 81601": {
+    "lat": 39.5475744,
+    "lon": -107.3245833
+  },
+  "5702 east colfax avenue, denver, co 80220": {
+    "lat": 39.740057,
+    "lon": -104.9214871
+  },
+  "875 crane ridge drive, pueblo, co 81008": null,
+  "40 south main street, alma, co 80420": {
+    "lat": 39.2827791,
+    "lon": -106.061623
+  },
+  "6700 lookout road, suite 5, boulder, co 80301": null,
+  "408 east fillmore street suite 110, colorado springs, co 80907": null,
+  "419 west 13th avenue, denver, co 80204": {
+    "lat": 39.7369379,
+    "lon": -104.9932573
+  },
+  "2102 airport road  suite a, rifle, co 81650": null,
+  "1269 north elati street, denver, co 80204": null,
+  "3480 south galena street unit b-4, denver, co 80231": null,
+  "2149 eagle drive, pagosa springs, co 81147": {
+    "lat": 37.2692096,
+    "lon": -107.0479856
+  },
+  "600 cloman boulevard, units 1 & 2, pagosa springs, co 81147": null,
+  "254 south railroad avenue, parachute, co 81635": {
+    "lat": 39.4549385,
+    "lon": -108.0522463
+  },
+  "11002 east yale avenue unit a, aurora, co 80010": null,
+  "1568 south broadway, denver, co 80210": {
+    "lat": 39.6881799,
+    "lon": -104.9873124
+  },
+  "1178 south kalamath street, denver, co 80223": {
+    "lat": 39.6953391,
+    "lon": -105.0002192
+  },
+  "38 north silicon drive, pueblo west, co 81007": null,
+  "8910 south interstate 25, pueblo, co 81004": null,
+  "17280 north frontage road, log lane village, co 80705": {
+    "lat": 40.2667694,
+    "lon": -103.8255336
+  },
+  "2506 6th avenue, garden city, co 80631": {
+    "lat": 40.3967964,
+    "lon": -104.6874197
+  },
+  "114 first street, unit a, sedgwick, co 80749": null,
+  "123 us highway 85, ault, co 80610": {
+    "lat": 40.5816645,
+    "lon": -104.7313926
+  },
+  "1330 factory circle, fort lupton, co 80621": {
+    "lat": 40.0933125,
+    "lon": -104.8139268
+  },
+  "2255 west victory way, craig, co 81625": {
+    "lat": 40.5142091,
+    "lon": -107.5732023
+  },
+  "2105 leisure lane, sterling, co 80751": {
+    "lat": 40.6214285,
+    "lon": -103.1689836
+  },
+  "791 pine ridge road unit 4, golden, co 80403": null,
+  "843 west agate avenue, unit a, granby, co 80446": null,
+  "2818 colorado boulevard, idaho springs, co 80452": {
+    "lat": 39.7416729,
+    "lon": -105.5001327
+  },
+  "1325 south public road, lafayette, co 80026": null,
+  "1655 courtesy road, louisville, co 80027": {
+    "lat": 39.9862297,
+    "lon": -105.1282453
+  },
+  "4170 ute highway, lyons, co 80540": {
+    "lat": 40.2168596,
+    "lon": -105.2575881
+  },
+  "92 east 1st street unit a, nederland, co 80466": null,
+  "11919 washington street, northglenn, co 80233": {
+    "lat": 39.9129784,
+    "lon": -104.9783368
+  },
+  "742 1/2 main avenue, durango, co 81301": {
+    "lat": 37.2970654,
+    "lon": -107.8723824
+  },
+  "730 south camino del rio, durango, co 81301": {
+    "lat": 37.244357,
+    "lon": -107.872261
+  },
+  "235 bastille drive, pagosa springs, co 81147": {
+    "lat": 37.2538409,
+    "lon": -107.0833798
+  },
+  "270 east pagosa street, pagosa springs, co 81147": null,
+  "2431 south university boulevard, denver, co 80210": {
+    "lat": 39.6724715,
+    "lon": -104.9597021
+  },
+  "115 harrison avenue, leadville, co 80461": {
+    "lat": 39.2446951,
+    "lon": -106.2905111
+  },
+  "78 north precision drive, pueblo west, co 81007": null,
+  "127 goldmine drive, pagosa springs, co 81147": null,
+  "6260 south gun club road, aurora, co 80016": {
+    "lat": 39.6025572,
+    "lon": -104.7156415
+  },
+  "3615 south tamarac drive unit 110, denver, co 80237": null,
+  "71463 us highway 550, unit a,, silverton, co 81433": null,
+  "123 west cedar street, trinidad, co 81082": {
+    "lat": 37.170852,
+    "lon": -104.5075211
+  },
+  "932 south avenue, grand junction, co 81501": {
+    "lat": 39.0637078,
+    "lon": -108.5566852
+  },
+  "5854 rawhide court, boulder, co 80302": {
+    "lat": 40.0807789,
+    "lon": -105.2810285
+  },
+  "16 kearns road suite 202, snowmass village, co 81615": null,
+  "2043 16th street, boulder, co 80302": {
+    "lat": 40.01977,
+    "lon": -105.2753688
+  },
+  "6617 south college avenue building a, fort collins, co 80525": null,
+  "9800 north 119th street, longmont, co 80501": {
+    "lat": 40.1537089,
+    "lon": -105.0737821
+  },
+  "33 west victory way, craig, co 81625": {
+    "lat": 40.5143144,
+    "lon": -107.5477305
+  },
+  "690 west victory way, craig, co 81625": {
+    "lat": 40.514282,
+    "lon": -107.5556006
+  },
+  "901 north highway 50 business loop, olathe, co 81425": {
+    "lat": 38.6145333,
+    "lon": -107.9825896
+  },
+  "150 wulfsohn road, glenwood springs, co 81601": {
+    "lat": 39.5538563,
+    "lon": -107.3440437
+  },
+  "4550 highway 6 and 24 unit a, de beque, co 81630": null,
+  "335 6th street, las animas, co 81054": {
+    "lat": 38.0662656,
+    "lon": -103.2204345
+  },
+  "380 north quivas street, denver, co 80223": {
+    "lat": 39.7223473,
+    "lon": -105.0067444
+  },
+  "110 main street, san luis, co 81152": {
+    "lat": 37.1969088,
+    "lon": -105.4275499
+  },
+  "389 wadsworth boulevard, lakewood, co 80226": {
+    "lat": 39.7215953,
+    "lon": -105.0820302
+  },
+  "332 bent avenue, las animas, co 81054": null,
+  "23 north highway 17, hooper, co 81136": null,
+  "2539 pearl street, boulder, co 80302": {
+    "lat": 40.0217978,
+    "lon": -105.2620311
+  },
+  "16821 east iliff avenue, aurora, co 80014": {
+    "lat": 39.6737491,
+    "lon": -104.7920714
+  },
+  "2565 north interstate 25, pueblo, co 81008": null,
+  "8860 federal boulevard, suite 66e, federal heights, co 80260": null,
+  "1239 southgate place, pueblo, co 81004": null,
+  "5846 dahlia street, commerce city, co 80022": {
+    "lat": 39.8029793,
+    "lon": -104.9313026
+  },
+  "1401 north peoria street, aurora, co 80011": {
+    "lat": 39.738837,
+    "lon": -104.84715
+  },
+  "19201 east colfax avenue, aurora, co 80011": {
+    "lat": 39.740333,
+    "lon": -104.7669953
+  },
+  "7795 east belleview avenue unit 2, denver, co 80237": null,
+  "130 maine street, unit b, log lane village, co 80705": null,
+  "137 nickel street, broomfield, co 80020": null,
+  "2020 south colorado boulevard, denver, co 80222": {
+    "lat": 39.6797448,
+    "lon": -104.9404358
+  },
+  "3600 south wadsworth boulevard units c d & e, lakewood, co 80235": null,
+  "129 n. 3rd street unit 1,2,3, sterling, co 80751": null,
+  "800 west rio grande avenue, gunnison, co 81230": {
+    "lat": 38.5380672,
+    "lon": -106.9308368
+  },
+  "1413 hecla way, louisville, co 80027": {
+    "lat": 39.9882903,
+    "lon": -105.1224106
+  },
+  "4490 west 121st avenue suite 8, broomfield, co 80020": null,
+  "4444 south federal boulevard, sheridan, co 80110": {
+    "lat": 39.636116,
+    "lon": -105.025275
+  },
+  "2648 patterson road, unit c, grand junction, co 81506": null,
+  "20 east 9th avenue, denver, co 80203": {
+    "lat": 39.7302967,
+    "lon": -104.9866622
+  },
+  "1750 30th street unit 84a, boulder, co 80301": null,
+  "1995 west midway boulevard, broomfield, co 80020": {
+    "lat": 39.9224019,
+    "lon": -105.0917011
+  },
+  "206 elm drive, log lane village, co 80705": {
+    "lat": 40.2696117,
+    "lon": -103.8295737
+  },
+  "1472 east chestnut street, sterling, co 80751": {
+    "lat": 40.6192478,
+    "lon": -103.1900688
+  },
+  "336 east chestnut street, sterling, co 80751": {
+    "lat": 40.6192478,
+    "lon": -103.1900688
+  },
+  "411 north commercial street, trinidad, co 81082": {
+    "lat": 37.1713384,
+    "lon": -104.5069583
+  },
+  "413 north commercial street, trinidad, co 81082": {
+    "lat": 37.1713575,
+    "lon": -104.5069657
+  },
+  "401 west main street, trinidad, co 81082": {
+    "lat": 37.167417,
+    "lon": -104.508143
+  },
+  "927 highway 3, durango, co 81301": {
+    "lat": 37.2633606,
+    "lon": -107.8740648
+  },
+  "50562 county road u, saguache, co 81149": null,
+  "9206 east hampden avenue, denver, co 80231": {
+    "lat": 39.6529764,
+    "lon": -104.8809264
+  },
+  "329 belleview avenue, unit a, crested butte, co 81224": null,
+  "5440 west 44th avenue, mountain view, co 80212": {
+    "lat": 39.7765226,
+    "lon": -105.0560465
+  },
+  "611 east 6th street, ordway, co 81063": {
+    "lat": 38.2216322,
+    "lon": -103.7547188
+  },
+  "1315 elm avenue, rocky ford, co 81067": {
+    "lat": 38.050972,
+    "lon": -103.7121578
+  },
+  "420 bent avenue, las animas, co 81054": {
+    "lat": 38.0686313,
+    "lon": -103.2197909
+  },
+  "8151 east colfax avenue, denver, co 80220": {
+    "lat": 39.7403083,
+    "lon": -104.893082
+  },
+  "2001 south broadway, denver, co 80210": {
+    "lat": 39.680203,
+    "lon": -104.987677
+  },
+  "8080 east mississippi avenue, denver, co 80247": {
+    "lat": 39.6965148,
+    "lon": -104.8950626
+  },
+  "3954 north williams street, denver, co 80205": null,
+  "6745 west mississippi avenue, lakewood, co 80226": {
+    "lat": 39.6965991,
+    "lon": -105.0700452
+  },
+  "513 north main street, alma, co 80420": {
+    "lat": 39.2886359,
+    "lon": -106.0660805
+  },
+  "439 east main street, cortez, co 81321": {
+    "lat": 37.34839,
+    "lon": -108.579083
+  },
+  "1644 county road 203, durango, co 81301": {
+    "lat": 37.3219931,
+    "lon": -107.8517289
+  },
+  "157 jasper place, ridgway, co 81432": null,
+  "1330 greene street, silverton, co 81433": {
+    "lat": 37.8128222,
+    "lon": -107.6630941
+  },
+  "735 east jefferson avenue, hayden, co 81639": {
+    "lat": 40.4964951,
+    "lon": -107.2526088
+  },
+  "5068 north federal boulevard, denver, co 80221": null,
+  "6712 south college avenue, fort collins, co 80525": {
+    "lat": 40.4930065,
+    "lon": -105.0769516
+  },
+  "260 santa fe drive, denver, co 80223": null,
+  "17224 north frontage road, log lane village, co 80705": {
+    "lat": 40.2667694,
+    "lon": -103.8255336
+  },
+  "3220 center drive, milliken, co 80543": null,
+  "83 davidson creek road, durango, co 81301": {
+    "lat": 37.2292754,
+    "lon": -107.8253556
+  },
+  "8310 washington street, denver, co 80229": {
+    "lat": 39.7383503,
+    "lon": -104.9787394
+  },
+  "17120 west colfax avenue, golden, co 80401": {
+    "lat": 39.7235339,
+    "lon": -105.1926814
+  },
+  "57 edwards access road, units 19 and 20, edwards, co 81632": null,
+  "3473 main avenue, units 10 &11, durango, co 81301": null,
+  "135 south spruce street, telluride, co 81435": {
+    "lat": 37.9362875,
+    "lon": -107.8101447
+  },
+  "119 grand avenue, paonia, co 81428": {
+    "lat": 38.8660077,
+    "lon": -107.5977549
+  },
+  "420 east brontosaurus boulevard, dinosaur, co 81610": null,
+  "1795 airport road, unit a-2, breckenridge, co 80424": null,
+  "601 us highway 85/87, walsenburg, co 81089": null,
+  "503 patton street, cortez, co 81321": null,
+  "1003 west tomichi avenue, gunnison, co 81230": {
+    "lat": 38.544384,
+    "lon": -106.9393355
+  },
+  "1805 santa fe drive, unit e, pueblo, co 81006": null,
+  "1400 van buren street, trinidad, co 81082": {
+    "lat": 37.1612691,
+    "lon": -104.5138519
+  },
+  "1 west 1st street, unit 1d, nederland, co 80466": null,
+  "9085 west 44th avenue, wheat ridge, co 80033": {
+    "lat": 39.778158,
+    "lon": -105.098401
+  },
+  "18475 west colfax avenue suite 140a, golden, co 80401": null,
+  "1405 santa fe drive, pueblo, co 81006": {
+    "lat": 38.2457534,
+    "lon": -104.5826731
+  },
+  "1101 poplar street, leadville, co 80461": {
+    "lat": 39.2533177,
+    "lon": -106.2914531
+  },
+  "318 charles street, buena vista, co 81211": null,
+  "911 east main street, trinidad, co 81082": {
+    "lat": 37.1718377,
+    "lon": -104.4966442
+  },
+  "140 railroad avenue, sedgwick, co 80749": {
+    "lat": 37.4831067,
+    "lon": -97.6436669
+  },
+  "19005 east quincy avenue, aurora, co 80015": {
+    "lat": 39.6389644,
+    "lon": -104.7664399
+  },
+  "614 arizona avenue, trinidad, co 81082": {
+    "lat": 37.1735451,
+    "lon": -104.5086716
+  },
+  "3121 east colfax avenue, denver, co 80206": {
+    "lat": 39.7404078,
+    "lon": -104.950598
+  },
+  "21950 highway 285, fairplay, co 80440": null,
+  "3997 water lily drive unit 8, wellington, co 80549": null,
+  "1905 north academy boulevard, colorado springs, co 80909": {
+    "lat": 38.8598667,
+    "lon": -104.7574428
+  },
+  "207 west rockrimmon boulevard, colorado springs, co 80919": {
+    "lat": 38.9277101,
+    "lon": -104.8312283
+  },
+  "8025 north academy boulevard, colorado springs, co 80919": {
+    "lat": 38.9484715,
+    "lon": -104.8037292
+  },
+  "4182 east virginia avenue, unit c, glendale, co 80246": null,
+  "1435 airport road, rifle, co 81650": {
+    "lat": 39.522458,
+    "lon": -107.7641965
+  },
+  "502 front street, silt, co 81652": {
+    "lat": 39.5465225,
+    "lon": -107.6577465
+  },
+  "620 east 58th avenue, denver, co 80216": {
+    "lat": 39.8012857,
+    "lon": -104.9784914
+  },
+  "308 south hunter street, aspen, co 81611": {
+    "lat": 39.1882101,
+    "lon": -106.8171976
+  },
+  "850 little beaver trail, dillon, co 80435": {
+    "lat": 39.6299829,
+    "lon": -106.0605389
+  },
+  "1155 south colorado boulevard, denver, co 80246": {
+    "lat": 39.6955627,
+    "lon": -104.9411322
+  },
+  "3140 santa fe trail, trinidad, co 81082": {
+    "lat": 37.1523688,
+    "lon": -104.5119186
+  },
+  "3504 north elizabeth street, pueblo, co 81008": {
+    "lat": 38.3256647,
+    "lon": -104.6163279
+  },
+  "748 east industrial boulevard, pueblo west, co 81007": {
+    "lat": 38.3325408,
+    "lon": -104.7110324
+  },
+  "153 us highway 550  unit 102, ridgway, co 81432": null,
+  "40928 us highway 6  unit 2b, avon, co 81620": null,
+  "3901 east 112th avenue, unit g, thornton, co 80233": null,
+  "3000 folsom street, boulder, co 80304": {
+    "lat": 40.0297063,
+    "lon": -105.2628885
+  },
+  "1712 south chambers road, aurora, co 80017": {
+    "lat": 39.6853654,
+    "lon": -104.8097885
+  },
+  "34132 highway 285, villa grove, co 81155": null,
+  "7595 west highway 50, salida, co 81201": null,
+  "827 north main street, gunnison, co 81230": {
+    "lat": 38.5529024,
+    "lon": -106.9274743
+  },
+  "356 east pagosa street, unit b, pagosa springs, co 81147": null,
+  "10100 east montview boulevard, aurora, co 80010": null,
+  "14655 east arapahoe road, unit b, aurora, co 80016": null,
+  "5844 dahlia street, commerce city, co 80022": {
+    "lat": 39.8029479,
+    "lon": -104.9313073
+  },
+  "4690 north brighton boulevard, denver, co 80216": {
+    "lat": 39.781709,
+    "lon": -104.9665647
+  },
+  "1451 cortez street unit a, denver, co 80221": null,
+  "9000 federal boulevard, unit b, federal heights, co 80260": null,
+  "7521 ute highway, longmont, co 80503": {
+    "lat": 40.203282,
+    "lon": -105.1409108
+  },
+  "1156 west dillon road, unit 3, louisville, co 80027": null,
+  "6924 north 79th street, niwot, co 80503": {
+    "lat": 40.1288247,
+    "lon": -105.1689648
+  },
+  "4305 thatcher avenue, pueblo, co 81005": {
+    "lat": 38.258452,
+    "lon": -104.665912
+  },
+  "428 south mcculloch boulevard, building a, pueblo west, co 81007": null,
+  "78259 us 40 unit b, winter park, co 804820594": null,
+  "3003 west northern avenue, pueblo, co 81005": {
+    "lat": 38.2440938,
+    "lon": -104.6461217
+  },
+  "4301 south santa fe drive, sheridan, co 80110": {
+    "lat": 39.6429498,
+    "lon": -105.0054642
+  },
+  "10625 east 51st avenue, unit 100, denver, co 80239": null,
+  "110 santa fe trail, trinidad, co 81082": {
+    "lat": 37.1523688,
+    "lon": -104.5119186
+  },
+  "520 east cooper avenue, units ll2 & ll3, aspen, co 81611": null,
+  "2119 larimer street, unit 1, denver, co 80205": null,
+  "2748 west alameda avenue, denver, co 80219": {
+    "lat": 39.7109545,
+    "lon": -105.0217575
+  },
+  "23 mel ray road, glenwood springs, co 81601": null,
+  "1063 courtesy road, louisville, co 80027": null,
+  "972 west dillon road  unit b, louisville, co 80027": null,
+  "393 east 2nd street, unit 6, parachute, co 81635": null,
+  "2000 west 32nd avenue, denver, co 80211": {
+    "lat": 39.7618722,
+    "lon": -105.0113943
+  },
+  "2331 east ohio avenue, denver, co 80209": {
+    "lat": 39.7021162,
+    "lon": -104.960121
+  },
+  "5275 quebec street, unit 105, commerce city, co 80022": null,
+  "5156 centennial boulevard, colorado springs, co 80919": {
+    "lat": 38.905089,
+    "lon": -104.8639584
+  },
+  "410 south 8th street unit b, colorado springs, co 80905": null,
+  "511 zerex street  suite 203, fraser, co 80442": null,
+  "3701 south santa fe drive unit 7, sheridan, co 80110": null,
+  "2262 south broadway street, denver, co 80210": {
+    "lat": 39.7254069,
+    "lon": -104.9873766
+  },
+  "2801 iris avenue, boulder, co 80301": {
+    "lat": 40.036542,
+    "lon": -105.257038
+  },
+  "6299 federal boulevard, denver, co 80221": {
+    "lat": 39.778195,
+    "lon": -105.0251602
+  },
+  "5740 south college avenue unit a, fort collins, co 80525": null,
+  "7840 6th street, wellington, co 80549": {
+    "lat": 40.6982538,
+    "lon": -105.0004107
+  },
+  "18494 east 104th avenue unit 100, commerce city, co 80022": null,
+  "1077 county road 308, dumont, co 80436": null,
+  "3377 south interstate 25, pueblo, co 81004": null,
+  "29577 highway 159, fort garland, co 81133": {
+    "lat": 37.4265993,
+    "lon": -105.4310239
+  },
+  "3390 28th street, boulder, co 80301": {
+    "lat": 40.0361945,
+    "lon": -105.2579304
+  },
+  "695 north broadway, cortez, co 81321": {
+    "lat": 37.3558088,
+    "lon": -108.5899734
+  },
+  "385 north willow street, mancos, co 81328": {
+    "lat": 37.3478785,
+    "lon": -108.2964541
+  },
+  "138 east main street, naturita, co 81422": null,
+  "400 east hyman avenue, unit a102, aspen, co 81611": null,
+  "165 southside drive, basalt, co 81621": {
+    "lat": 39.3632554,
+    "lon": -107.0372127
+  },
+  "1 broadway, unit a-150, denver, co 80203": null,
+  "40690 highway 6, suite e-2, avon, co 81620": null,
+  "210 edwards village boulevard, suite b110, edwards, co 81632": null,
+  "1795 folsom street, boulder, co 80302": {
+    "lat": 40.0153056,
+    "lon": -105.2631604
+  },
+  "1198 b north main street, gunnison, co 81230": {
+    "lat": 38.5563736,
+    "lon": -106.926906
+  },
+  "145 front street, leadville, co 80461": {
+    "lat": 39.2406341,
+    "lon": -106.3002809
+  },
+  "650 20th avenue, longmont, co 80501": {
+    "lat": 40.1942077,
+    "lon": -105.1033406
+  },
+  "5370 manhattan circle, suite 104,, boulder, co 80303": null,
+  "11091 east mississippi avenue, suite a, aurora, co 80012": null,
+  "2440 interstate 25 north  unit b, pueblo, co 81008": null,
+  "5420 arapahoe avenue  unit d, boulder, co 80303": null,
+  "2117 larimer street unit 1, denver, co 80205": null,
+  "2042 south bannock street, denver, co 80223": {
+    "lat": 39.6793381,
+    "lon": -104.9897442
+  },
+  "4071 ute highway, lyons, co 80503": {
+    "lat": 40.220887,
+    "lon": -105.262758
+  },
+  "309 belleview avenue, unit 1a, crested butte, co 81224": null,
+  "248 east us highway 50, salida, co 81201": null,
+  "2897 mapleton avenue, suite 800, boulder, co 80301": null,
+  "825 a chambers avenue, eagle, co 81631": {
+    "lat": 39.6586082,
+    "lon": -106.8268077
+  },
+  "16840 east iliff avenue, aurora, co 80013": {
+    "lat": 39.6735841,
+    "lon": -104.7918423
+  },
+  "330 east colfax avenue, denver, co 80203": {
+    "lat": 39.7398823,
+    "lon": -104.982565
+  },
+  "1724 south broadway, denver, co 80210": {
+    "lat": 39.6852697,
+    "lon": -104.9874298
+  },
+  "2285 north interstate 25, pueblo, co 81008": null,
+  "1119 syracuse street, denver, co 80220": null,
+  "340 west main street, naturita, co 81422": {
+    "lat": 38.2175378,
+    "lon": -108.5719137
+  },
+  "250 south fir street units 5 & 6, telluride, co 81435": null,
+  "1428 north circle drive unit 2, colorado springs, co 80909": null,
+  "840 oak street, suites a, b & c, salida, co 81201": null,
+  "420 wine valley road, palisade, co 81526": null,
+  "404 north greenwood street, pueblo, co 81003": {
+    "lat": 38.2708157,
+    "lon": -104.6129325
+  },
+  "965 1/2  main avenue, durango, co 81301": null,
+  "74 north component drive unit 130, pueblo west, co 81007": null,
+  "248 east first street, parachute, co 81635": null,
+  "10195 east montview boulevard, aurora, co 80010": {
+    "lat": 39.7477214,
+    "lon": -104.869564
+  },
+  "14301 east colfax avenue, aurora, co 80011": {
+    "lat": 39.740769,
+    "lon": -104.8211076
+  },
+  "350 south potomac street, aurora, co 80012": {
+    "lat": 39.710117,
+    "lon": -104.827872
+  },
+  "3179 south peoria court, aurora, co 80014": {
+    "lat": 39.6588024,
+    "lon": -104.8482665
+  },
+  "19370 east quincy avenue, aurora, co 80015": {
+    "lat": 39.6379956,
+    "lon": -104.7614965
+  },
+  "1995 wewatta street, denver, co 80202": {
+    "lat": 39.7567081,
+    "lon": -104.9980168
+  },
+  "4400 grape street, denver, co 80216": {
+    "lat": 39.7774865,
+    "lon": -104.9245339
+  },
+  "6681 federal boulevard, denver, co 80221": {
+    "lat": 39.778195,
+    "lon": -105.0251602
+  },
+  "6020 west 20th avenue, edgewater, co 80214": {
+    "lat": 39.7475423,
+    "lon": -105.0629538
+  },
+  "4151 east kentucky avenue, glendale, co 80246": {
+    "lat": 39.7005093,
+    "lon": -104.9388546
+  },
+  "51701 highway 6 & 24, glenwood springs, co 81601": null,
+  "470 malley drive, northglenn, co 80233": {
+    "lat": 39.9029318,
+    "lon": -104.9803449
+  },
+  "1207 southgate place, pueblo, co 81004": null,
+  "3318 south federal boulevard, sheridan, co 80110": {
+    "lat": 39.6564638,
+    "lon": -105.0251639
+  },
+  "1423 santa fe trail, trinidad, co 81082": {
+    "lat": 37.1523688,
+    "lon": -104.5119186
+  },
+  "41 north precision drive, pueblo west, co 81007": null,
+  "59722 county road t, moffat, co 81143": null,
+  "439 north commercial street, trinidad, co 81082": null,
+  "135 south broadway unit c, denver, co 80209": null,
+  "1714 b santa fe drive, pueblo, co 81006": {
+    "lat": 38.249849,
+    "lon": -104.6009557
+  },
+  "83 north magneto drive, pueblo, co 81007": null,
+  "3944 north high street, denver, co 80205": null,
+  "82 south federal boulevard, denver, co 80219": {
+    "lat": 39.71493,
+    "lon": -105.024985
+  },
+  "6200 east yale avenue, unit b,, denver, co 80222": null,
+  "4650 tower road unit 108, denver, co 80249": null,
+  "5005 south federal boulevard, englewood, co 80110": {
+    "lat": 39.6268266,
+    "lon": -105.0252902
+  },
+  "909 county road 308, dumont, co 80436": null,
+  "304 highway 133, carbondale, co 81623": null,
+  "316 west victory way, craig, co 81625": {
+    "lat": 40.514148,
+    "lon": -107.5510454
+  },
+  "12 eagle park drive, eagle, co 81631": {
+    "lat": 39.662886,
+    "lon": -106.8195807
+  },
+  "842 north summit boulevard, unit 13, frisco, co 80443": null,
+  "191 blue river parkway, suite 202,, silverthorne, co 80498": null,
+  "40801 us highway 6, suite 5, avon, co 81620": null,
+  "179 w. bridge st. hotchkiss, hotchkiss, co 81419": {
+    "lat": 38.7988696,
+    "lon": -107.7221941
+  },
+  "512 2nd street, paonia, co 81428": {
+    "lat": 38.8668551,
+    "lon": -107.594053
+  },
+  "107 main avenue, sedgwick, co 80749": {
+    "lat": 40.9346025,
+    "lon": -102.5237271
+  },
+  "525 grand avenue, grand lake, co 80447": {
+    "lat": 40.253124,
+    "lon": -105.8275405
+  },
+  "1240 west elizabeth street, unit a, b, c, & d, fort collins, co 80521": null,
+  "100 west main street, unit a, oak creek, co 80467": null,
+  "4803 north interstate 25, pueblo, co 81008": null,
+  "2755 ore mill road unit 13, colorado springs, co 80904": null,
+  "403 north circle drive, colorado springs, co 80907": {
+    "lat": 38.8381602,
+    "lon": -104.7757999
+  },
+  "545 colorado avenue, grand junction, co 81501": null,
+  "450 east 1st street, ordway, co 81063": {
+    "lat": 38.2146027,
+    "lon": -103.7518427
+  },
+  "148 east assembly drive, pueblo west, co 81007": null,
+  "5555 dahlia street unit 1100, commerce city, co 80022": null,
+  "8401 baseline road, boulder, co 80303": {
+    "lat": 40.0011404,
+    "lon": -105.1570366
+  },
+  "2885 west 44th avenue, denver, co 80211": {
+    "lat": 39.7768606,
+    "lon": -105.0235587
+  },
+  "4440 morrison road, unit 103, denver, co 80219": null,
+  "6901 east colfax avenue, denver, co 80210": {
+    "lat": 39.7404246,
+    "lon": -104.9078419
+  },
+  "5398 sheridan boulevard, arvada, co 80002": {
+    "lat": 39.805824,
+    "lon": -105.0532932
+  },
+  "5441 quebec street, commerce city, co 80022": {
+    "lat": 39.7959113,
+    "lon": -104.9036557
+  },
+  "7150 highway 85, commerce city, co 80022": {
+    "lat": 39.8847564,
+    "lon": -104.8823614
+  },
+  "1136 north yuma court, denver, co 80204": {
+    "lat": 39.7342992,
+    "lon": -105.0145541
+  },
+  "3615 west 49th avenue, denver, co 80221": null,
+  "1022 north 3rd street, grand junction, co 81501": {
+    "lat": 39.0769601,
+    "lon": -108.5675857
+  },
+  "3321 south interstate 25, pueblo, co 81004": null,
+  "749 east enterprise drive, pueblo, co 81007": {
+    "lat": 38.3276058,
+    "lon": -104.7120965
   }
 }
