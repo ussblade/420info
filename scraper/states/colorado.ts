@@ -41,13 +41,17 @@ export async function scrapeColorado(): Promise<ScrapedDispensary[]> {
     return [];
   }
 
-  // Filter to retail marijuana stores (medical or recreational)
+  // Log all unique Facility Types present in this sheet
+  const types = [...new Set(records.map(r => r['Facility Type'] || ''))];
+  console.log('[CO] Facility Types found:', types.join(' | '));
+
+  // Include both Medical and Retail marijuana stores
   const retailers = records.filter(r => {
     const type = (r['Facility Type'] || '').toLowerCase();
-    return type.includes('retail marijuana store');
+    return type.includes('marijuana store');
   });
 
-  console.log(`[CO] Found ${retailers.length} retail marijuana stores`);
+  console.log(`[CO] Found ${retailers.length} marijuana stores`);
 
   const dispensaries: ScrapedDispensary[] = [];
 

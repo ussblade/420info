@@ -60,16 +60,19 @@ export async function scrapeOregon(): Promise<ScrapedDispensary[]> {
     return [];
   }
 
-  // Filter to retailers with active (non-expired) licenses
-  const today = new Date();
+  // Log unique license types and a sample expiration date for debugging
+  const licenseTypes = [...new Set(records.map(r => r['License Type'] || ''))];
+  console.log('[OR] License Types found:', licenseTypes.join(' | '));
+  const sample = records.find(r => (r['License Type'] || '').toLowerCase().includes('retailer'));
+  if (sample) console.log('[OR] Sample retailer row:', JSON.stringify(sample));
+
+  // Filter to retailers only — no expiration filter (OLCC file includes all statuses)
   const retailers = records.filter(r => {
     const type = (r['License Type'] || '').toLowerCase();
-    const expiration = r['Expiration Date'] ? new Date(r['Expiration Date']) : null;
-    const notExpired = !expiration || expiration >= today;
-    return type.includes('retailer') && notExpired;
+    return type.includes('retailer');
   });
 
-  console.log(`[OR] Found ${retailers.length} active marijuana retailers`);
+  console.log(`[OR] Found ${retailers.length} marijuana retailers`);
 
   const dispensaries: ScrapedDispensary[] = [];
 
