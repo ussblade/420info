@@ -77,9 +77,14 @@ export async function geocodeAddress(address: string): Promise<{ lat: number; lo
   });
 
   try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 8000); // 8s timeout per request
+
     const response = await fetch(`${NOMINATIM_URL}?${params}`, {
       headers: { 'User-Agent': USER_AGENT, 'Accept-Language': 'en' },
+      signal: controller.signal,
     });
+    clearTimeout(timeout);
 
     if (!response.ok) {
       console.warn(`[Geocode] HTTP ${response.status} for: ${address}`);
@@ -98,8 +103,13 @@ export async function geocodeAddress(address: string): Promise<{ lat: number; lo
     cache[key] = result;
     pendingWrites++;
     return result;
-  } catch (err) {
-    console.warn(`[Geocode] Failed for "${address}":`, err);
+  } catch (err: unknown) {
+    const msg = err instanceof Error ? err.message : String(err);
+    if (msg.includes('abort') || msg.includes('AbortError')) {
+      console.warn(`[Geocode] Timeout for: ${address}`);
+    } else {
+      console.warn(`[Geocode] Failed for "${address}": ${msg}`);
+    }
     cache[key] = null;
     return null;
   }
