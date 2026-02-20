@@ -47,9 +47,9 @@ async function scrapeViaAPI(): Promise<ScrapedDispensary[]> {
   });
 
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
-  const data = await response.json();
+  const data = (await response.json()) as Record<string, unknown>;
 
-  const items: Record<string, string>[] = data.data || data.licenses || data || [];
+  const items: Record<string, string>[] = (data.data || data.licenses || data || []) as Record<string, string>[];
   const dispensaries: ScrapedDispensary[] = [];
 
   for (const item of items) {

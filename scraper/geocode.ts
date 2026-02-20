@@ -39,7 +39,7 @@ export async function geocodeAddress(address: string): Promise<{ lat: number; lo
       return null;
     }
 
-    const results: NominatimResult[] = await response.json();
+    const results = (await response.json()) as NominatimResult[];
     if (results.length === 0) return null;
 
     return {

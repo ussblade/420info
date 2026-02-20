@@ -24,10 +24,10 @@ export async function scrapeIllinois(): Promise<ScrapedDispensary[]> {
       headers: { 'User-Agent': '420nearme-scraper/1.0' },
     });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const data = await response.json();
+    const data = (await response.json()) as Record<string, unknown>;
 
     const records: Record<string, string>[] =
-      data.result?.records || data.records || [];
+      ((data.result as Record<string, unknown>)?.records || data.records || []) as Record<string, string>[];
 
     if (records.length > 0) {
       return processIllinoisRecords(records);
