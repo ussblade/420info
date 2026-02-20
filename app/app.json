@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "420 Near Me",
+    "slug": "420nearme",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a1a2e"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yourcompany.420nearme",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "420 Near Me uses your location to find cannabis dispensaries nearby.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "420 Near Me uses your location to find cannabis dispensaries nearby."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1a1a2e"
+      },
+      "package": "com.yourcompany.nearme420",
+      "permissions": [
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow 420 Near Me to use your location to find nearby dispensaries."
+        }
+      ]
+    ]
+  }
+}

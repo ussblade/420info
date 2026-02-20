@@ -1,0 +1,26 @@
+# Node
+node_modules/
+dist/
+
+# Expo
+.expo/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+android/
+ios/
+
+# macOS
+.DS_Store
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Scraper output (committed by CI only)
+# scraper/output/dispensaries.json  ← keep this line commented to track it
