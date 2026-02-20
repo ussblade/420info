@@ -40,14 +40,14 @@ jobs:
           print(f'Total dispensaries: {d[\"count\"]}')
           "
 
-      - name: Commit updated dispensaries.json to main
+      - name: Commit updated data files to main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add scraper/output/dispensaries.json
+          git add scraper/output/dispensaries.json scraper/output/geocode-cache.json
           if git diff --staged --quiet; then
-            echo "No changes to dispensaries.json — skipping commit"
+            echo "No changes — skipping commit"
           else
-            git commit -m "data: update dispensaries.json [run ${{ github.run_number }}]"
+            git commit -m "data: update dispensaries + geocode cache [run ${{ github.run_number }}]"
             git push origin main
           fi

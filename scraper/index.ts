@@ -18,6 +18,7 @@ import {
   scrapeWashington,
   scrapeIllinois,
 } from './states';
+import { loadGeoCache, saveGeoCache } from './geocode';
 
 export interface ScrapedDispensary {
   id?: string;
@@ -71,6 +72,9 @@ async function main() {
   console.log(`Started at: ${new Date().toISOString()}`);
   console.log('');
 
+  // Load geocode cache so we don't re-geocode known addresses
+  loadGeoCache();
+
   const scrapers: Array<() => Promise<ScrapedDispensary[]>> = [
     scrapeColorado,
     scrapeCalifornia,
@@ -113,6 +117,9 @@ async function main() {
   };
 
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), 'utf-8');
+
+  // Save geocode cache so next month's run skips already-known addresses
+  saveGeoCache();
 
   console.log('');
   console.log(`✓ Output written to: ${OUTPUT_FILE}`);
