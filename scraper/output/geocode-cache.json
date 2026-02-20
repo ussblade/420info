@@ -6150,5 +6150,3188 @@
   "216 wilton rd, farmington, me": {
     "lat": 44.6550501,
     "lon": -70.1505008
+  },
+  "750 broadway, new york, ny 10003": null,
+  "144 bleecker st, new york, ny 10012": null,
+  "835 broadway aka 62 e 13th street, new york, ny 10003": null,
+  "75 court st just breathe, binghamton, ny 13901": null,
+  "1613 union street, schenectady, ny 12309": {
+    "lat": 42.8051634,
+    "lon": -73.904845
+  },
+  "119 e state st, ithaca, ny 14850": {
+    "lat": 42.4393689,
+    "lon": -76.4982601
+  },
+  "16203 jamaica ave, jamaica, ny 11432": null,
+  "33 union sq w, new york, ny 10003": {
+    "lat": 40.7368464,
+    "lon": -73.9909367
+  },
+  "3 e 3rd st, new york, ny 10003": {
+    "lat": 40.7263447,
+    "lon": -73.9912543
+  },
+  "219 walton st, syracuse, ny 13202": {
+    "lat": 43.0478518,
+    "lon": -76.1563561
+  },
+  "810c broadway, rensselaer, ny 12144": {
+    "lat": 42.641388,
+    "lon": -73.7444639
+  },
+  "94 east industry court, deer park, ny 11729": {
+    "lat": 40.7636139,
+    "lon": -73.2972028
+  },
+  "246 main st, johnson city, ny 13790": {
+    "lat": 42.1150105,
+    "lon": -75.9554091
+  },
+  "1308 vestal pky e, 1st floor, set d, vestal, ny 13850": null,
+  "1815 broadhollow rd, farmingdale, ny 11735": {
+    "lat": 40.7447558,
+    "lon": -73.4214005
+  },
+  "501 main st, buffalo, ny 14203": {
+    "lat": 42.8874025,
+    "lon": -78.8734885
+  },
+  "6300 transit rd, depew, ny 14043": {
+    "lat": 42.9271832,
+    "lon": -78.6975264
+  },
+  "76 main st, oneonta, ny 13820": {
+    "lat": 42.4509899,
+    "lon": -75.0636537
+  },
+  "3610 ditmars blvd, astoria, ny 11105": null,
+  "85 delancey st, new york, ny 10002": {
+    "lat": 40.7187573,
+    "lon": -73.9896896
+  },
+  "622 lake flower ave., saranac lake, ny 12983": {
+    "lat": 44.3108761,
+    "lon": -74.116675
+  },
+  "248 w 125th st, new york, ny 10027": {
+    "lat": 40.8093266,
+    "lon": -73.949925
+  },
+  "900 jefferson rd ste 902, rochester, ny 14623": null,
+  "1508 us-9, clifton park, ny 12065": null,
+  "2460 williamsbridge rd fl 1, bronx, ny 10469": null,
+  "1297 hertel ave, buffalo, ny 14216": {
+    "lat": 42.947542,
+    "lon": -78.860075
+  },
+  "997 central ave ste 200, albany, ny 12205": null,
+  "412 w broadway, new york, ny 10012": null,
+  "127 s terrace ave, mount vernon, ny 10550": {
+    "lat": 40.9093071,
+    "lon": -73.8499867
+  },
+  "7479 us highway 11, potsdam, ny 13676": null,
+  "740 hoosick rd, troy, ny 12180": {
+    "lat": 42.7447804,
+    "lon": -73.6417865
+  },
+  "1451 state highway 5s, amsterdam, ny 12010": null,
+  "2370 coney island ave, brooklyn, ny 11223": {
+    "lat": 40.5991324,
+    "lon": -73.961557
+  },
+  "105 route 109, farmingdale, ny 11735": {
+    "lat": 40.7229024,
+    "lon": -73.4241437
+  },
+  "1412 lexington ave, new york, ny 10128": {
+    "lat": 40.7837447,
+    "lon": -73.9526557
+  },
+  "779 state route 3, plattsburgh, ny 12901": {
+    "lat": 44.6951565,
+    "lon": -73.5232445
+  },
+  "334 e 73rd st, new york, ny 10021": {
+    "lat": 40.7685917,
+    "lon": -73.9562956
+  },
+  "1308 dolsontown rd suite 3 & 4, waywayanda, ny 10940": null,
+  "4205 long branch rd ste 5, liverpool, ny 13090": null,
+  "3022 veterans rd w, staten island, ny 10309": {
+    "lat": 40.5281048,
+    "lon": -74.2387587
+  },
+  "31-35 steinway st, astoria, ny 11103": {
+    "lat": 40.7603338,
+    "lon": -73.917688
+  },
+  "5161 camp rd, hamburg, ny 14075": {
+    "lat": 42.7469232,
+    "lon": -78.8519916
+  },
+  "158 w 23rd st, new york, ny 10011": {
+    "lat": 40.7435907,
+    "lon": -73.9950363
+  },
+  "1511 neptune avenue, brooklyn, ny 11224": {
+    "lat": 40.5793585,
+    "lon": -73.9835606
+  },
+  "475 central ave, white plains, ny 10606": {
+    "lat": 41.0298625,
+    "lon": -73.7886806
+  },
+  "24809 jericho tpke, bellerose, ny 11426": null,
+  "1056 flatbush ave, brooklyn, ny 11226": {
+    "lat": 40.6452176,
+    "lon": -73.9581997
+  },
+  "958 avenue of the americas, new york, ny 10001": {
+    "lat": 40.7502876,
+    "lon": -73.987287
+  },
+  "3748 state highway 37, ogdensburg, ny 13669": {
+    "lat": 44.5960533,
+    "lon": -75.63095
+  },
+  "154 vanderbilt ave, brooklyn, ny 11205": {
+    "lat": 40.6928312,
+    "lon": -73.9699761
+  },
+  "30-30 steinway st, astoria, ny 11103": {
+    "lat": 40.7807197,
+    "lon": -73.8964646
+  },
+  "236 meehan rd, suite 1, malone, ny 12953": null,
+  "121 south pearl street, albany, ny 12207": {
+    "lat": 42.6454828,
+    "lon": -73.7550323
+  },
+  "155 monroe ave, rochester, ny 14607": {
+    "lat": 43.1507626,
+    "lon": -77.6014959
+  },
+  "332 northern blvd, albany, ny 12204": {
+    "lat": 42.6751791,
+    "lon": -73.7491166
+  },
+  "85 suydam st, brooklyn, ny 11221": {
+    "lat": 40.6978891,
+    "lon": -73.92939
+  },
+  "1839 central ave, colonie, ny 12205": {
+    "lat": 42.731528,
+    "lon": -73.8476128
+  },
+  "90 broadway spc 8, menands, ny 12204": null,
+  "4445 vernon blvd, long island city, ny 11101": null,
+  "22150 horace harding expy, bayside, ny 11364": null,
+  "16630 jamaica ave, jamaica, ny 11432": null,
+  "2595 central park ave, yonkers, ny 10710": {
+    "lat": 40.9858135,
+    "lon": -73.8259502
+  },
+  "925 hunts point ave, bronx, ny 10459": {
+    "lat": 40.8202701,
+    "lon": -73.8910508
+  },
+  "259 bowery, new york, ny 10002": {
+    "lat": 40.7232063,
+    "lon": -73.9925162
+  },
+  "2981 delaware ave, kenmore, ny 14217": {
+    "lat": 42.9655405,
+    "lon": -78.870023
+  },
+  "1686 central ave, albany, ny 12205": {
+    "lat": 42.7226472,
+    "lon": -73.8391054
+  },
+  "232 allen st, buffalo, ny 14201": {
+    "lat": 42.8993462,
+    "lon": -78.8787962
+  },
+  "2043 wellwood ave, farmingdale, ny 11735": {
+    "lat": 40.7524457,
+    "lon": -73.4024197
+  },
+  "900 niagara falls blvd, buffalo, ny 14223": {
+    "lat": 42.978529,
+    "lon": -78.8235485
+  },
+  "533 5th ave, brooklyn, ny 11215": {
+    "lat": 40.6662026,
+    "lon": -73.9885839
+  },
+  "974 state route 67, ballston spa, ny 12020": null,
+  "288 flushing ave, brooklyn, ny 11205": null,
+  "57-01 myrtle avenue, ridgewood, ny 11385": {
+    "lat": 40.7006542,
+    "lon": -73.9036112
+  },
+  "1115 1st ave, new york, ny 10065": {
+    "lat": 40.7611663,
+    "lon": -73.9611265
+  },
+  "255 genesee st, utica, ny 13501": {
+    "lat": 43.0993065,
+    "lon": -75.2349546
+  },
+  "12 e 42nd st, new york, ny 10017": {
+    "lat": 40.753057,
+    "lon": -73.9805373
+  },
+  "531 warren st, hudson, ny 12534": {
+    "lat": 42.2487273,
+    "lon": -73.7857011
+  },
+  "453 fulton st, brooklyn, ny 11201": {
+    "lat": 40.6915523,
+    "lon": -73.9868445
+  },
+  "74-03 metropolitan avenue, middle village, ny 11379": {
+    "lat": 40.7130337,
+    "lon": -73.8781419
+  },
+  "4106 state route 31 ste 903, clay, ny 13041": null,
+  "182 5th ave, new york, ny 10010": {
+    "lat": 40.7413623,
+    "lon": -73.9901188
+  },
+  "2412 3rd ave, bronx, ny 10454": null,
+  "3264 85th st, east elmhurst, ny 11370": null,
+  "665 n french rd, amherst, ny 14228": {
+    "lat": 43.034209,
+    "lon": -78.8000608
+  },
+  "811 canandaigua rd, geneva, ny 14456": {
+    "lat": 42.8564311,
+    "lon": -77.0128557
+  },
+  "128 e 86th st, new york, ny 10028": {
+    "lat": 40.7793731,
+    "lon": -73.9560445
+  },
+  "89 main st, poughkeepsie, ny 12601": {
+    "lat": 41.7058371,
+    "lon": -73.9359321
+  },
+  "137 4th st, troy, ny 12180": {
+    "lat": 42.7283409,
+    "lon": -73.6898159
+  },
+  "650 orchard park rd, west seneca, ny 14224": null,
+  "118 flatbush ave, brooklyn, ny 11217": {
+    "lat": 40.6851006,
+    "lon": -73.9784416
+  },
+  "1099 new loudon rd, cohoes, ny 12047": {
+    "lat": 42.7838677,
+    "lon": -73.743567
+  },
+  "2442 clinton street, cheektowaga, ny 14224": {
+    "lat": 42.8715158,
+    "lon": -78.78567
+  },
+  "299 knickerbocker ave, brooklyn, ny 11237": {
+    "lat": 40.7018374,
+    "lon": -73.9234938
+  },
+  "1102 bedford ave, brooklyn, ny 11216": {
+    "lat": 40.6869858,
+    "lon": -73.9548708
+  },
+  "201 e 30th st, new york, ny 10016": {
+    "lat": 40.7431219,
+    "lon": -73.9794866
+  },
+  "3665 albany post rd, poughkeepsie, ny 12601": {
+    "lat": 41.7394771,
+    "lon": -73.9307678
+  },
+  "5100 genesee st, buffalo, ny 14225": {
+    "lat": 42.9381537,
+    "lon": -78.6976857
+  },
+  "27b saratoga ave, waterford, ny 12188": {
+    "lat": 42.7900846,
+    "lon": -73.6884403
+  },
+  "2721 44th dr trends dispensaries llc, long island city, ny 11101": null,
+  "22 w 66th st, new york, ny 10023": null,
+  "152 bedford ave, brooklyn, ny 11249": {
+    "lat": 40.7188154,
+    "lon": -73.9568321
+  },
+  "1164 new york route 29, saratoga, ny 12871": null,
+  "3006 e main st, cortlandt manor, ny 10567": {
+    "lat": 41.3067135,
+    "lon": -73.8783385
+  },
+  "696 east 241st st, bronx, ny 10470": {
+    "lat": 40.9034293,
+    "lon": -73.8507652
+  },
+  "205 n fulton st, ithaca, ny 14850": null,
+  "25 n pearl st, albany, ny 12207": {
+    "lat": 42.650353,
+    "lon": -73.7519777
+  },
+  "196 rock hill dr, rock hill, ny 12775": {
+    "lat": 41.6259273,
+    "lon": -74.5986142
+  },
+  "814 route 52, fishkill, ny 12524": {
+    "lat": 41.540828,
+    "lon": -73.8817381
+  },
+  "2988 us route 20, seneca falls, ny 13148": null,
+  "244 main st, white plains, ny 10601": {
+    "lat": 41.0332206,
+    "lon": -73.7645781
+  },
+  "51 n. main st, brockport, ny 14420": {
+    "lat": 43.2185813,
+    "lon": -77.9381216
+  },
+  "862 9th ave, new york, ny 10019": {
+    "lat": 40.7670741,
+    "lon": -73.9861159
+  },
+  "2179 sheridan dr tonawanda ny14223 440 normal ave., buffalo, ny 14223": null,
+  "2034 jerome ave, bronx, ny 10453": {
+    "lat": 40.8533576,
+    "lon": -73.9076254
+  },
+  "6606 kinne rd, syracuse, ny 13214": null,
+  "98 n chestnut st, new paltz, ny 12561": null,
+  "32 westchester ave, pound ridge, ny 10576": {
+    "lat": 41.1873964,
+    "lon": -73.5460315
+  },
+  "584 8th ave, new york, ny 10018": {
+    "lat": 40.7549576,
+    "lon": -73.9911081
+  },
+  "977 2nd ave, new york, ny 10022": {
+    "lat": 40.7560505,
+    "lon": -73.96802
+  },
+  "28 route 59, nyack, ny 10960": {
+    "lat": 41.0938979,
+    "lon": -73.9333487
+  },
+  "16105 29th ave store, flushing, ny 11358": null,
+  "405 mamaroneck ave, white plains, ny 10605": {
+    "lat": 41.0229825,
+    "lon": -73.7607692
+  },
+  "587 5th ave, new york, ny 10017": {
+    "lat": 40.7568438,
+    "lon": -73.9779279
+  },
+  "4906 arthur kill road, staten island, ny 10309": {
+    "lat": 40.5225056,
+    "lon": -74.2385312
+  },
+  "1412 broadway, new york, ny 10018": {
+    "lat": 40.7537894,
+    "lon": -73.9868326
+  },
+  "1503 canandaigua rd, suite 3b & 3c, macedon, ny 14502": null,
+  "110 chambers st, new york, ny 10007": {
+    "lat": 40.7148925,
+    "lon": -74.0083172
+  },
+  "623 bergen st, brooklyn, ny 11238": {
+    "lat": 40.6798352,
+    "lon": -73.9690605
+  },
+  "3220 westchester ave, bronx, ny 10461": {
+    "lat": 40.8518322,
+    "lon": -73.8288028
+  },
+  "481 broadway, new york, ny 10013": {
+    "lat": 40.7215797,
+    "lon": -74.0002326
+  },
+  "289 oakwood ave ste d, troy, ny 12182": null,
+  "4658 onondaga blvd, syracuse, ny 13219": {
+    "lat": 43.0311222,
+    "lon": -76.1938015
+  },
+  "196 washington ave, albany, ny 12210": {
+    "lat": 42.6565261,
+    "lon": -73.7632404
+  },
+  "157 w 72nd st, new york, ny 10023": {
+    "lat": 40.7784467,
+    "lon": -73.9805893
+  },
+  "2375 arthur ave, bronx, ny 10458": {
+    "lat": 40.8551478,
+    "lon": -73.8883139
+  },
+  "939 central ave, peekskill, ny 10566": {
+    "lat": 41.290434,
+    "lon": -73.9206861
+  },
+  "956 s 1st st, fulton, ny 13069": null,
+  "696 locust st, mount vernon, ny 10552": {
+    "lat": 40.9263422,
+    "lon": -73.8392606
+  },
+  "217 guideboard rd, halfmoon, ny 12065": {
+    "lat": 42.8383906,
+    "lon": -73.7387879
+  },
+  "241 5th ave, new york, ny 10016": {
+    "lat": 40.7442134,
+    "lon": -73.9872474
+  },
+  "4219 webster ave, bronx, ny 10470": {
+    "lat": 40.896148,
+    "lon": -73.8635128
+  },
+  "946 fulton street, brooklyn, ny 11238": {
+    "lat": 40.6824458,
+    "lon": -73.9630059
+  },
+  "1190 lexington ave, new york, ny 10028": {
+    "lat": 40.7764412,
+    "lon": -73.9579876
+  },
+  "9200 niagara falls blvd, niagara falls, ny 14304": null,
+  "1673 hertle avenue, buffalo, ny 14216": null,
+  "704 w 177th st, new york, ny 10033": {
+    "lat": 40.847528,
+    "lon": -73.938419
+  },
+  "797 8th ave, new york, ny 10019": {
+    "lat": 40.7613712,
+    "lon": -73.987129
+  },
+  "1707 oriskany st w, utica, ny 13502": {
+    "lat": 43.1107307,
+    "lon": -75.2562042
+  },
+  "4215 bell blvd, bayside, ny 11361": {
+    "lat": 40.7671402,
+    "lon": -73.7728422
+  },
+  "9605 liberty ave, ozone park, ny 11417": null,
+  "123 e willow st, syracuse, ny 13202": {
+    "lat": 43.0524715,
+    "lon": -76.1514525
+  },
+  "698 2nd ave, new york, ny 10016": {
+    "lat": 40.7470076,
+    "lon": -73.9738839
+  },
+  "1533 county road 39, southampton, ny 11968": {
+    "lat": 40.8951871,
+    "lon": -72.4497529
+  },
+  "692 grand st, brooklyn, ny 11211": {
+    "lat": 40.7113576,
+    "lon": -73.9448642
+  },
+  "2700 erie blvd e, syracuse, ny 13224": {
+    "lat": 43.0540363,
+    "lon": -76.0978638
+  },
+  "1363 delaware ave, buffalo, ny 14209": {
+    "lat": 42.9213937,
+    "lon": -78.8671522
+  },
+  "106 everett rd, albany, ny 12205": null,
+  "2441 flatbush ave, brooklyn, ny 11234": {
+    "lat": 40.6107461,
+    "lon": -73.9234027
+  },
+  "2371 central park ave, yonkers, ny 10710": {
+    "lat": 40.9757148,
+    "lon": -73.8329659
+  },
+  "2075 central ave, schenectady, ny 12304": {
+    "lat": 42.7513768,
+    "lon": -73.8708086
+  },
+  "3633 kingsbridge ave, bronx, ny 10463": {
+    "lat": 40.8847009,
+    "lon": -73.9019142
+  },
+  "214 3rd ave, new york, ny 10003": {
+    "lat": 40.7362069,
+    "lon": -73.985384
+  },
+  "292 atlantic ave, brooklyn, ny 11201": {
+    "lat": 40.6884493,
+    "lon": -73.9891632
+  },
+  "4034 hylan blvd, staten island, ny 10308": {
+    "lat": 40.5410908,
+    "lon": -74.1466624
+  },
+  "345 main st ste 2, hudson falls, ny 12839": null,
+  "109 e taft rd, north syracuse, ny 13212": {
+    "lat": 43.123201,
+    "lon": -76.1406155
+  },
+  "465 forest ave, staten island, ny 10301": {
+    "lat": 40.6309306,
+    "lon": -74.1050115
+  },
+  "9538 queens blvd, rego park, ny 11374": {
+    "lat": 40.7276101,
+    "lon": -73.8560504
+  },
+  "151 dyckman st store 3, new york, ny 10040": null,
+  "304 ellery st, brooklyn, ny 11206": {
+    "lat": 40.6992569,
+    "lon": -73.9401371
+  },
+  "521 troy schenectady rd, latham, ny 12110": {
+    "lat": 42.749521,
+    "lon": -73.7624413
+  },
+  "2223 state route 32, kingston, ny 12401": {
+    "lat": 41.8650101,
+    "lon": -74.0645492
+  },
+  "799 lexington ave, new york, ny 10065": {
+    "lat": 40.763854,
+    "lon": -73.9666712
+  },
+  "501 state st, schenectady, ny 12305": {
+    "lat": 42.8121598,
+    "lon": -73.9400646
+  },
+  "229 avenue b, new york, ny 10009": {
+    "lat": 40.729177,
+    "lon": -73.978065
+  },
+  "1350 forest ave, staten island, ny 10302": null,
+  "15 avenue b, new york, ny 10009": {
+    "lat": 40.7218257,
+    "lon": -73.9832815
+  },
+  "1938 clove rd, staten island, ny 10304": {
+    "lat": 40.6059663,
+    "lon": -74.0868597
+  },
+  "6354 108th st, forest hills, ny 11375": {
+    "lat": 40.7326088,
+    "lon": -73.8494334
+  },
+  "423 franklin st, ithaca, ny 14850": {
+    "lat": 42.4484137,
+    "lon": -76.5057089
+  },
+  "2225 church avenue, brooklyn, ny 11226": {
+    "lat": 40.6504924,
+    "lon": -73.9582419
+  },
+  "137 maple ave, saratoga springs, ny 12866": {
+    "lat": 43.0878461,
+    "lon": -73.7802554
+  },
+  "2532 route 9n, greenfield center, ny 12833": {
+    "lat": 43.1229605,
+    "lon": -73.8469655
+  },
+  "301 broadway, brooklyn, ny 11211": {
+    "lat": 40.7085069,
+    "lon": -73.9575791
+  },
+  "81 wolf rd, colonie, ny 12205": {
+    "lat": 42.7146078,
+    "lon": -73.811991
+  },
+  "1546 route 9, wappingers falls, ny 12590": null,
+  "2102 ralph ave, brooklyn, ny 11234": {
+    "lat": 40.6261368,
+    "lon": -73.9181701
+  },
+  "260 warren st, hudson, ny 12534": {
+    "lat": 42.2532146,
+    "lon": -73.7911716
+  },
+  "2921 erie blvd e, syracuse, ny 13224": {
+    "lat": 43.0556281,
+    "lon": -76.089766
+  },
+  "5 railroad st, victor, ny 14564": {
+    "lat": 42.9744455,
+    "lon": -77.4108395
+  },
+  "784 allerton ave, bronx, ny 10467": {
+    "lat": 40.8653466,
+    "lon": -73.8641309
+  },
+  "308 plaza rd, kingston, ny 12401": {
+    "lat": 41.9378555,
+    "lon": -74.0194625
+  },
+  "8701 rockaway beach blvd, rockaway beach, ny 11693": {
+    "lat": 40.5871424,
+    "lon": -73.813727
+  },
+  "396 kenmore ave, buffalo, ny 14223": {
+    "lat": 42.9580211,
+    "lon": -78.8334832
+  },
+  "701 8th ave, new york, ny 10036": {
+    "lat": 40.7588615,
+    "lon": -73.988836
+  },
+  "300 kent avenue, brooklyn, ny 11249": {
+    "lat": 40.7143015,
+    "lon": -73.9673567
+  },
+  "287 harrison pl, brooklyn, ny 11237": null,
+  "887 yonkers ave, yonkers, ny 10704": {
+    "lat": 40.9194106,
+    "lon": -73.8603391
+  },
+  "1819 2nd ave, new york, ny 10128": {
+    "lat": 40.7832147,
+    "lon": -73.9481825
+  },
+  "428 rogers ave, brooklyn, ny 11225": {
+    "lat": 40.6623184,
+    "lon": -73.9538861
+  },
+  "8412 3rd ave, brooklyn, ny 11209": null,
+  "956 jewett ave, staten island, ny 10314": {
+    "lat": 40.6127743,
+    "lon": -74.1311795
+  },
+  "302 8th ave, new york, ny 10001": {
+    "lat": 40.7466216,
+    "lon": -73.9971551
+  },
+  "245 broadway, suite 4, schenectady, ny 12305": null,
+  "4462 middle country rd, calverton, ny 11933": {
+    "lat": 40.9282796,
+    "lon": -72.7810774
+  },
+  "1119 broadway, brooklyn, ny 11221": {
+    "lat": 40.6938799,
+    "lon": -73.9294078
+  },
+  "8047-8053 pittsford-victor road, victor, ny 14564": null,
+  "1413 kings hwy, brooklyn, ny 11229": null,
+  "898 gerard ave, bronx, ny 10452": {
+    "lat": 40.8281996,
+    "lon": -73.9243879
+  },
+  "90 e market st unit 101, corning, ny 14830": null,
+  "2465 broadway, new york, ny 10025": {
+    "lat": 40.7915023,
+    "lon": -73.973961
+  },
+  "45 grove ave, albany, ny 12208": {
+    "lat": 42.6533464,
+    "lon": -73.7871998
+  },
+  "3065 erie blvd e, syracuse, ny 13224": {
+    "lat": 43.0558701,
+    "lon": -76.084046
+  },
+  "846 avenue of the americas, new york, ny 10001": {
+    "lat": 40.7471075,
+    "lon": -73.9895139
+  },
+  "3012 astoria blvd, astoria, ny 11102": {
+    "lat": 40.7724172,
+    "lon": -73.9316381
+  },
+  "439 court st, binghamton, ny 13904": {
+    "lat": 42.1046109,
+    "lon": -75.8797894
+  },
+  "10 executive park dr, albany, ny 12203": {
+    "lat": 42.6839944,
+    "lon": -73.8374907
+  },
+  "769 franklin ave, brooklyn, ny 11238": {
+    "lat": 40.6724916,
+    "lon": -73.9571637
+  },
+  "20917 northern blvd, bayside, ny 11361": null,
+  "9229 queens blvd cu-9, rego park, ny 11374": null,
+  "1400 route 300, newburgh, ny 12550": {
+    "lat": 41.5189931,
+    "lon": -74.0685662
+  },
+  "7815 3rd ave, brooklyn, ny 11209": {
+    "lat": 40.6288254,
+    "lon": -74.028623
+  },
+  "365 s wall st, kingston, ny 12401": {
+    "lat": 41.9240282,
+    "lon": -74.0127643
+  },
+  "3551 boston rd, bronx, ny 10469": {
+    "lat": 40.8782406,
+    "lon": -73.8447062
+  },
+  "2152 3rd ave, new york, ny 10035": {
+    "lat": 40.7991015,
+    "lon": -73.939591
+  },
+  "146 10th ave, new york, ny 10011": null,
+  "129 avenue c, new york, ny 10009": {
+    "lat": 40.7249226,
+    "lon": -73.9785102
+  },
+  "4007 queens blvd # a, sunnyside, ny 11104": null,
+  "330 tompkins ave brooklyn, brooklyn, ny 11216": {
+    "lat": 40.6864205,
+    "lon": -73.9447333
+  },
+  "23004 s conduit ave, springfield gardens, ny 11413": null,
+  "104 7th ave, new york, ny 10011": {
+    "lat": 40.740122,
+    "lon": -73.9986625
+  },
+  "2119 frederick douglass blvd, new york, ny 10026": {
+    "lat": 40.8035962,
+    "lon": -73.956394
+  },
+  "25306 northern blvd, little neck, ny 11362": null,
+  "3047 w henrietta rd, rochester, ny 14623": {
+    "lat": 43.0912305,
+    "lon": -77.6365041
+  },
+  "242 lake street plz, penn yan, ny 14527": null,
+  "1050 jackson ave retail unit, long island city, ny 11101": null,
+  "512 55th st, brooklyn, ny 11220": {
+    "lat": 40.6419963,
+    "lon": -74.0129494
+  },
+  "81 w ramapo rd unit 1, haverstraw, ny 10923": null,
+  "1330 mount hope ave, rochester, ny 14620": {
+    "lat": 43.1240374,
+    "lon": -77.6174707
+  },
+  "2227 clifford ave, rochester, ny 14609": {
+    "lat": 43.1760902,
+    "lon": -77.5615961
+  },
+  "4441 broadway unit 2, new york, ny 10040": null,
+  "3711 brewerton rd ste 8-10, north syracuse, ny 13212": null,
+  "6308 woodhaven blvd, rego park, ny 11374": {
+    "lat": 40.7213837,
+    "lon": -73.8663318
+  },
+  "230 s main st, canandaigua, ny 14424": {
+    "lat": 42.8841053,
+    "lon": -77.2792999
+  },
+  "46 ronald reagan blvd, warwick, ny 10990": {
+    "lat": 41.2710019,
+    "lon": -74.3317011
+  },
+  "172 n union st, olean, ny 14760": {
+    "lat": 42.0795471,
+    "lon": -78.429242
+  },
+  "714 w ridge rd, rochester, ny 14615": {
+    "lat": 43.2023871,
+    "lon": -77.6452938
+  },
+  "11119 liberty ave, south richmond hill, ny 11419": null,
+  "321 4th ave, brooklyn, ny 11215": {
+    "lat": 40.6737783,
+    "lon": -73.9859914
+  },
+  "451 elmwood ave ste 105, buffalo, ny 14222": null,
+  "17501 rockaway blvd, jamaica, ny 11434": null,
+  "34 w pulteney st, corning, ny 14830": {
+    "lat": 42.1507966,
+    "lon": -77.0626368
+  },
+  "57 w 86th st, new york, ny 10024": null,
+  "70 canal st, new york, ny 10002": {
+    "lat": 40.7151086,
+    "lon": -73.9928781
+  },
+  "19 technology dr, east setauket, ny 11733": null,
+  "1547 arthur kill road, staten island, ny 10312": {
+    "lat": 40.5625715,
+    "lon": -74.1918082
+  },
+  "120 union st, brooklyn, ny 11231": {
+    "lat": 40.6841707,
+    "lon": -74.0026188
+  },
+  "2415 queens plz n unit nr1, long island city, ny 11101": null,
+  "1143 upper front st, binghamton, ny 13905": null,
+  "102-15 159th road, howard beach, ny 11414": null,
+  "6850 main street suite 1, williamsville, ny 14221": null,
+  "8112 5th ave, brooklyn, ny 11209": {
+    "lat": 40.6248624,
+    "lon": -74.024821
+  },
+  "112 christopher st, new york, ny 10014": {
+    "lat": 40.7330267,
+    "lon": -74.0051464
+  },
+  "545 clinton ave s, rochester, ny 14620": {
+    "lat": 43.1463129,
+    "lon": -77.6026557
+  },
+  "2 jewel st, brooklyn, ny 11222": {
+    "lat": 40.7256948,
+    "lon": -73.945769
+  },
+  "101 e 10th st, new york, ny 10003": {
+    "lat": 40.7306622,
+    "lon": -73.988598
+  },
+  "3543 broadway # 3547, new york, ny 10031": null,
+  "2200 walden ave, cheektowaga, ny 14225": {
+    "lat": 42.907188,
+    "lon": -78.754087
+  },
+  "381 broadway, new york, ny 10013": {
+    "lat": 40.7187899,
+    "lon": -74.0026198
+  },
+  "405 w 39th st, new york, ny 10018": {
+    "lat": 40.7568472,
+    "lon": -73.9943161
+  },
+  "3430 boston rd, bronx, ny 10467": {
+    "lat": 40.8759603,
+    "lon": -73.8493804
+  },
+  "5 washington st, trumansburg, ny 14886": {
+    "lat": 42.543102,
+    "lon": -76.663592
+  },
+  "135-26 crossbay blvd, ozone park, ny 11417": null,
+  "406 middle country rd, coram, ny 11727": {
+    "lat": 40.8682811,
+    "lon": -73.00191
+  },
+  "61 n 11th st, brooklyn, ny 11249": {
+    "lat": 40.7221123,
+    "lon": -73.9584677
+  },
+  "2935 3rd ave, bronx, ny 10455": {
+    "lat": 40.8177858,
+    "lon": -73.9157152
+  },
+  "834 dekalb ave, brooklyn, ny 11221": {
+    "lat": 40.6921973,
+    "lon": -73.9429453
+  },
+  "723 11th ave, new york, ny 10019": {
+    "lat": 40.7667934,
+    "lon": -73.9943432
+  },
+  "3764 e tremont ave, bronx, ny 10465": {
+    "lat": 40.8257746,
+    "lon": -73.8215673
+  },
+  "539 metropolitan ave, brooklyn, ny 11211": {
+    "lat": 40.7142068,
+    "lon": -73.9509142
+  },
+  "110 jersey ave, port jervis, ny 12771": {
+    "lat": 41.3697168,
+    "lon": -74.6886295
+  },
+  "185-24 horace harding expressway, fresh meadows, ny 11365": {
+    "lat": 40.7398508,
+    "lon": -73.7885876
+  },
+  "7110 grand ave, maspeth, ny 11378": {
+    "lat": 40.7203896,
+    "lon": -73.9085423
+  },
+  "820 2nd ave, new york, ny 10017": {
+    "lat": 40.7507862,
+    "lon": -73.9711248
+  },
+  "489 delaware ave, albany, ny 12209": {
+    "lat": 42.6397926,
+    "lon": -73.7859985
+  },
+  "455 graham ave, brooklyn, ny 11222": {
+    "lat": 40.71908,
+    "lon": -73.9453735
+  },
+  "127 e 56th st, new york, ny 10022": {
+    "lat": 40.7606275,
+    "lon": -73.9700222
+  },
+  "90-67 sutphin blvd., jamaica, ny 11435": null,
+  "24815 union tpke, jamaica, ny 11426": null,
+  "3553 west henrietta road, henrietta, ny 14623": null,
+  "1981 86th st, brooklyn, ny 11214": {
+    "lat": 40.6048817,
+    "lon": -73.9985336
+  },
+  "1610 eastern pkwy, schenectady, ny 12309": {
+    "lat": 42.8068836,
+    "lon": -73.912493
+  },
+  "1798 e tremont ave, bronx, ny 10460": {
+    "lat": 40.840054,
+    "lon": -73.8676397
+  },
+  "2207 dryden rd, dryden, ny 13053": {
+    "lat": 42.4891937,
+    "lon": -76.3275197
+  },
+  "3341 sheridan dr, amherst, ny 14226": {
+    "lat": 42.9801986,
+    "lon": -78.8097752
+  },
+  "733 flatbush ave, brooklyn, ny 11226": {
+    "lat": 40.6551348,
+    "lon": -73.9594312
+  },
+  "364 broadway, newburgh, ny 12550": {
+    "lat": 41.5011853,
+    "lon": -74.0242936
+  },
+  "501 route 9w, piermont, ny 10968": {
+    "lat": 41.0326211,
+    "lon": -73.9264823
+  },
+  "122 e 25th st, new york, ny 10010": {
+    "lat": 40.7408159,
+    "lon": -73.9844603
+  },
+  "2245 central park ave, yonkers, ny 10710": {
+    "lat": 40.9744627,
+    "lon": -73.8338226
+  },
+  "1720 2nd ave, new york, ny 10128": {
+    "lat": 40.7799689,
+    "lon": -73.9498923
+  },
+  "316  east state st, herkimer, ny 13350": null,
+  "23171 murrock circle, watertown, ny 13601": {
+    "lat": 44.0062944,
+    "lon": -75.9220463
+  },
+  "224-15 union turnpike, oakland gardens, ny 11364": {
+    "lat": 40.7360961,
+    "lon": -73.7462368
+  },
+  "14407 243rd st, rosedale, ny 11422": {
+    "lat": 40.6606751,
+    "lon": -73.7390843
+  },
+  "41-43 genesee st, auburn, ny 13021": {
+    "lat": 42.923202,
+    "lon": -76.5826823
+  },
+  "12187 state route 9w, west coxsackie, ny 12192": null,
+  "386 canal st, new york, ny 10013": {
+    "lat": 40.7213771,
+    "lon": -74.004968
+  },
+  "387 van brunt st., brooklyn, ny 11231": {
+    "lat": 40.6759926,
+    "lon": -74.0142133
+  },
+  "1077 atlantic ave, brooklyn, ny 11238": {
+    "lat": 40.6794503,
+    "lon": -73.9555222
+  },
+  "48 e genesee st, auburn, ny 13021": {
+    "lat": 42.9326875,
+    "lon": -76.5592227
+  },
+  "206 8th ave, new york, ny 10011": {
+    "lat": 40.743595,
+    "lon": -73.9993117
+  },
+  "170 w bridge st, catskill, ny 12414": {
+    "lat": 42.2155278,
+    "lon": -73.8781094
+  },
+  "1221 ulster ave, kingston, ny 12401": {
+    "lat": 41.9667351,
+    "lon": -73.9905082
+  },
+  "235 fairview ave, hudson, ny 12534": {
+    "lat": 42.2610115,
+    "lon": -73.7651697
+  },
+  "18 westage dr ste 7, fishkill, ny 12524": null,
+  "50-12 72nd street, woodside, ny 11377": null,
+  "217-12 hempstead ave, queens village, ny 11429": null,
+  "1536 amsterdam ave, new york, ny 10031": {
+    "lat": 40.8195298,
+    "lon": -73.952009
+  },
+  "1577 state route 17b, white lake, ny 12786": null,
+  "514 congress st, troy, ny 12180": {
+    "lat": 42.7218814,
+    "lon": -73.678837
+  },
+  "483 3rd ave, brooklyn, ny 11215": {
+    "lat": 40.6704405,
+    "lon": -73.9915244
+  },
+  "320 south transit rd, south lockport, ny 14094": {
+    "lat": 43.1418078,
+    "lon": -78.6968789
+  },
+  "501 exchange st, geneva, ny 14456": {
+    "lat": 42.8676468,
+    "lon": -76.9814545
+  },
+  "51 main st, canton, ny 13617": {
+    "lat": 44.595712,
+    "lon": -75.1708718
+  },
+  "1326 county route 12, new hampton, ny 10958": {
+    "lat": 41.3841604,
+    "lon": -74.4231188
+  },
+  "186 orchard st, new york, ny 10002": {
+    "lat": 40.7219492,
+    "lon": -73.9880283
+  },
+  "3343 fulton st, brooklyn, ny 11208": {
+    "lat": 40.6837964,
+    "lon": -73.872436
+  },
+  "214 24 73rd ave, oakland garden, ny 11364": null,
+  "185 w seneca st, manlius, ny 13104": {
+    "lat": 42.9974357,
+    "lon": -75.9866764
+  },
+  "268 forest hill dr, kingston, ny 12401": {
+    "lat": 41.9498712,
+    "lon": -74.0430395
+  },
+  "1385 abbott rd, lackawanna, ny 14218": {
+    "lat": 42.8270248,
+    "lon": -78.8042474
+  },
+  "3808 state route 13, pulaski, ny 13142": null,
+  "5211 broadway st ste 300, lancaster, ny 14086": null,
+  "15 centre st, albany, ny 12207": {
+    "lat": 42.6560823,
+    "lon": -73.7446455
+  },
+  "105 dryden rd, ithaca, ny 14850": {
+    "lat": 42.4418929,
+    "lon": -76.4870087
+  },
+  "6633 fresh pond rd, ridgewood, ny 11385": {
+    "lat": 40.7061325,
+    "lon": -73.8967566
+  },
+  "19 huguenot st, new rochelle, ny 10801": {
+    "lat": 40.914117,
+    "lon": -73.7741024
+  },
+  "14518 14th ave store front, whitestone, ny 11357": null,
+  "465 onderdonk ave, ridgewood, ny 11385": {
+    "lat": 40.7069917,
+    "lon": -73.9119357
+  },
+  "400 jefferson rd, ste 2, rochester, ny 14623": null,
+  "74 lake ave, rochester, ny 14608": {
+    "lat": 43.1661078,
+    "lon": -77.6239691
+  },
+  "4179 state route 20, castleton, ny 12033": null,
+  "3807 harlem rd, buffalo, ny 14215": null,
+  "892 wyckoff ave ground, brooklyn, ny 11237": null,
+  "54 state highway 357, unadilla, ny 13849": null,
+  "305 saw mill river rd, yonkers, ny 10701": {
+    "lat": 40.9473135,
+    "lon": -73.8769372
+  },
+  "143 george st, oswego, ny 13126": {
+    "lat": 43.4624705,
+    "lon": -76.4847285
+  },
+  "807 washington st, peekskill, ny 10566": {
+    "lat": 41.276617,
+    "lon": -73.926849
+  },
+  "515 nostrand ave, brooklyn, ny 11216": {
+    "lat": 40.6797631,
+    "lon": -73.9494268
+  },
+  "343 n comrie ave, johnstown, ny 12095": {
+    "lat": 43.024062,
+    "lon": -74.36084
+  },
+  "new hartford shopping ctr suite 41, new hartford, ny 13413": null,
+  "217 s plank rd, newburgh, ny 12550": {
+    "lat": 41.5278571,
+    "lon": -74.0725661
+  },
+  "165 s plank rd, newburgh, ny 12550": {
+    "lat": 41.5227024,
+    "lon": -74.064267
+  },
+  "2610 broadway ave, new york, ny 10025": {
+    "lat": 40.7966213,
+    "lon": -73.1931003
+  },
+  "978 montauk hwy, water mill, ny 11976": {
+    "lat": 40.9157822,
+    "lon": -72.3472791
+  },
+  "875 neptune ave, brooklyn, ny 11224": {
+    "lat": 40.5796461,
+    "lon": -73.9785176
+  },
+  "136 lake st ste 2, newburgh, ny 12550": null,
+  "24 washington st, ellicottville, ny 14731": {
+    "lat": 42.2759033,
+    "lon": -78.6715929
+  },
+  "2343 forest ave store #3, staten island, ny 10303": null,
+  "75 weibel ave, saratoga springs, ny 12866": {
+    "lat": 43.094595,
+    "lon": -73.7444493
+  },
+  "1151 hylan blvd, staten island, ny 10305": {
+    "lat": 40.5989036,
+    "lon": -74.0812287
+  },
+  "52a kenmare st, new york, ny 10012": {
+    "lat": 40.7215272,
+    "lon": -73.9975948
+  },
+  "383 8th ave, new york, ny 10001": null,
+  "3858 broadway retail, new york, ny 10032": null,
+  "1662  first  avenue, new york, ny 10028": {
+    "lat": 40.9132806,
+    "lon": -73.8125851
+  },
+  "125 state st, rochester, ny 14614": {
+    "lat": 43.1576194,
+    "lon": -77.6147661
+  },
+  "6970 transit rd, amherst, ny 14221": {
+    "lat": 42.9573873,
+    "lon": -78.6971066
+  },
+  "17 tinker st, woodstock, ny 12498": {
+    "lat": 42.0406029,
+    "lon": -74.118859
+  },
+  "2059 richmond ave, staten island, ny 10314": {
+    "lat": 40.5974899,
+    "lon": -74.1618679
+  },
+  "31 webster st, north tonawanda, ny 14120": {
+    "lat": 43.0226493,
+    "lon": -78.8773688
+  },
+  "101 slade ave, west seneca, ny 14224": {
+    "lat": 42.8313522,
+    "lon": -78.7887143
+  },
+  "1460 lyell ave ste 200, rochester, ny 14606": null,
+  "212 ohio st, buffalo, ny 14204": {
+    "lat": 42.8718362,
+    "lon": -78.8711962
+  },
+  "7313 beach channel dr, arverne, ny 11692": {
+    "lat": 40.593662,
+    "lon": -73.7900877
+  },
+  "807 manhattan avenue, brooklyn, ny 11222": {
+    "lat": 40.7279624,
+    "lon": -73.9533113
+  },
+  "1829 como park blvd, lancaster, ny 14086": {
+    "lat": 42.8924617,
+    "lon": -78.6830429
+  },
+  "377 s. union st. suite 5, spencerport, ny 14559": null,
+  "64 henry st, brooklyn, ny 11201": {
+    "lat": 40.6990418,
+    "lon": -73.9924972
+  },
+  "1067 e 2nd st, jamestown, ny 14701": {
+    "lat": 42.109725,
+    "lon": -79.2203217
+  },
+  "360 w ridge rd, rochester, ny 14615": {
+    "lat": 43.1997751,
+    "lon": -77.6366169
+  },
+  "1354 lower broadway, schenectady, ny 12306": {
+    "lat": 42.8036107,
+    "lon": -73.9543994
+  },
+  "11 commercial st, angola, ny 14006": {
+    "lat": 42.6382083,
+    "lon": -79.0280429
+  },
+  "1727 genesee st, buffalo, ny 14211": {
+    "lat": 42.9109621,
+    "lon": -78.8170617
+  },
+  "1118 pennsylvania ave., brooklyn, ny 11207": {
+    "lat": 40.6534388,
+    "lon": -73.8869134
+  },
+  "106 main st, greenwich, ny 12834": null,
+  "2454 elmwood ave, kenmore, ny 14217": {
+    "lat": 42.9640867,
+    "lon": -78.8791669
+  },
+  "3176 niagara falls blvd, north tonawanda, ny 14120": {
+    "lat": 43.0788475,
+    "lon": -78.8699956
+  },
+  "1650 crane st ste 1, schenectady, ny 12303": null,
+  "574 columbia tpke, east greenbush, ny 12061": {
+    "lat": 42.6014292,
+    "lon": -73.7140776
+  },
+  "320 n main st, jamestown, ny 14701": null,
+  "1429 danby rd, ithaca, ny 14850": null,
+  "12 hudson ave, glens falls, ny 12801": {
+    "lat": 43.3085845,
+    "lon": -73.6452307
+  },
+  "5440 route 9w, newburgh, ny 12550": {
+    "lat": 41.5702142,
+    "lon": -73.9924789
+  },
+  "3169 coney island ave, brooklyn, ny 11235": {
+    "lat": 40.5787617,
+    "lon": -73.959451
+  },
+  "3871 s park ave, blasdell, ny 14219": {
+    "lat": 42.7922955,
+    "lon": -78.8239699
+  },
+  "12420 liberty ave side, south richmond hill, ny 11419": null,
+  "381 5th ave, new york, ny 10016": {
+    "lat": 40.7493095,
+    "lon": -73.9835152
+  },
+  "187 mill st suite 5&6, liberty, ny 12754": null,
+  "187 kingston ave, wurstboro, ny 12790": null,
+  "3405 avenue h, brooklyn, ny 11210": {
+    "lat": 40.6320462,
+    "lon": -73.9433454
+  },
+  "1200 mamaroneck ave, white plains, ny 10605": {
+    "lat": 40.9925203,
+    "lon": -73.7465967
+  },
+  "8234 turin rd ste 1, rome, ny 13440": null,
+  "372 e fordham rd, bronx, ny 10458": {
+    "lat": 40.8616961,
+    "lon": -73.8923524
+  },
+  "576 dick rd, suite 10a, depew, ny 14043": null,
+  "5100 transit rd, depew, ny 14043": {
+    "lat": 42.8913193,
+    "lon": -78.6977826
+  },
+  "35 route 9w, haverstraw, ny 10927": null,
+  "1 hall ave, white plains, ny 10603": {
+    "lat": 41.0385929,
+    "lon": -73.7593993
+  },
+  "332 broad st, waverly, ny 14892": {
+    "lat": 42.0008828,
+    "lon": -76.5401313
+  },
+  "3873 main st, warrensburg, ny 12885": {
+    "lat": 43.4967685,
+    "lon": -73.7763493
+  },
+  "37 n main st, ellenville, ny 12428": {
+    "lat": 41.7219059,
+    "lon": -74.3924745
+  },
+  "8137 lefferts blvd, kew gardens, ny 11415": null,
+  "1019 surf ave, brooklyn, ny 11224": {
+    "lat": 40.5757318,
+    "lon": -73.9788176
+  },
+  "2500 arthur ave, bronx, ny 10458": {
+    "lat": 40.8578979,
+    "lon": -73.8852959
+  },
+  "201 northline rd, ballston spa, ny 12020": {
+    "lat": 43.022601,
+    "lon": -73.8400328
+  },
+  "8 n main st, homer, ny 13077": null,
+  "1936 s park ave, buffalo, ny 14220": {
+    "lat": 42.8460218,
+    "lon": -78.8234279
+  },
+  "1708 trumansburg rd, ithaca, ny 14850": {
+    "lat": 42.4946585,
+    "lon": -76.5941377
+  },
+  "743 9th ave, new york, ny 10019": {
+    "lat": 40.7637699,
+    "lon": -73.9890908
+  },
+  "1649 columbia tpke, schodack, ny 12033": {
+    "lat": 42.5657825,
+    "lon": -73.6815271
+  },
+  "102 state st, schenectady, ny 12305": {
+    "lat": 42.8150719,
+    "lon": -73.9472624
+  },
+  "588 4th ave, brooklyn, ny 11215": {
+    "lat": 40.665714,
+    "lon": -73.9928716
+  },
+  "1520 crescent rd suites 300&400, halfmoon, ny 12065": null,
+  "435 5th ave, brooklyn, ny 11215": {
+    "lat": 40.6693767,
+    "lon": -73.9859427
+  },
+  "96 columbia st, rensselaer, ny 12144": {
+    "lat": 42.6346563,
+    "lon": -73.7464795
+  },
+  "21546 39th ave, bayside, ny 11361": null,
+  "496 broadway, newburgh, ny 12550": {
+    "lat": 41.5016003,
+    "lon": -74.0306362
+  },
+  "2234 seneca st, buffalo, ny 14210": null,
+  "971 albany shaker road, colonie, ny 12110": {
+    "lat": 42.7651451,
+    "lon": -73.8151497
+  },
+  "2760 union rd, cheektowaga, ny 14227": {
+    "lat": 42.8872443,
+    "lon": -78.7550728
+  },
+  "519 state route 3, plattsburgh, ny 12901": {
+    "lat": 44.6958653,
+    "lon": -73.4986144
+  },
+  "131-135 saratoga avenue suite #7, south glens falls, ny 12803": null,
+  "1444 route 9d, wappinger, ny 12590": null,
+  "8529 niagara falls blvd, niagara falls, ny 14304": {
+    "lat": 43.0900348,
+    "lon": -78.9665666
+  },
+  "24502 horace harding expy, little neck, ny 11362": {
+    "lat": 40.7606609,
+    "lon": -73.73115
+  },
+  "1471 state route 9, lake george, ny 12845": {
+    "lat": 43.3675248,
+    "lon": -73.6994098
+  },
+  "1031 southern blvd, bronx, ny 10459": {
+    "lat": 40.8236806,
+    "lon": -73.8921811
+  },
+  "1871 old country rd, riverhead, ny 11901": {
+    "lat": 40.9232012,
+    "lon": -72.7084244
+  },
+  "7345 s broadway, red hook, ny 12571": {
+    "lat": 41.987496,
+    "lon": -73.8814142
+  },
+  "743 central park ave, yonkers, ny 10704": {
+    "lat": 40.9269558,
+    "lon": -73.8582107
+  },
+  "2615 south rd, poughkeepsie, ny 12601": {
+    "lat": 41.668012,
+    "lon": -73.9297255
+  },
+  "135-137 marshall st, syracuse, ny 13210": {
+    "lat": 43.0415791,
+    "lon": -76.1307515
+  },
+  "4151 mckinley pkwy, buffalo, ny 14219": {
+    "lat": 42.7713983,
+    "lon": -78.8112852
+  },
+  "15 bridge street, carthage, ny 13619": {
+    "lat": 43.973765,
+    "lon": -75.6152756
+  },
+  "12044 e. main street, wolcott, ny 14590": null,
+  "270-01 hillside ave, glen oaks, ny 11004": null,
+  "114-19 rockaway beach blvd, rockaway park, ny 11694": {
+    "lat": 40.5817479,
+    "lon": -73.8303288
+  },
+  "73 pleasant st, monticello, ny 12701": {
+    "lat": 41.6592316,
+    "lon": -74.6803777
+  },
+  "2520 vestal parkway, east suite 2, vestal, ny 13850": null,
+  "220 harborside dr ste 111, schenectady, ny 12305": null,
+  "237 dekalb ave, brooklyn, ny 11205": {
+    "lat": 40.6895733,
+    "lon": -73.9697293
+  },
+  "7560 niagara falls blvd, niagara falls, ny 14304": {
+    "lat": 43.088368,
+    "lon": -78.977446
+  },
+  "272-06 union turnpike, new hyde park, ny 11040": {
+    "lat": 40.7550894,
+    "lon": -73.6862959
+  },
+  "99 route 17k ste 2, newburgh, ny 12550": null,
+  "115 main st, east rochester, ny 14445": {
+    "lat": 43.114064,
+    "lon": -77.4848713
+  },
+  "719 7th ave, new york, ny 10036": {
+    "lat": 40.7596635,
+    "lon": -73.9840794
+  },
+  "146 front st, deposit, ny 13754": null,
+  "463 main st, beacon, ny 12508": {
+    "lat": 41.5021012,
+    "lon": -73.9654419
+  },
+  "519 madison ave, new york, ny 10022": {
+    "lat": 40.7598702,
+    "lon": -73.9737906
+  },
+  "1618 18th st, niagara falls, ny 14305": {
+    "lat": 43.103996,
+    "lon": -79.0401689
+  },
+  "459 lexington ave, new york, ny 10017": {
+    "lat": 40.7533944,
+    "lon": -73.9744469
+  },
+  "904 elmwood ave, buffalo, ny 14222": {
+    "lat": 42.9218026,
+    "lon": -78.8771986
+  },
+  "572 manhattan ave, brooklyn, ny 11222": {
+    "lat": 40.7225938,
+    "lon": -73.9498754
+  },
+  "296 route 59, airmont, ny 10901": {
+    "lat": 41.1116659,
+    "lon": -74.1011256
+  },
+  "247-14 south conduit avenue, rosedale, ny 11422": null,
+  "111 fulton st, new york, ny 10038": {
+    "lat": 40.7099328,
+    "lon": -74.0069421
+  },
+  "3448 nostrand ave, brooklyn, ny 11229": {
+    "lat": 40.599943,
+    "lon": -73.9420481
+  },
+  "626 oriskany blvd, yorkville, ny 13495": {
+    "lat": 43.1147558,
+    "lon": -75.2792007
+  },
+  "1410 central ave, colonie, ny 12205": {
+    "lat": 42.7060691,
+    "lon": -73.8203278
+  },
+  "245 w 14th st, new york, ny 10011": {
+    "lat": 40.7395779,
+    "lon": -74.0014569
+  },
+  "137 court st, brooklyn, ny 11201": {
+    "lat": 40.6894547,
+    "lon": -73.9922979
+  },
+  "4-10 taft avenue, poughkeepsie, ny 12603": {
+    "lat": 41.7015557,
+    "lon": -73.8965591
+  },
+  "34 main st, ossining, ny 10562": {
+    "lat": 41.1584136,
+    "lon": -73.8680975
+  },
+  "146 virginia st, buffalo, ny 14201": {
+    "lat": 42.8932834,
+    "lon": -78.8856032
+  },
+  "1150 university ave, rochester, ny 14607": {
+    "lat": 43.1532915,
+    "lon": -77.5718584
+  },
+  "224 1st ave, new york, ny 10009": {
+    "lat": 40.7309455,
+    "lon": -73.9826329
+  },
+  "2668 coney island ave, brooklyn, ny 11223": {
+    "lat": 40.591716,
+    "lon": -73.960797
+  },
+  "51 main st, tarrytown, ny 10591": {
+    "lat": 41.0769019,
+    "lon": -73.8605657
+  },
+  "360 7th ave, brooklyn, ny 11215": {
+    "lat": 40.6660672,
+    "lon": -73.9825534
+  },
+  "221 oriskany st e, utica, ny 13501": {
+    "lat": 43.1024606,
+    "lon": -75.2265943
+  },
+  "728 broadway, kingston, ny 12401": {
+    "lat": 41.9317848,
+    "lon": -74.009801
+  },
+  "999 s clinton ave, rochester, ny 14620": {
+    "lat": 43.1386445,
+    "lon": -77.5954569
+  },
+  "844 rt-211 units 1 and 2, wallkill, ny 10941": null,
+  "132 metropolitan ave, brooklyn, ny 11249": null,
+  "9483 foster wheeler rd suite c, dansville, ny 14437": null,
+  "662 seneca ave, ridgewood, ny 11385": {
+    "lat": 40.7032851,
+    "lon": -73.9088495
+  },
+  "2280 flatbush ave, brooklyn, ny 11234": {
+    "lat": 40.6142885,
+    "lon": -73.9280572
+  },
+  "204 e main st, batavia, ny 14020": {
+    "lat": 42.997155,
+    "lon": -78.1815588
+  },
+  "177 fluvanna ave, jamestown, ny 14701": {
+    "lat": 42.1141685,
+    "lon": -79.2482346
+  },
+  "203 main st, brockport, ny 14420": {
+    "lat": 43.2107102,
+    "lon": -77.9392998
+  },
+  "225 malcolm x blvd storefront, brooklyn, ny 11221": null,
+  "2201 avenue u, brooklyn, ny 11229": {
+    "lat": 40.5997379,
+    "lon": -73.9493096
+  },
+  "21917 hillside ave, queens village, ny 11427": {
+    "lat": 40.7290746,
+    "lon": -73.7461494
+  },
+  "1900 empire blvd suite 190, rochester, ny 14580": null,
+  "471 county road 39 # cr-39, southampton, ny 11968": {
+    "lat": 40.8971998,
+    "lon": -72.414793
+  },
+  "411 us-11, central square, ny 13036": null,
+  "1307 north ave, new rochelle, ny 10804": {
+    "lat": 40.9468664,
+    "lon": -73.7956046
+  },
+  "1156 route 29, greenwich, ny 12834": null,
+  "2028 western ave, albany, ny 12203": {
+    "lat": 42.6969812,
+    "lon": -73.8867257
+  },
+  "1557 fulton st, brooklyn, ny 11216": {
+    "lat": 40.6800237,
+    "lon": -73.9390184
+  },
+  "156 clinton ave, cortland, ny 13045": {
+    "lat": 42.607636,
+    "lon": -76.167014
+  },
+  "442 broadway, menands, ny 12204": {
+    "lat": 42.7015104,
+    "lon": -73.7183715
+  },
+  "30 n main st, alfred, ny 14802": {
+    "lat": 42.2549013,
+    "lon": -77.7900836
+  },
+  "1380 french rd., suite # 1, cheektowaga, ny 14043": null,
+  "2124 doubleday ave # 2, ballston spa, ny 12020": {
+    "lat": 43.0176043,
+    "lon": -73.8430741
+  },
+  "598 broadway, new york, ny 10012": {
+    "lat": 40.7252221,
+    "lon": -73.9968213
+  },
+  "607 w 3rd st, jamestown, ny 14701": {
+    "lat": 42.0941161,
+    "lon": -79.2542885
+  },
+  "6075 e henrietta rd, rush, ny 14543": {
+    "lat": 42.9919406,
+    "lon": -77.6452236
+  },
+  "89 kent st, keeseville, ny 12944": {
+    "lat": 44.5047075,
+    "lon": -73.4789102
+  },
+  "4946 state route 52 unit 1, jeffersonville, ny 12748": null,
+  "2521 niagara falls blvd buffalo rush fam future, llc, amherst, ny 14228": null,
+  "2971 route 426, findley lake, ny 14736": null,
+  "755 forest ave, staten island, ny 10310": {
+    "lat": 40.6293401,
+    "lon": -74.1142215
+  },
+  "909 state route 9, suite #3, queensbury, ny 12804": null,
+  "76 route 59, spring valley, ny 10977": null,
+  "2180 clarendon rd, brooklyn, ny 11226": {
+    "lat": 40.6425859,
+    "lon": -73.9569674
+  },
+  "260 clemens center pkwy, elmira, ny 14901": {
+    "lat": 42.0894448,
+    "lon": -76.8050274
+  },
+  "130 broad st ste 7 & 8, glens falls, ny 12801": null,
+  "2400 n ocean ave, farmingville, ny 11738": {
+    "lat": 40.8283055,
+    "lon": -73.0211177
+  },
+  "58 greenpoint ave, brooklyn, ny 11222": {
+    "lat": 40.7295357,
+    "lon": -73.9586557
+  },
+  "6669 west main road, lima, ny 14485": {
+    "lat": 42.901762,
+    "lon": -77.6483186
+  },
+  "34 scott st, jamestown, ny 14701": {
+    "lat": 42.0999388,
+    "lon": -79.2281223
+  },
+  "15748 crossbay blvd, howard beach, ny 11414": {
+    "lat": 40.6600359,
+    "lon": -73.8399647
+  },
+  "203 main st, east aurora, ny 14052": {
+    "lat": 42.7676313,
+    "lon": -78.6273119
+  },
+  "2192 saranac ave, lake placid, ny 12946": {
+    "lat": 44.2936438,
+    "lon": -73.994404
+  },
+  "1399 hylan blvd, staten island, ny 10305": {
+    "lat": 40.5945673,
+    "lon": -74.0869488
+  },
+  "204-206 flatbush ave, brooklyn, ny 11217": {
+    "lat": 40.6783383,
+    "lon": -73.9732991
+  },
+  "338 new dorp lane, staten island, ny 10306": {
+    "lat": 40.5710963,
+    "lon": -74.1113987
+  },
+  "8 north plank rd., newburgh, ny 12550": {
+    "lat": 41.5176486,
+    "lon": -74.0163278
+  },
+  "345 cornelia st, plattsburgh, ny 12901": {
+    "lat": 44.6967442,
+    "lon": -73.4809353
+  },
+  "107-18 70th rd., forest hills, ny 11375": {
+    "lat": 40.7211572,
+    "lon": -73.8453295
+  },
+  "242 east 58th st., new york, ny 10022": {
+    "lat": 40.7600305,
+    "lon": -73.965505
+  },
+  "445 state route 28, kingston, ny 12401": {
+    "lat": 41.9614131,
+    "lon": -74.0590997
+  },
+  "1675 us-9, clifton park, ny 12065": {
+    "lat": 42.8603966,
+    "lon": -73.7642917
+  },
+  "2365 broadhollow rd., farmingdale, ny 11737": {
+    "lat": 40.7459097,
+    "lon": -73.4224566
+  },
+  "556 jefferson road, rochester, ny 14623": {
+    "lat": 43.0876766,
+    "lon": -77.6303154
+  },
+  "75 mamaroneck avenue, white plains, ny 10601": {
+    "lat": 41.0305295,
+    "lon": -73.7654695
+  },
+  "6701 manlius center road, east syracuse, ny 13057": {
+    "lat": 43.0639888,
+    "lon": -76.056351
+  },
+  "2 wade road, latham, ny 12110": {
+    "lat": 42.7557087,
+    "lon": -73.7759715
+  },
+  "5841 bridge street, east syracuse, ny 13057": {
+    "lat": 43.0541657,
+    "lon": -76.0687733
+  },
+  "1764 main street, leicester, ma 01524": {
+    "lat": 42.2523003,
+    "lon": -71.9460731
+  },
+  "49 macy st, amesbury, ma 01913": {
+    "lat": 42.8457853,
+    "lon": -70.9228366
+  },
+  "118 conz street, northampton, ma 01060": {
+    "lat": 42.3126198,
+    "lon": -72.6253792
+  },
+  "160 washington street, brookline, ma 02445": {
+    "lat": 42.3317436,
+    "lon": -71.1180192
+  },
+  "112 main street, wareham, ma 02571": {
+    "lat": 41.7560506,
+    "lon": -70.7131863
+  },
+  "122 pleasant street, easthampton, ma 01027": {
+    "lat": 42.2737408,
+    "lon": -72.6622893
+  },
+  "9 collins avenue, plymouth, ma 02360": {
+    "lat": 41.9604219,
+    "lon": -70.6912268
+  },
+  "50 grove st, salem, ma 01970": {
+    "lat": 42.5226463,
+    "lon": -70.9111243
+  },
+  "999 william s. canning boulevard, fall river, ma 02721": {
+    "lat": 41.66561,
+    "lon": -71.1572919
+  },
+  "7 legion avenue, greenfield, ma 01301": {
+    "lat": 42.5891544,
+    "lon": -72.6041974
+  },
+  "70 industrial avenue east, lowell, ma 01852": {
+    "lat": 42.6146294,
+    "lon": -71.3166703
+  },
+  "107 elm st, salisbury, ma 01952": {
+    "lat": 42.8437159,
+    "lon": -70.8791165
+  },
+  "252 coolidge street, hudson, ma 01749": {
+    "lat": 42.3968802,
+    "lon": -71.5943303
+  },
+  "10 callahan drive, pittsfield, ma 01201": {
+    "lat": 42.4309399,
+    "lon": -73.3186755
+  },
+  "38 littleton rd, ayer, ma 01432": {
+    "lat": 42.5518602,
+    "lon": -71.5659163
+  },
+  "253 millers falls road, montague, ma 01376": {
+    "lat": 42.5902275,
+    "lon": -72.527316
+  },
+  "394 stockbridge road, great barrington, ma 01230": null,
+  "425 main street, oxford, ma 01540": {
+    "lat": 42.128443,
+    "lon": -71.8646035
+  },
+  "640 douglas street, uxbridge, ma 01569": {
+    "lat": 42.0631708,
+    "lon": -71.6694607
+  },
+  "501 dalton avenue, pittsfield, ma 01201": {
+    "lat": 42.4656143,
+    "lon": -73.2123206
+  },
+  "70 frank mossberg dr., attleboro, ma 02703": {
+    "lat": 41.9196479,
+    "lon": -71.3246879
+  },
+  "16 pearson blvd, gardner, ma 01440": {
+    "lat": 42.5664877,
+    "lon": -71.9797278
+  },
+  "9 harrison street, worcester, ma 01604": {
+    "lat": 42.2569265,
+    "lon": -71.7972933
+  },
+  "774 crawford street, fitchburg, ma 01420": {
+    "lat": 42.550296,
+    "lon": -71.7494118
+  },
+  "1021 south st, pittsfield, ma 01201": {
+    "lat": 42.4089957,
+    "lon": -73.2629343
+  },
+  "11 amelia drive, nantucket, ma 02554": {
+    "lat": 41.2665522,
+    "lon": -70.0859012
+  },
+  "74 cottage st, easthampton, ma 01027": {
+    "lat": 42.2644892,
+    "lon": -72.6659791
+  },
+  "238 main street, williamstown, ma 01267": null,
+  "1351 beacon street, brookline, ma 02446": {
+    "lat": 42.3414216,
+    "lon": -71.1227481
+  },
+  "1247 east main street, chicopee, ma 01020": {
+    "lat": 42.1581072,
+    "lon": -72.5426698
+  },
+  "697 washington street, newton, ma 02458": {
+    "lat": 42.3529321,
+    "lon": -71.2022015
+  },
+  "6 thatcher lane, wareham, ma 02571": {
+    "lat": 41.7803014,
+    "lon": -70.7375308
+  },
+  "423 lakeside ave, marlborough, ma 01752": {
+    "lat": 42.3416355,
+    "lon": -71.5795795
+  },
+  "1000 washington street, attleboro, ma 02703": {
+    "lat": 41.900954,
+    "lon": -71.367829
+  },
+  "220 housatonic street, lee, ma 01238": {
+    "lat": 42.299401,
+    "lon": -73.2421284
+  },
+  "401 e. main street, georgetown, ma 01833": {
+    "lat": 42.7071279,
+    "lon": -70.9595403
+  },
+  "2 larch st, pittsfield, ma 01201": {
+    "lat": 42.4585194,
+    "lon": -73.2102482
+  },
+  "380 dwight street, holyoke, ma 01040": {
+    "lat": 42.2046252,
+    "lon": -72.6053794
+  },
+  "420 middlesex street, tyngsborough, ma 01879": null,
+  "95 rhode island avenue, fall river, ma 02724": {
+    "lat": 41.6825618,
+    "lon": -71.1641001
+  },
+  "297 highland avenue, salem, ma 01970": {
+    "lat": 42.5017773,
+    "lon": -70.9240293
+  },
+  "5 south main street, orange, ma 01364": {
+    "lat": 42.5903644,
+    "lon": -72.3095299
+  },
+  "266 north main street, millbury, ma 01527": null,
+  "37 coolidge st., hudson, ma 01749": {
+    "lat": 42.3972266,
+    "lon": -71.593889
+  },
+  "1200 west chestnut street, brockton, ma 02301": {
+    "lat": 42.0528856,
+    "lon": -71.065134
+  },
+  "62-68 w. boylston st., worcester, ma 01606": {
+    "lat": 42.2991095,
+    "lon": -71.8037015
+  },
+  "330-350 pleasant street, watertown, ma 02472": null,
+  "1525 main street, millis, ma 02054": {
+    "lat": 42.1581244,
+    "lon": -71.3874716
+  },
+  "482 globe street, fall river, ma 02724": {
+    "lat": 41.6878573,
+    "lon": -71.1720758
+  },
+  "1045 quaker highway, uxbridge, ma 01569": null,
+  "1400 brayton point road, somerset, ma 02725": {
+    "lat": 41.7290653,
+    "lon": -71.1728803
+  },
+  "645 park avenue, worcester, ma 01603": {
+    "lat": 42.2463067,
+    "lon": -71.8341232
+  },
+  "640 lincoln street, worcester, ma 01605": {
+    "lat": 42.2977306,
+    "lon": -71.7655281
+  },
+  "462 highland ave, salem, ma 01970": {
+    "lat": 42.4934441,
+    "lon": -70.9339451
+  },
+  "73 sargeant st, holyoke, ma 01040": {
+    "lat": 42.1958163,
+    "lon": -72.6068107
+  },
+  "672 fuller road, chicopee, ma 01020": {
+    "lat": 42.1607673,
+    "lon": -72.553599
+  },
+  "1450 east street - suite 2, pittsfield, ma 01201": null,
+  "21 commerce road, rockland, ma 02370": {
+    "lat": 42.1647745,
+    "lon": -70.9023735
+  },
+  "308-310 commercial street, units a3, a4 and a5, provincetown, ma 02657": null,
+  "4018 main street, brewster, ma 02631": {
+    "lat": 41.7756046,
+    "lon": -70.0114512
+  },
+  "371 lunenburg st., fitchburg, ma 01420": {
+    "lat": 42.5856853,
+    "lon": -71.7722407
+  },
+  "430 blue hill ave, boston, ma 02121": {
+    "lat": 42.310323,
+    "lon": -71.081833
+  },
+  "116 newburyport turnpike, rowley, ma 01969": {
+    "lat": 42.7009126,
+    "lon": -70.9112851
+  },
+  "3119 cranberry highway, wareham, ma 02538": {
+    "lat": 41.7546847,
+    "lon": -70.6403528
+  },
+  "253 meridian street, boston, ma 02128": {
+    "lat": 42.3760815,
+    "lon": -71.0388961
+  },
+  "170 commercial street, provincetown, ma 02657": {
+    "lat": 42.047837,
+    "lon": -70.1901704
+  },
+  "124 west street, ware, ma 01082": {
+    "lat": 42.2558983,
+    "lon": -72.2495146
+  },
+  "38 great republic drive, gloucester, ma 01930": {
+    "lat": 42.6284543,
+    "lon": -70.645203
+  },
+  "696 western avenue, lynn, ma 01902": {
+    "lat": 42.4637847,
+    "lon": -70.9642758
+  },
+  "74 grafton street, worcester, ma 01604": {
+    "lat": 42.2592547,
+    "lon": -71.7938273
+  },
+  "35 n. main street, lanesborough, ma 01237": {
+    "lat": 42.5188409,
+    "lon": -73.2281201
+  },
+  "2 merchant street unit 1, sharon, ma 02067": null,
+  "124 washington street, haverhill, ma 01832": {
+    "lat": 42.7726163,
+    "lon": -71.0857417
+  },
+  "102 northampton street, easthampton, ma 01027": null,
+  "200 beacham street, chelsea, ma 02150": {
+    "lat": 42.395664,
+    "lon": -71.051914
+  },
+  "76-100 pleasant street, dracut, ma 01826": {
+    "lat": 42.6683291,
+    "lon": -71.305825
+  },
+  "80 eastern avenue, chelsea, ma 02150": {
+    "lat": 42.3899369,
+    "lon": -71.0236663
+  },
+  "40 westfield industrial park, westfield, ma 01085": {
+    "lat": 42.1418899,
+    "lon": -72.7294694
+  },
+  "268-274 friend street, boston, ma 02114": {
+    "lat": 42.3645464,
+    "lon": -71.0611124
+  },
+  "2 pequod road, fairhaven, ma 02719": null,
+  "400 winthrop street, taunton, ma 02780": {
+    "lat": 41.8859465,
+    "lon": -71.1347143
+  },
+  "783 south main street, great barrington, ma 01230": null,
+  "939 boston turnpike, shrewsbury, ma 01545": {
+    "lat": 42.2791399,
+    "lon": -71.6829099
+  },
+  "665 cochituate road, framingham, ma 01701": {
+    "lat": 42.3075486,
+    "lon": -71.3849476
+  },
+  "11 richards road, plymouth, ma 02360": {
+    "lat": 42.2650226,
+    "lon": -70.8428535
+  },
+  "1317 east street, pittsfield, ma 01201": {
+    "lat": 42.4540051,
+    "lon": -73.2212132
+  },
+  "732 newburyport turnpike, melrose, ma 02176": {
+    "lat": 42.4449498,
+    "lon": -71.0288195
+  },
+  "1375 main st., sheffield, ma 01257": {
+    "lat": 42.1095064,
+    "lon": -73.3538771
+  },
+  "307 main street, great barrington, ma 01230": {
+    "lat": 42.1941277,
+    "lon": -73.3621718
+  },
+  "55 university drive, amherst, ma 01002": {
+    "lat": 42.3789978,
+    "lon": -72.5322283
+  },
+  "250 worcester road, framingham, ma 01702": {
+    "lat": 42.2985078,
+    "lon": -71.4059592
+  },
+  "371-391 damon road, northampton, ma 01060": null,
+  "300 newburyport turnpike unit 1, rowley, ma 01969": null,
+  "118 cambridge street, worcester, ma 01603": {
+    "lat": 42.2432197,
+    "lon": -71.8263767
+  },
+  "1386 massachusetts ave, arlington, ma 02476": {
+    "lat": 42.4243961,
+    "lon": -71.1847118
+  },
+  "22-24 main street, maynard, ma 01754": {
+    "lat": 42.4318758,
+    "lon": -71.4508454
+  },
+  "29 echo road, mashpee, ma 02649": {
+    "lat": 41.6578323,
+    "lon": -70.4961897
+  },
+  "121 webster ave, chelsea, ma 02150": {
+    "lat": 42.4016442,
+    "lon": -71.0242934
+  },
+  "1191 millbury street, worcester, ma 01607": {
+    "lat": 42.2211659,
+    "lon": -71.7835565
+  },
+  "110 pleasant street, northampton, ma 01060": {
+    "lat": 42.3187053,
+    "lon": -72.6278976
+  },
+  "457 russell street, hadley, ma 01035": {
+    "lat": 42.3641503,
+    "lon": -72.5371567
+  },
+  "145 broadway rd dracut, ma 01826, dracut, ma 01826": null,
+  "101 plaistow road, haverhill, ma 01830": {
+    "lat": 42.814395,
+    "lon": -71.102608
+  },
+  "155 northampton street, easthampton, ma 01027": {
+    "lat": 42.2819368,
+    "lon": -72.6682968
+  },
+  "3 dodge street, salem, ma 01970": {
+    "lat": 42.5187709,
+    "lon": -70.89386
+  },
+  "3 route 146, millville, ma 01529": {
+    "lat": 42.0146582,
+    "lon": -71.5891328
+  },
+  "79 river road, uxbridge, ma 01569": {
+    "lat": 42.0373282,
+    "lon": -71.6172336
+  },
+  "401a centre street, boston, ma 02130": {
+    "lat": 42.321676,
+    "lon": -71.1103894
+  },
+  "256 weymouth street, rockland, ma 02370": {
+    "lat": 42.1609037,
+    "lon": -70.9106441
+  },
+  "143 sw cutoff, worcester, ma 01604": {
+    "lat": 42.2323323,
+    "lon": -71.7515397
+  },
+  "221 state road, north adams, ma 01247": {
+    "lat": 42.6982168,
+    "lon": -73.1420307
+  },
+  "77 macy street, amesbury, ma 01913": {
+    "lat": 42.8462897,
+    "lon": -70.9161896
+  },
+  "558 river street, haverhill, ma 01830": {
+    "lat": 42.7645066,
+    "lon": -71.1026116
+  },
+  "220 commercial st, provincetown, ma 02657": {
+    "lat": 42.0497521,
+    "lon": -70.1887186
+  },
+  "126 main street, great barrington, ma 01230": {
+    "lat": 42.199461,
+    "lon": -73.3604094
+  },
+  "246 commercial street, provincetown, ma 02657": {
+    "lat": 42.0505977,
+    "lon": -70.1879088
+  },
+  "29 harding street, middleborough, ma 02346": {
+    "lat": 41.9027715,
+    "lon": -70.972708
+  },
+  "1023 southbridge street, worcester, ma 01610": null,
+  "235 main st., northampton, ma 01060": {
+    "lat": 42.3180625,
+    "lon": -72.6327196
+  },
+  "2 conz street, northampton, ma 01060": {
+    "lat": 42.3162634,
+    "lon": -72.6304241
+  },
+  "327 north pearl street, brockton, ma 02301": {
+    "lat": 42.1004919,
+    "lon": -71.0665304
+  },
+  "897 north montello street, brockton, ma 02301": {
+    "lat": 42.106134,
+    "lon": -71.0224611
+  },
+  "747 centre street, brockton, ma 02302": {
+    "lat": 42.0861783,
+    "lon": -70.988011
+  },
+  "20 authority drive, fitchburg, ma 01420": {
+    "lat": 42.5514326,
+    "lon": -71.8473485
+  },
+  "255 n. pearl st., brockton, ma 02301": {
+    "lat": 42.0984182,
+    "lon": -71.0656294
+  },
+  "10 main street, wellfleet, ma 02667": {
+    "lat": 41.9374426,
+    "lon": -70.0220246
+  },
+  "65 west boylston street, west boylston, ma 01583": {
+    "lat": 42.3586296,
+    "lon": -71.7833639
+  },
+  "50 clapp street, boston, ma 02125": {
+    "lat": 42.3232251,
+    "lon": -71.0629475
+  },
+  "64 mill street, southbridge, ma 01550": null,
+  "4 republic road, billerica, ma 01862": null,
+  "1089 washington street, newton, ma 02465": {
+    "lat": 42.350012,
+    "lon": -71.2179486
+  },
+  "73-75 pleasant street, brockton, ma 02301": {
+    "lat": 42.0885561,
+    "lon": -71.0359873
+  },
+  "985 plain street, marshfield, ma 02050": {
+    "lat": 42.1062929,
+    "lon": -70.7586396
+  },
+  "604 main street, holyoke, ma 01040": {
+    "lat": 42.1949195,
+    "lon": -72.611695
+  },
+  "17 east mountain street, worcester, ma 01606": {
+    "lat": 42.3124759,
+    "lon": -71.7692214
+  },
+  "24-26 elliot street, newton, ma 02461": null,
+  "78 worcester road, suite 225, webster, ma 01520": null,
+  "46 worcester road, charlton, ma 01507": {
+    "lat": 42.1458019,
+    "lon": -71.9855535
+  },
+  "135 westboro road, grafton, ma 01536": {
+    "lat": 42.2438748,
+    "lon": -71.6912238
+  },
+  "454 quaker highway, uxbridge, ma 01569": {
+    "lat": 42.0408506,
+    "lon": -71.6202809
+  },
+  "3 main street, unit 1, eastham, ma 02642": null,
+  "44 william c. gould jr. way, kingston, ma 02364": {
+    "lat": 41.9720204,
+    "lon": -70.7064467
+  },
+  "596 tarkiln hill road, new bedford, ma 02745": {
+    "lat": 41.680488,
+    "lon": -70.9385706
+  },
+  "601-603 fitchburg state road, ashby, ma 01431": {
+    "lat": 42.6526056,
+    "lon": -71.7921699
+  },
+  "76 millbury st., worcester, ma 01610": {
+    "lat": 42.253338,
+    "lon": -71.7990786
+  },
+  "26-28 north king street, northampton, ma 01060": {
+    "lat": 42.3439427,
+    "lon": -72.6425536
+  },
+  "51 davis street, greenfield, ma 01301": {
+    "lat": 42.5894468,
+    "lon": -72.6016681
+  },
+  "424 state road, whately, ma 01093": {
+    "lat": 42.4699056,
+    "lon": -72.6145983
+  },
+  "150 barney avenue, rehoboth, ma 02769": {
+    "lat": 41.7842587,
+    "lon": -71.2872219
+  },
+  "56 jackson street, holyoke, ma 01040": {
+    "lat": 42.195814,
+    "lon": -72.612156
+  },
+  "71-72 union square, somerville, ma 02143": {
+    "lat": 42.3797689,
+    "lon": -71.0961742
+  },
+  "1300 boston road, springfield, ma 01119": {
+    "lat": 42.1413548,
+    "lon": -72.5006522
+  },
+  "1860 main street, springfield, ma 01103": null,
+  "182 brackett road, eastham, ma 02651": {
+    "lat": 41.8550343,
+    "lon": -69.9821992
+  },
+  "21 broadway street, arlington, ma 02474": {
+    "lat": 41.116687,
+    "lon": -80.6593551
+  },
+  "plat 28, parcel 73 a/k/a building 4, commerce drive, northbridge, ma 01534": null,
+  "44 county street, berkley, ma 02779": {
+    "lat": 41.843225,
+    "lon": -71.022075
+  },
+  "2 bridge st., salem, ma 01970": {
+    "lat": 42.5275364,
+    "lon": -70.8903553
+  },
+  "1 lloyd street, blackstone, ma 01504": {
+    "lat": 42.017305,
+    "lon": -71.499681
+  },
+  "65 pullman street, worcester, ma 01606": {
+    "lat": 42.3239484,
+    "lon": -71.798847
+  },
+  "235 hartford turnpike, shrewsbury, ma 01545": {
+    "lat": 42.249209,
+    "lon": -71.7207432
+  },
+  "1903 fall river ave, seekonk, ma 02771": {
+    "lat": 41.7800925,
+    "lon": -71.2981381
+  },
+  "1200 west columbus ave, springfield, ma 01105": {
+    "lat": 42.0965565,
+    "lon": -72.5878155
+  },
+  "682 spring street, winchendon, ma 01475": null,
+  "95 coggeshall street, new bedford, ma 02746": {
+    "lat": 41.6559913,
+    "lon": -70.9198966
+  },
+  "1915 main st., brockton, ma 02301": {
+    "lat": 42.0473119,
+    "lon": -71.0108493
+  },
+  "1446 state highway route 6, wellfleet, ma 02667": null,
+  "450 chelmsford street, lowell, ma 01851": {
+    "lat": 42.6278625,
+    "lon": -71.3202073
+  },
+  "191 lafayette road, salisbury, ma 01952": null,
+  "119 washington street, plainville, ma 02762": {
+    "lat": 42.0171919,
+    "lon": -71.3168172
+  },
+  "1256 west central st, franklin, ma 02038": {
+    "lat": 42.0848305,
+    "lon": -71.446612
+  },
+  "71 main street, egremont, ma 01258": {
+    "lat": 42.1601872,
+    "lon": -73.4193803
+  },
+  "390 arsenal street, watertown, ma 02472": {
+    "lat": 42.3638903,
+    "lon": -71.1643099
+  },
+  "398 deerfield street, greenfield, ma 01301": {
+    "lat": 42.57189,
+    "lon": -72.5946177
+  },
+  "1137 worcester road, framingham, ma 01701": {
+    "lat": 42.2989022,
+    "lon": -71.4439823
+  },
+  "1735 fall river avenue, seekonk, ma 02771": {
+    "lat": 41.7829875,
+    "lon": -71.3058174
+  },
+  "683 rogers street, lowell, ma 01852": null,
+  "199 main street, blackstone, ma 01504": {
+    "lat": 42.0172886,
+    "lon": -71.542433
+  },
+  "4-6 nason street, maynard, ma 01754": {
+    "lat": 42.4345046,
+    "lon": -71.4522824
+  },
+  "11-23 enon street, beverly, ma 01915": {
+    "lat": 42.5850356,
+    "lon": -70.884738
+  },
+  "430 paradise road, swampscott, ma 01907": {
+    "lat": 42.4816161,
+    "lon": -70.9036974
+  },
+  "630 worcester road, framingham, ma 01702": {
+    "lat": 42.2978368,
+    "lon": -71.4226006
+  },
+  "261 king street, northampton, ma 01060": {
+    "lat": 42.331389,
+    "lon": -72.6339764
+  },
+  "505 boston post road west, marlborough, ma 01752": {
+    "lat": 42.3358957,
+    "lon": -71.6036575
+  },
+  "1540 bedford street, abington, ma 02351": {
+    "lat": 42.1438502,
+    "lon": -70.9537958
+  },
+  "346 river st, fitchburg, ma 01420": {
+    "lat": 42.5819684,
+    "lon": -71.8191032
+  },
+  "321 school street, mansfield, ma 02048": {
+    "lat": 42.0144044,
+    "lon": -71.2324017
+  },
+  "510 state road, west tisbury, ma 02575": {
+    "lat": 41.4150712,
+    "lon": -70.667965
+  },
+  "162 grove street, franklin, ma 02038": {
+    "lat": 42.0697888,
+    "lon": -71.4239666
+  },
+  "1148 bridge st, lowell, ma 01852": {
+    "lat": 42.6633179,
+    "lon": -71.3035549
+  },
+  "24 w. main street, ware, ma 01082": {
+    "lat": 42.2604622,
+    "lon": -72.243848
+  },
+  "9 cape road, taunton, ma 02780": {
+    "lat": 41.905453,
+    "lon": -71.0671095
+  },
+  "15 college highway, southampton, ma 01073": {
+    "lat": 42.2520114,
+    "lon": -72.6979673
+  },
+  "144 sturbridge road, charlton, ma 01507": {
+    "lat": 42.1448483,
+    "lon": -71.9680412
+  },
+  "717-721 american legion highway, boston, ma 02121": {
+    "lat": 42.2938594,
+    "lon": -71.0937705
+  },
+  "360 second street, fall river, ma 02721": {
+    "lat": 41.697323,
+    "lon": -71.1572664
+  },
+  "1 menfi way, unit 9, hopedale, ma 01747": null,
+  "2629 south main street, fall river, ma 02721": {
+    "lat": 41.6736376,
+    "lon": -71.1841577
+  },
+  "365 main st, sturbridge, ma 01566": {
+    "lat": 42.1116918,
+    "lon": -72.0888788
+  },
+  "89 parker street, clinton, ma 01510": {
+    "lat": 42.4245399,
+    "lon": -71.6890367
+  },
+  "1274 merrimack street, dracut, ma 01826": null,
+  "567-569 massachusetts ave., cambridge, ma 02139": {
+    "lat": 42.364909,
+    "lon": -71.1028646
+  },
+  "1320 south washington street, north attleborough, ma 02760": {
+    "lat": 41.9383767,
+    "lon": -71.3493142
+  },
+  "22 chestnut hill avenue, athol, ma 01331": {
+    "lat": 42.5953747,
+    "lon": -72.221429
+  },
+  "20 george hannum street, belchertown, ma 01007": {
+    "lat": 42.291037,
+    "lon": -72.409931
+  },
+  "15 mechanics st, tisbury, ma 02568": {
+    "lat": 41.4476112,
+    "lon": -70.6140963
+  },
+  "4 charlesview road, hopedale, ma 01747": null,
+  "100 ford street, lynn, ma 01904": {
+    "lat": 42.4768024,
+    "lon": -70.9570288
+  },
+  "82 hartwell street, fall river, ma 02720": {
+    "lat": 41.6988797,
+    "lon": -71.1535426
+  },
+  "537 great road, littleton, ma 01460": {
+    "lat": 42.5572794,
+    "lon": -71.4847366
+  },
+  "143-145 water st, fitchburg, ma 01420": {
+    "lat": 42.5675433,
+    "lon": -71.7826538
+  },
+  "328 college street, amherst, ma 01002": {
+    "lat": 42.3732472,
+    "lon": -72.5031062
+  },
+  "128 myricks street, berkley, ma 02779": null,
+  "1 cabot street, holyoke, ma 01040": {
+    "lat": 42.1966291,
+    "lon": -72.6021645
+  },
+  "242 john wise avenue, essex, ma 01929": {
+    "lat": 42.6539335,
+    "lon": -70.8074735
+  },
+  "350-354 rantoul street, beverly, ma 01915": {
+    "lat": 42.5483919,
+    "lon": -70.8839149
+  },
+  "73 essex ave, gloucester, ma 01930": {
+    "lat": 42.6095677,
+    "lon": -70.6759151
+  },
+  "83 county street, taunton, ma 02780": {
+    "lat": 41.8964102,
+    "lon": -71.0793196
+  },
+  "2 tarbell street, pepperell, ma 01463": {
+    "lat": 42.6664147,
+    "lon": -71.5727823
+  },
+  "40 forest street, attleboro, ma 02703": null,
+  "35 chase avenue, dudley, ma 01571": {
+    "lat": 42.0414924,
+    "lon": -71.8887094
+  },
+  "330 amesbury road, haverhill, ma 01830": {
+    "lat": 42.8020946,
+    "lon": -71.0531931
+  },
+  "17-19 spearhead drive, nantucket, ma 02554": null,
+  "233 western avenue, lynn, ma 01904": {
+    "lat": 42.4777453,
+    "lon": -70.9488785
+  },
+  "4 main street, brockton, ma 02301": {
+    "lat": 42.084987,
+    "lon": -71.0199696
+  },
+  "1 lewiston street, fall river, ma 02721": {
+    "lat": 41.6915739,
+    "lon": -71.146389
+  },
+  "93 davis street, douglas, ma 01516": {
+    "lat": 42.0646696,
+    "lon": -71.6947167
+  },
+  "200 williams street, dighton, ma 02764": {
+    "lat": 41.869031,
+    "lon": -71.1649224
+  },
+  "953 western avenue, lynn, ma 01901": {
+    "lat": 42.4564749,
+    "lon": -70.9729076
+  },
+  "47 milford street, mendon, ma 01756": {
+    "lat": 42.1149247,
+    "lon": -71.5455885
+  },
+  "67 broadway, somerville, ma 02145": {
+    "lat": 42.3871265,
+    "lon": -71.0810423
+  },
+  "630 beaulieu street, holyoke, ma 01040": {
+    "lat": 42.1921928,
+    "lon": -72.6170397
+  },
+  "239 west st, pittsfield, ma 01201": null,
+  "1010 pleasant street, belmont, ma 02478": {
+    "lat": 42.3929993,
+    "lon": -71.1816041
+  },
+  "130 worcester street, grafton, ma 01519": null,
+  "242 mansfield avenue, norton, ma 02766": {
+    "lat": 41.9885453,
+    "lon": -71.2106649
+  },
+  "580 massachusetts ave, cambridge, ma 02139": {
+    "lat": 42.3647316,
+    "lon": -71.1029968
+  },
+  "454 main street, great barrington, ma 01230": {
+    "lat": 42.1896626,
+    "lon": -73.365206
+  },
+  "41 strong ave., northampton, ma 01060": {
+    "lat": 42.319098,
+    "lon": -72.6275745
+  },
+  "114 lancaster road, shirley, ma 01464": {
+    "lat": 42.5312875,
+    "lon": -71.6651461
+  },
+  "40 jackson street, worcester, ma 01608": {
+    "lat": 42.2564269,
+    "lon": -71.8091727
+  },
+  "690 broadway, somerville, ma 02144": {
+    "lat": 42.3996116,
+    "lon": -71.1118918
+  },
+  "71 maverick square, boston, ma 02128": {
+    "lat": 42.3697297,
+    "lon": -71.0385625
+  },
+  "200 monsignor o'brien highway, cambridge, ma 02141": {
+    "lat": 42.3721157,
+    "lon": -71.0793863
+  },
+  "518 somerville ave, somerville, ma 02143": {
+    "lat": 42.3829764,
+    "lon": -71.1061381
+  },
+  "463 maple st, winchendon, ma 01475": {
+    "lat": 42.6935415,
+    "lon": -72.0159331
+  },
+  "768 pleasant street, belmont, ma 02478": {
+    "lat": 42.3925768,
+    "lon": -71.1822332
+  },
+  "31 church street, cambridge, ma 02138": {
+    "lat": 42.3745368,
+    "lon": -71.1201974
+  },
+  "240 elm street, somerville, ma 02144": {
+    "lat": 42.3950843,
+    "lon": -71.1220917
+  },
+  "1030 commonwealth ave, brookline, ma 02215": null,
+  "7 linehurst road, malden, ma 02148": {
+    "lat": 42.443834,
+    "lon": -71.0258324
+  },
+  "1269 memorial drive, chicopee, ma 01020": {
+    "lat": 42.1923257,
+    "lon": -72.5755067
+  },
+  "230 harvard avenue, boston, ma 02134": {
+    "lat": 42.3490652,
+    "lon": -71.1296109
+  },
+  "30 mozzone boulevard, taunton, ma 02780": {
+    "lat": 41.8751964,
+    "lon": -71.0608252
+  },
+  "323 commercial street, malden, ma 02148": null,
+  "150 state street, boston, ma 02109": {
+    "lat": 42.3594131,
+    "lon": -71.054075
+  },
+  "150 hartford ave, hopedale, ma 01747": null,
+  "829 boston street, lynn, ma 01905, lynn, ma 01905": null,
+  "894 plymouth street, halifax, ma 02338": {
+    "lat": 41.995617,
+    "lon": -70.8938902
+  },
+  "912 crescent street, brockton, ma 02302": {
+    "lat": 42.0807221,
+    "lon": -70.9818318
+  },
+  "223 lunenburg st, fitchburg, ma 01420": {
+    "lat": 42.584863,
+    "lon": -71.780426
+  },
+  "80 main street, rutland, ma 01543": {
+    "lat": 42.3717832,
+    "lon": -71.9299384
+  },
+  "144 king street, northampton, ma 01060": {
+    "lat": 42.3247706,
+    "lon": -72.6334094
+  },
+  "116 cambridge street, boston, ma 02129": {
+    "lat": 42.382288,
+    "lon": -71.079049
+  },
+  "1006 bennington street, boston, ma 02128": {
+    "lat": 42.3859879,
+    "lon": -71.0084109
+  },
+  "40 lyman street, holyoke, ma 01040": {
+    "lat": 42.2067991,
+    "lon": -72.597155
+  },
+  "297 broadway street, taunton, ma 02780": null,
+  "240 bridge st, fairhaven, ma 02719": {
+    "lat": 41.6468163,
+    "lon": -70.8866809
+  },
+  "378-380 highland avenue, somerville, ma 02144": {
+    "lat": 42.3959575,
+    "lon": -71.1210811
+  },
+  "15 bank street, wellfleet, ma 02667": {
+    "lat": 41.9372309,
+    "lon": -70.0304166
+  },
+  "248 state road, westport, ma 02790": {
+    "lat": 41.6734039,
+    "lon": -71.1038275
+  },
+  "321 speen street, natick, ma 01760": {
+    "lat": 42.3039219,
+    "lon": -71.3795169
+  },
+  "331 newbury street, boston, ma 02115": {
+    "lat": 42.3487461,
+    "lon": -71.0864261
+  },
+  "48-62 brookline ave, boston, ma 02215": {
+    "lat": 42.3439329,
+    "lon": -71.1020182
+  },
+  "255 elm street, somerville, ma 02144": {
+    "lat": 42.3955069,
+    "lon": -71.121822
+  },
+  "114 main street, blackstone, ma 01504": {
+    "lat": 42.018987,
+    "lon": -71.5374096
+  },
+  "650 beaulieu street, holyoke, ma 01040": {
+    "lat": 42.1916135,
+    "lon": -72.6175072
+  },
+  "87 northfield road, bernardston, ma 01337": {
+    "lat": 42.6694573,
+    "lon": -72.5375097
+  },
+  "883 hyde park ave, boston, ma 02136": {
+    "lat": 42.2698739,
+    "lon": -71.1208657
+  },
+  "41 ma-6a, orleans, ma 02653": {
+    "lat": 41.793379,
+    "lon": -69.9846369
+  },
+  "127 columbia st, adams, ma 01220": null,
+  "85 devonshire street, boston, ma 02210": {
+    "lat": 42.3577291,
+    "lon": -71.0574753
+  },
+  "311 page boulevard, springfield, ma 01104": {
+    "lat": 42.1342308,
+    "lon": -72.5608658
+  },
+  "635 laurel street, lee, ma 01238": {
+    "lat": 42.3265382,
+    "lon": -73.2624613
+  },
+  "319 monponsett street, halifax, ma 02338": {
+    "lat": 41.9967574,
+    "lon": -70.8441076
+  },
+  "882-886 south st, boston, ma 02131": {
+    "lat": 42.2972016,
+    "lon": -71.1203774
+  },
+  "291 worcester street, natick, ma 01760": {
+    "lat": 42.3019372,
+    "lon": -71.3404871
+  },
+  "50 whalon street, fitchburg, ma 01420": {
+    "lat": 42.5551842,
+    "lon": -71.7853219
+  },
+  "477 wareham st, middleborough, ma 02346": {
+    "lat": 41.8392419,
+    "lon": -70.8436608
+  },
+  "260 second street, chelsea, ma 02150": {
+    "lat": 42.3961861,
+    "lon": -71.0465325
+  },
+  "320 airport road, fall river, ma 02720": {
+    "lat": 41.7526095,
+    "lon": -71.1163318
+  },
+  "493 faunce corner road, dartmouth, ma 02747": {
+    "lat": 41.6723997,
+    "lon": -70.9899225
+  },
+  "1686 massachusetts ave, cambridge, ma 02138": {
+    "lat": 42.3826392,
+    "lon": -71.1199693
+  },
+  "489 main street, groton, ma 01450": {
+    "lat": 42.6198678,
+    "lon": -71.5858691
+  },
+  "98 winthrop street, cambridge, ma 02138": {
+    "lat": 42.3723491,
+    "lon": -71.1212504
+  },
+  "12 latti farm road, millbury, ma 01527": {
+    "lat": 42.2159015,
+    "lon": -71.772177
+  },
+  "267 broadway, chelsea, ma 02150": {
+    "lat": 42.3907665,
+    "lon": -71.0373024
+  },
+  "479 main street, springfield, ma 01151": {
+    "lat": 42.1561961,
+    "lon": -72.48863
+  },
+  "666 state st., springfield, ma 01109": null,
+  "17 broad street, merrimac, ma 01860": {
+    "lat": 42.8337198,
+    "lon": -71.0003467
+  },
+  "1140 thorndike street, palmer, ma 01069": {
+    "lat": 42.1678373,
+    "lon": -72.326478
+  },
+  "130 commerce way, woburn, ma 01801": {
+    "lat": 42.5181903,
+    "lon": -71.1393881
+  },
+  "747 state road, dartmouth, ma 02747": {
+    "lat": 41.6390259,
+    "lon": -71.0291287
+  },
+  "11 mccracken road, suite c,, millbury, ma 01527": null,
+  "120 enterprise drive, marshfield, ma 02050": {
+    "lat": 42.1027929,
+    "lon": -70.7486009
+  },
+  "304 somerville avenue, somerville, ma 02143": null,
+  "800 falmouth road unit 102a, mashpee, ma 02649": null,
+  "678 adams street, abington, ma 02351": {
+    "lat": 42.1401477,
+    "lon": -70.9461621
+  },
+  "2121 phillips road, new bedford, ma 02740": {
+    "lat": 41.7253013,
+    "lon": -70.9499108
+  },
+  "727 atlantic ave., boston, ma 02111": {
+    "lat": 42.3506754,
+    "lon": -71.056699
+  },
+  "2a-4 neptune road, boston, ma 02128": {
+    "lat": 42.3802318,
+    "lon": -71.0258053
+  },
+  "193-195 oxford st, lynn, ma 01901": {
+    "lat": 42.4648538,
+    "lon": -70.9456855
+  },
+  "693 elm street, bridgewater, ma 02324": {
+    "lat": 41.9860529,
+    "lon": -71.0214774
+  },
+  "320 west broadway, gardner, ma 01440": {
+    "lat": 42.5617738,
+    "lon": -71.9920524
+  },
+  "1379-1385 blue hill ave, boston, ma 02126": null,
+  "591 albany st, boston, ma 02118": {
+    "lat": 42.3374857,
+    "lon": -71.0683483
+  },
+  "216 ricciuti drive, quincy, ma 02169": {
+    "lat": 42.23962,
+    "lon": -71.0412213
+  },
+  "446 winthrop street, taunton, ma 02780": {
+    "lat": 41.8954937,
+    "lon": -71.1018275
+  },
+  "1695 shawsheen st, tewksbury, ma 01876": {
+    "lat": 42.6181965,
+    "lon": -71.1846698
+  },
+  "1 forge village road, groton, ma 01450": {
+    "lat": 42.5791645,
+    "lon": -71.520424
+  },
+  "27 robert j. way, plymouth, ma 02360": {
+    "lat": 41.9297387,
+    "lon": -70.6495499
+  },
+  "17 east st., easthampton, ma 01027": null,
+  "879 blue hill avenue, boston, ma 02124": {
+    "lat": 42.2953862,
+    "lon": -71.0882997
+  },
+  "553 main street, unit 2, tewksbury, ma 01876": null,
+  "305 bedford street, whitman, ma 02382": {
+    "lat": 42.0689716,
+    "lon": -70.947787
+  },
+  "85 worcester road, framingham, ma 01702": {
+    "lat": 42.29809,
+    "lon": -71.4451683
+  },
+  "239 boston post road west, marlborough, ma 01752": {
+    "lat": 42.3379003,
+    "lon": -71.5918702
+  },
+  "175 george washington blvd., hull, ma 02045": {
+    "lat": 42.2687197,
+    "lon": -70.8558566
+  },
+  "660 college highway, southwick, ma 01077": {
+    "lat": 42.0672888,
+    "lon": -72.763541
+  },
+  "325 stockbridge rd, great barrington, ma 01230": {
+    "lat": 42.2113446,
+    "lon": -73.3464175
+  },
+  "1423 bedford street, abington, ma 02351": {
+    "lat": 42.1414323,
+    "lon": -70.9516177
+  },
+  "243 main street, athol, ma 01331": {
+    "lat": 42.5934309,
+    "lon": -72.234358
+  },
+  "211-217 lewis street, lynn, ma 01902": {
+    "lat": 42.4659972,
+    "lon": -70.9300395
+  },
+  "232 boylston street, newton, ma 02459": {
+    "lat": 42.3194273,
+    "lon": -71.1773765
+  },
+  "220 william mcclellan hwy, boston, ma 02128": {
+    "lat": 42.3875613,
+    "lon": -71.0176026
+  },
+  "48 north beacon street, watertown, ma 02472": {
+    "lat": 42.3608799,
+    "lon": -71.1653848
+  },
+  "827-829 boylston street, boston, ma 02116": {
+    "lat": 42.3503817,
+    "lon": -71.0762738
+  },
+  "966 cambridge st., cambridge, ma 02141": {
+    "lat": 42.3725338,
+    "lon": -71.093203
+  },
+  "162 mystic avenue, medford, ma 02155": {
+    "lat": 42.4097314,
+    "lon": -71.1046296
+  },
+  "701-703b mt. auburn street, cambridge, ma 02138": null,
+  "130 pioneer drive, leominster, ma 01453": {
+    "lat": 42.531311,
+    "lon": -71.709227
+  },
+  "1960 massachusetts avenue, cambridge, ma 02140": {
+    "lat": 42.3897667,
+    "lon": -71.1207839
+  },
+  "116 harvard avenue, boston, ma 02134": {
+    "lat": 42.3525469,
+    "lon": -71.1317883
+  },
+  "449 route 130, sandwich, ma 02563": {
+    "lat": 41.734869,
+    "lon": -70.492384
+  },
+  "5252-5270 washington street, boston, ma 02132": {
+    "lat": 42.2594862,
+    "lon": -71.1587936
+  },
+  "759 massachusetts avenue, cambridge, ma 02139": {
+    "lat": 42.3665896,
+    "lon": -71.1053565
+  },
+  "175 memorial avenue, west springfield, ma 01089": {
+    "lat": 42.096739,
+    "lon": -72.599411
+  },
+  "611 west st., mansfield, ma 02084": {
+    "lat": 42.0255075,
+    "lon": -71.2428292
+  },
+  "1201 westford street, lowell, ma 01851": null,
+  "439 pittsfield road, lenox, ma 01240": null,
+  "112-114 main street, pepperell, ma 01463": {
+    "lat": 42.66543,
+    "lon": -71.5820688
+  },
+  "61 silva lane, dracut, ma 01826": {
+    "lat": 42.6939705,
+    "lon": -71.258455
+  },
+  "103 uxbridge road, mendon, ma 01756": {
+    "lat": 42.0959817,
+    "lon": -71.5797561
+  },
+  "275 sturbridge road, brimfield, ma 01010": {
+    "lat": 42.1189179,
+    "lon": -72.1985081
+  },
+  "208 worcester street, southbridge, ma 01550": {
+    "lat": 42.0836626,
+    "lon": -72.0265761
+  },
+  "9 whistle stop way, gloucester, ma 01930": {
+    "lat": 42.6169941,
+    "lon": -70.6680985
+  },
+  "264 newburyport turnpike, rowley, ma 01969": {
+    "lat": 42.7111575,
+    "lon": -70.9086561
+  },
+  "910 boston post rd. ste.#100, marlborough, ma 01752": null,
+  "345 main street, southbridge, ma 01550": {
+    "lat": 42.0757112,
+    "lon": -72.0351243
+  },
+  "165 westgate drive, brockton, ma 02301": {
+    "lat": 42.0953733,
+    "lon": -71.05575
+  },
+  "16 new ocean street, swampscott, ma 01907": {
+    "lat": 42.4695145,
+    "lon": -70.9226936
+  },
+  "144 bowdoin st., boston, ma 02122": {
+    "lat": 42.3038406,
+    "lon": -71.0708826
+  },
+  "26 strong ave, northampton, ma 01060": {
+    "lat": 42.3198079,
+    "lon": -72.6279765
+  },
+  "21 broad st, boston, ma 02109": {
+    "lat": 42.3584643,
+    "lon": -71.0546641
+  },
+  "561 dudley street, boston, ma 02125": {
+    "lat": 42.3209325,
+    "lon": -71.072672
+  },
+  "43 freeport street, boston, ma 02122": {
+    "lat": 42.2902213,
+    "lon": -71.0482463
+  },
+  "475 southampton road, westfield, ma 01085": {
+    "lat": 42.1558639,
+    "lon": -72.7253499
+  },
+  "259 cambridge street, boston, ma 02134": {
+    "lat": 42.3576674,
+    "lon": -71.1280241
+  },
+  "3995-3997 washington street, boston, ma 02131": null,
+  "740 beacon street, newton, ma 02459": {
+    "lat": 42.3309029,
+    "lon": -71.1890419
+  },
+  "1437 bedford street, abington, ma 02351": {
+    "lat": 42.1441603,
+    "lon": -70.9517324
+  },
+  "251 russell st., hadley, ma 01035": {
+    "lat": 42.3481392,
+    "lon": -72.5696563
+  },
+  "45-49 bank row, greenfield, ma 01301": {
+    "lat": 42.5858013,
+    "lon": -72.6009676
+  },
+  "1235 thorndike street, palmer, ma 01069": {
+    "lat": 42.1774368,
+    "lon": -72.3187274
+  },
+  "220 o'neil boulevard, attleboro, ma 02703": {
+    "lat": 41.9371804,
+    "lon": -71.2752458
+  },
+  "610 gar highway, swansea, ma 02777": {
+    "lat": 41.747376,
+    "lon": -71.2077135
+  },
+  "43 summer st, lunenburg, ma 01462": null,
+  "100 leo m. birmingham parkway, boston, ma 02135": {
+    "lat": 42.3586773,
+    "lon": -71.1467326
+  },
+  "14 lots hollow, orleans, ma 02653": {
+    "lat": 41.7782775,
+    "lon": -69.9995036
+  },
+  "715 washington st., quincy, ma 02169": {
+    "lat": 42.2448693,
+    "lon": -70.9692305
+  },
+  "15 main st, holyoke, ma 01040": {
+    "lat": 42.2054676,
+    "lon": -72.6024339
+  },
+  "1524 vfw parkway, boston, ma 02132": {
+    "lat": 42.2682894,
+    "lon": -71.1703971
+  },
+  "1015 hingham st., rockland, ma 02370": {
+    "lat": 42.1622436,
+    "lon": -70.9005166
+  },
+  "200 high street, boston, ma 02110": {
+    "lat": 42.3568611,
+    "lon": -71.0518611
+  },
+  "56 millbrook street, worcester, ma 01606": {
+    "lat": 42.2889117,
+    "lon": -71.802764
+  },
+  "1 main road, gill, ma 01354": {
+    "lat": 42.67979,
+    "lon": -72.482432
+  },
+  "34 cross road, clarksburg, ma 01247": {
+    "lat": 42.7157438,
+    "lon": -73.0797826
+  },
+  "461 boston road / ss boston road, springfield, ma 01109": null,
+  "2727 jacobs ladder rd, becket, ma 01223": {
+    "lat": 42.2638064,
+    "lon": -73.1348002
+  },
+  "160 hartwell st., fall river, ma 02721": {
+    "lat": 41.6979611,
+    "lon": -71.1533559
+  },
+  "315 worcester road, framingham, ma 01701": {
+    "lat": 42.2982716,
+    "lon": -71.4102117
+  },
+  "1240 park street, palmer, ma 01069": {
+    "lat": 42.1520231,
+    "lon": -72.3154746
+  },
+  "115 k street, boston, ma 02127": {
+    "lat": 42.3378404,
+    "lon": -71.0376188
+  },
+  "476 main street, bolton, ma 01740": {
+    "lat": 42.4300357,
+    "lon": -71.5889969
+  },
+  "399 boston road w, monson, ma 01057": {
+    "lat": 42.1538647,
+    "lon": -72.371858
+  },
+  "1102 riverdale st, west springfield, ma 01089": {
+    "lat": 42.1343088,
+    "lon": -72.6265651
+  },
+  "405-409 middlesex road, tyngsborough, ma 01879": {
+    "lat": 42.6940244,
+    "lon": -71.4359171
+  },
+  "196 bear hill road, waltham, ma 02451": null,
+  "15 liberty st., quincy, ma 02169": {
+    "lat": 42.2404148,
+    "lon": -71.0060841
+  },
+  "267 amherst road, sunderland, ma 01375": {
+    "lat": 42.4522944,
+    "lon": -72.5644322
+  },
+  "505 quincy avenue, quincy, ma 02169": {
+    "lat": 42.2362484,
+    "lon": -70.9807799
+  },
+  "401 curran highway, north adams, ma 01247": {
+    "lat": 42.6886875,
+    "lon": -73.1118621
   }
 }
