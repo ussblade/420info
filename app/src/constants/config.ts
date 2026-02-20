@@ -8,7 +8,7 @@
  * Replace YOUR_USERNAME with your GitHub username.
  */
 export const CDN_URL =
-  'https://YOUR_USERNAME.github.io/420nearme/dispensaries.json';
+  'https://ussblade.github.io/420info/dispensaries.json';
 
 /** Search radius in meters for Overpass API queries */
 export const SEARCH_RADIUS_METERS = 16093; // ~10 miles
@@ -39,7 +39,7 @@ export const OVERPASS_TIMEOUT_SECONDS = 25;
 export const NOMINATIM_URL = 'https://nominatim.openstreetmap.org/search';
 
 /** User-Agent header required by Nominatim usage policy */
-export const USER_AGENT = '420nearme/1.0 (github.com/YOUR_USERNAME/420nearme)';
+export const USER_AGENT = '420nearme/1.0 (github.com/ussblade/420info)';
 
 /** Debounce delay for search input in ms */
 export const SEARCH_DEBOUNCE_MS = 600;
