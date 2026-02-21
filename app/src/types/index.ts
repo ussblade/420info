@@ -5,7 +5,7 @@
 
 // ─── Dispensary ──────────────────────────────────────────────────────────────
 
-export type DispensarySource = 'scraped' | 'osm';
+export type DispensarySource = 'scraped' | 'osm' | 'google';
 
 export interface Dispensary {
   /** Stable ID (state-slug-index for scraped, osm-<osmId> for OSM) */
@@ -22,6 +22,10 @@ export interface Dispensary {
   licenseNumber?: string;
   /** Hours of operation — free-form string from OSM tags */
   openingHours?: string;
+  /** Google star rating (1–5), present for 'google' source entries */
+  rating?: number;
+  /** Number of Google reviews */
+  reviewCount?: number;
   source: DispensarySource;
   /** Computed after merge; miles from user location */
   distanceMiles?: number;

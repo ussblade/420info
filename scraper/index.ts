@@ -22,6 +22,7 @@ import {
   scrapeConnecticut,
   scrapeMaine,
   scrapeMassachusetts,
+  scrapeGooglePlaces,
 } from './states';
 import { loadGeoCache, saveGeoCache } from './geocode';
 
@@ -37,7 +38,9 @@ export interface ScrapedDispensary {
   phone?: string;
   website?: string;
   licenseNumber?: string;
-  source: 'scraped' | 'osm';
+  rating?: number;
+  reviewCount?: number;
+  source: 'scraped' | 'osm' | 'google';
 }
 
 const OUTPUT_DIR = path.join(__dirname, 'output');
@@ -91,6 +94,7 @@ async function main() {
     scrapeConnecticut,
     scrapeMaine,
     scrapeMassachusetts,
+    scrapeGooglePlaces, // runs last so official data takes dedup priority
   ];
 
   const allResults: ScrapedDispensary[] = [];

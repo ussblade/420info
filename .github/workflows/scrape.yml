@@ -26,6 +26,8 @@ jobs:
         run: cd scraper && npm install
 
       - name: Run scrapers
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
         run: cd scraper && npm run scrape
 
       - name: Verify output

@@ -8,3 +8,4 @@ export { scrapeMissouri } from './missouri';
 export { scrapeConnecticut } from './connecticut';
 export { scrapeMaine } from './maine';
 export { scrapeMassachusetts } from './massachusetts';
+export { scrapeGooglePlaces } from './google-places';
