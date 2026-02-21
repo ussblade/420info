@@ -21,6 +21,17 @@ interface NominatimResult {
 }
 
 /**
+ * Geocode a text query to coordinates. Returns the top result or null.
+ * Used by LocationsScreen for city/zip text search.
+ */
+export async function geocodeQuery(
+  query: string,
+): Promise<{ latitude: number; longitude: number } | null> {
+  const results = await searchPlaces(query);
+  return results.length > 0 ? { latitude: results[0].latitude, longitude: results[0].longitude } : null;
+}
+
+/**
  * Search for a location by text query.
  * Returns up to NOMINATIM_MAX_RESULTS suggestions, US only.
  */

@@ -3,35 +3,45 @@ import { NavigationContainer } from '@react-navigation/native';
 import { StatusBar } from 'expo-status-bar';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
+import { ThemeProvider, useTheme } from './themes';
 import { TabNavigator } from './navigation/TabNavigator';
-import { Colors } from './constants/theme';
+
+function ThemedApp() {
+  const { theme } = useTheme();
+
+  return (
+    <NavigationContainer
+      theme={{
+        dark: theme.statusBar === 'light',
+        colors: {
+          primary: theme.primary,
+          background: theme.bg,
+          card: theme.surface,
+          text: theme.text,
+          border: theme.border,
+          notification: theme.accent,
+        },
+        fonts: {
+          regular: { fontFamily: theme.fontBody, fontWeight: '400' },
+          medium: { fontFamily: theme.fontBody, fontWeight: '500' },
+          bold: { fontFamily: theme.fontDisplay, fontWeight: '700' },
+          heavy: { fontFamily: theme.fontDisplay, fontWeight: '900' },
+        },
+      }}
+    >
+      <StatusBar style={theme.statusBar} backgroundColor={theme.headerBg} />
+      <TabNavigator />
+    </NavigationContainer>
+  );
+}
 
 export default function App() {
   return (
     <GestureHandlerRootView style={{ flex: 1 }}>
       <SafeAreaProvider>
-        <NavigationContainer
-          theme={{
-            dark: true,
-            colors: {
-              primary: Colors.primary,
-              background: Colors.background,
-              card: Colors.surface,
-              text: Colors.text,
-              border: Colors.divider,
-              notification: Colors.primary,
-            },
-            fonts: {
-              regular: { fontFamily: 'System', fontWeight: '400' },
-              medium: { fontFamily: 'System', fontWeight: '500' },
-              bold: { fontFamily: 'System', fontWeight: '700' },
-              heavy: { fontFamily: 'System', fontWeight: '900' },
-            },
-          }}
-        >
-          <StatusBar style="light" backgroundColor={Colors.background} />
-          <TabNavigator />
-        </NavigationContainer>
+        <ThemeProvider>
+          <ThemedApp />
+        </ThemeProvider>
       </SafeAreaProvider>
     </GestureHandlerRootView>
   );
