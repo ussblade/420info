@@ -126,7 +126,7 @@ function parseGoogleAddress(formatted: string): {
   state: string;
   zip: string;
 } | null {
-  const clean = formatted.replace(/,?\s*USA\s*$/, '').trim();
+  const clean = formatted.replace(/,?\s*(USA|United States)\s*$/, '').trim();
   const parts = clean.split(', ');
   if (parts.length < 3) return null;
 

@@ -3,11 +3,11 @@
  * Layout and colors driven entirely by the active theme.
  */
 
-import React, { useState, useCallback, useMemo } from 'react';
+import React, { useState, useCallback, useMemo, useEffect } from 'react';
 import {
   View, Text, TextInput, TouchableOpacity, FlatList,
   StyleSheet, ScrollView, Modal, ActivityIndicator,
-  SafeAreaView, Platform, KeyboardAvoidingView, Alert,
+  SafeAreaView, Platform, KeyboardAvoidingView, Alert, Linking,
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { useTheme, THEME_LIST, type AppTheme } from '../themes';
@@ -85,8 +85,21 @@ function DispensaryCard({ item, index, theme }: { item: Dispensary; index: numbe
             <Text style={s.actionText}>Directions</Text>
           </TouchableOpacity>
 
+          {item.website && (
+            <TouchableOpacity
+              style={[s.actionBtn, s.actionBtnSecondary]}
+              onPress={() => Linking.openURL(item.website!)}
+            >
+              <Ionicons name="globe" size={13} color={theme.primary} />
+              <Text style={[s.actionText, { color: theme.primary }]}>Website</Text>
+            </TouchableOpacity>
+          )}
+
           {item.phone && (
-            <TouchableOpacity style={[s.actionBtn, s.actionBtnSecondary]}>
+            <TouchableOpacity
+              style={[s.actionBtn, s.actionBtnSecondary]}
+              onPress={() => Linking.openURL(`tel:${item.phone}`)}
+            >
               <Ionicons name="call" size={13} color={theme.primary} />
               <Text style={[s.actionText, { color: theme.primary }]}>Call</Text>
             </TouchableOpacity>
@@ -217,9 +230,14 @@ function ThemePickerModal({ visible, onClose }: { visible: boolean; onClose: () 
 // ─── Main Screen ─────────────────────────────────────────────────────────────
 export function LocationsScreen() {
   const { theme } = useTheme();
-  const { location, loading: locationLoading, error: locationError, refresh: refreshLocation } = useLocation();
+  const { coordinates: location, loading: locationLoading, error: locationError, requestLocation } = useLocation();
 
   const [searchMode, setSearchMode] = useState<'gps' | 'text'>('gps');
+
+  // Auto-request GPS permission on mount
+  useEffect(() => {
+    requestLocation();
+  }, []);
   const [searchText, setSearchText] = useState('');
   const [radiusMiles, setRadiusMiles] = useState(25);
   const [dispensaries, setDispensaries] = useState<Dispensary[]>([]);
