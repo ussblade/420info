@@ -9333,5 +9333,17 @@
   "401 curran highway, north adams, ma 01247": {
     "lat": 42.6886875,
     "lon": -73.1118621
-  }
+  },
+  "1615 basin st sw, ephrata, wa 98823": null,
+  "261 state hwy 28 west, soap lake, wa 98851": null,
+  "1611 s smittys blvd ste b, ritzville, wa 99169": null,
+  "3310 auburn way n ste c/d, auburn, wa 98002": null,
+  "4028 196th st sw ste 104, lynnwood, wa 98036": null,
+  "21412 highway 99 ste a, edmonds, wa 98026": null,
+  "2139 highway 395 s, chewelah, wa 99109": null,
+  "716 amsterdam ave, new york, ny 10025": {
+    "lat": 40.7932583,
+    "lon": -73.9711769
+  },
+  "2470 hamburg tpke, lackawanna, ny 14218": null
 }
