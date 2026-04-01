@@ -9345,5 +9345,533 @@
     "lat": 40.7932583,
     "lon": -73.9711769
   },
-  "2470 hamburg tpke, lackawanna, ny 14218": null
+  "2470 hamburg tpke, lackawanna, ny 14218": null,
+  "13840 e saratoga drive, aurora, co 80015": {
+    "lat": 39.6282262,
+    "lon": -104.8272226
+  },
+  "409 north commercial street, trinidad, co 81082": {
+    "lat": 37.1713193,
+    "lon": -104.5069508
+  },
+  "300 west colorado avenue, unit 2c, suites d & e, telluride, co 81435": null,
+  "124 riverside ave ste a, ione, wa 99139": null,
+  "1254 mt saint helens way ne st, castle rock, wa 98611": null,
+  "6302 n division st ste a, spokane, wa 99208": null,
+  "1155 liberty ave, brooklyn, ny 11208": {
+    "lat": 40.6789615,
+    "lon": -73.8667521
+  },
+  "474 fashion ave, new york, ny 10018": null,
+  "132 broadway, whitehall, ny 12887": {
+    "lat": 43.551061,
+    "lon": -73.404408
+  },
+  "200 lake st., newburgh, ny 12550": {
+    "lat": 41.4944649,
+    "lon": -74.0313334
+  },
+  "4790 commercial dr, new hartford, ny 13413": {
+    "lat": 43.0931606,
+    "lon": -75.3073991
+  },
+  "262 middle island rd, medford, ny 11763": {
+    "lat": 40.8410294,
+    "lon": -72.9889262
+  },
+  "279 east main st, port jervis, ny 12771": {
+    "lat": 41.3769727,
+    "lon": -74.686944
+  },
+  "1284 central ave, albany, ny 12205": {
+    "lat": 42.6993776,
+    "lon": -73.8127493
+  },
+  "309 s. main st, elmiry, ny 14904": null,
+  "1217 congress st, portland, me": {
+    "lat": 43.6574976,
+    "lon": -70.2895133
+  },
+  "602 west bethel rd, bethel, me": {
+    "lat": 44.4082528,
+    "lon": -70.8516098
+  },
+  "495 harold l dow hwy bldg 1, eliot, me": null,
+  "140 federal rd, parsonsfield, me": null,
+  "5 cheshire road suite 12, pittsfield, ma 01201": null,
+  "223 lunenburg street, fitchburg, ma 01420": {
+    "lat": 42.584863,
+    "lon": -71.780426
+  },
+  "248 gardner road, templeton, ma 01438": {
+    "lat": 42.5734163,
+    "lon": -72.0198254
+  },
+  "98 sgt tm dion way, westfield, ma 01085": null,
+  "573 mohawk trail, north adams, ma 01247": {
+    "lat": 42.6974954,
+    "lon": -73.0904605
+  },
+  "175 george washington boulevard, hull, ma 02045": {
+    "lat": 42.2687197,
+    "lon": -70.8558566
+  },
+  "423 lakeside avenue, marlborough, ma 01752": {
+    "lat": 42.3416355,
+    "lon": -71.5795795
+  },
+  "462 highland avenue, salem, ma 01970": {
+    "lat": 42.4934441,
+    "lon": -70.9339451
+  },
+  "1200 west columbus avenue, springfield, ma 01105": {
+    "lat": 42.0965565,
+    "lon": -72.5878155
+  },
+  "15 mechanics street, tisbury, ma 02568": {
+    "lat": 41.4476112,
+    "lon": -70.6140963
+  },
+  "611 west street, mansfield, ma 02084": {
+    "lat": 42.0255075,
+    "lon": -71.2428292
+  },
+  "910 boston post road ste.#100, marlborough, ma 01752": null,
+  "477 wareham street, middleborough, ma 02346": {
+    "lat": 41.8392419,
+    "lon": -70.8436608
+  },
+  "62-68 w. boylston street, worcester, ma 01606": {
+    "lat": 42.2991095,
+    "lon": -71.8037015
+  },
+  "1386 massachusetts avenue, arlington, ma 02476": {
+    "lat": 42.4243961,
+    "lon": -71.1847118
+  },
+  "54a hyde park avenue, boston, ma 02130": {
+    "lat": 42.2989472,
+    "lon": -71.1141977
+  },
+  "16 pearson boulevard, gardner, ma 01440": {
+    "lat": 42.5664877,
+    "lon": -71.9797278
+  },
+  "37 coolidge street, hudson, ma 01749": {
+    "lat": 42.3972266,
+    "lon": -71.593889
+  },
+  "1375 main street, sheffield, ma 01257": {
+    "lat": 42.1095064,
+    "lon": -73.3538771
+  },
+  "255 n. pearl street, brockton, ma 02301": {
+    "lat": 42.0984182,
+    "lon": -71.0656294
+  },
+  "76 millbury street, worcester, ma 01610": {
+    "lat": 42.253338,
+    "lon": -71.7990786
+  },
+  "1021 south street, pittsfield, ma 01201": {
+    "lat": 42.4089957,
+    "lon": -73.2629343
+  },
+  "430 blue hill avenue, boston, ma 02121": {
+    "lat": 42.310323,
+    "lon": -71.081833
+  },
+  "535 washington street, boston, ma 02135": {
+    "lat": 42.3493128,
+    "lon": -71.1633411
+  },
+  "1589 columbus avenue, boston, ma 02119": {
+    "lat": 42.3215758,
+    "lon": -71.0987396
+  },
+  "121 webster avenue, chelsea, ma 02150": {
+    "lat": 42.4016442,
+    "lon": -71.0242934
+  },
+  "567-569 massachusetts avenue, cambridge, ma 02139": {
+    "lat": 42.3631335,
+    "lon": -71.0998932
+  },
+  "1292 blue hill avenue, boston, ma 02126": {
+    "lat": 42.2817553,
+    "lon": -71.0924981
+  },
+  "38 littleton road, ayer, ma 01432": {
+    "lat": 42.5518602,
+    "lon": -71.5659163
+  },
+  "70 frank mossberg drive, attleboro, ma 02703": {
+    "lat": 41.9196479,
+    "lon": -71.3246879
+  },
+  "73 sargeant street, holyoke, ma 01040": {
+    "lat": 42.1958163,
+    "lon": -72.6068107
+  },
+  "164 grove street, franklin, ma 02038": {
+    "lat": 42.0685087,
+    "lon": -71.425068
+  },
+  "346 river street, fitchburg, ma 01420": {
+    "lat": 42.5819684,
+    "lon": -71.8191032
+  },
+  "74 cottage street, easthampton, ma 01027": {
+    "lat": 42.2644892,
+    "lon": -72.6659791
+  },
+  "2 bridge street, salem, ma 01970": {
+    "lat": 42.5275364,
+    "lon": -70.8903553
+  },
+  "463 maple street, winchendon, ma 01475": {
+    "lat": 42.6935415,
+    "lon": -72.0159331
+  },
+  "70 von hillern street, boston, ma 02125": {
+    "lat": 42.3235808,
+    "lon": -71.0539866
+  },
+  "500 medford street, somerville, ma 02145": {
+    "lat": 42.3959747,
+    "lon": -71.1034447
+  },
+  "1030 commonwealth avenue, brookline, ma 02215": null,
+  "143-145 water street, fitchburg, ma 01420": {
+    "lat": 42.5771164,
+    "lon": -71.7920461
+  },
+  "144 bowdoin street, boston, ma 02122": {
+    "lat": 42.3038406,
+    "lon": -71.0708826
+  },
+  "235 main street, northampton, ma 01060": {
+    "lat": 42.3180625,
+    "lon": -72.6327196
+  },
+  "91 george leven drive, north attleborough, ma 02760": {
+    "lat": 42.0054972,
+    "lon": -71.3044566
+  },
+  "707 newport avenue, attleboro, ma 02703": {
+    "lat": 41.9187918,
+    "lon": -71.3580379
+  },
+  "150 hartford avenue, hopedale, ma 01747": null,
+  "114 mystic avenue, medford, ma 02155": {
+    "lat": 42.4116207,
+    "lon": -71.1061138
+  },
+  "1686 massachusetts avenue, cambridge, ma 02138": {
+    "lat": 42.3826392,
+    "lon": -71.1199693
+  },
+  "180 joseph warner boulevard fka 284r winthrop street, taunton, ma 02780": null,
+  "666 state street, springfield, ma 01109": {
+    "lat": 42.109964,
+    "lon": -72.5699544
+  },
+  "145 broadway road dracut, ma 01826, dracut, ma 01826": null,
+  "73 essex avenue, gloucester, ma 01930": {
+    "lat": 42.6135508,
+    "lon": -70.70995
+  },
+  "220 commercial street, provincetown, ma 02657": {
+    "lat": 42.0497521,
+    "lon": -70.1887186
+  },
+  "161 seymour street, pittsfield, ma 01201": {
+    "lat": 42.4611216,
+    "lon": -73.2512888
+  },
+  "36 charles street, malden, ma 02148": {
+    "lat": 42.4234882,
+    "lon": -71.0689408
+  },
+  "371 lunenburg street, fitchburg, ma 01420": {
+    "lat": 42.5856853,
+    "lon": -71.7722407
+  },
+  "365 main street, sturbridge, ma 01566": {
+    "lat": 42.1116918,
+    "lon": -72.0888788
+  },
+  "1148 bridge street, lowell, ma 01852": {
+    "lat": 42.6633179,
+    "lon": -71.3035549
+  },
+  "2 larch street, pittsfield, ma 01201": {
+    "lat": 42.4585194,
+    "lon": -73.2102482
+  },
+  "883 hyde park avenue, boston, ma 02136": {
+    "lat": 42.2698739,
+    "lon": -71.1208657
+  },
+  "1256 west central street, franklin, ma 02038": {
+    "lat": 42.0848305,
+    "lon": -71.446612
+  },
+  "41 strong avenue, northampton, ma 01060": {
+    "lat": 42.319098,
+    "lon": -72.6275745
+  },
+  "1915 main street, brockton, ma 02301": {
+    "lat": 42.0473119,
+    "lon": -71.0108493
+  },
+  "180 laurel street, greenfield, ma 01301": {
+    "lat": 42.5806173,
+    "lon": -72.6178671
+  },
+  "50 grove street, salem, ma 01970": {
+    "lat": 42.5226463,
+    "lon": -70.9111243
+  },
+  "107 elm street, salisbury, ma 01952": {
+    "lat": 42.8437159,
+    "lon": -70.8791165
+  },
+  "49 macy street, amesbury, ma 01913": {
+    "lat": 42.8457853,
+    "lon": -70.9228366
+  },
+  "580 massachusetts avenue, cambridge, ma 02139": {
+    "lat": 42.3647316,
+    "lon": -71.1029968
+  },
+  "354 winthrop street, taunton, ma 02780": {
+    "lat": 41.8868525,
+    "lon": -71.1308062
+  },
+  "21 broad street, boston, ma 02109": {
+    "lat": 42.3584643,
+    "lon": -71.0546641
+  },
+  "966 cambridge street, cambridge, ma 02141": {
+    "lat": 42.3725338,
+    "lon": -71.093203
+  },
+  "11 mccracken road, suite c, millbury, ma 01527": null,
+  "518 somerville avenue, somerville, ma 02143": {
+    "lat": 42.3829764,
+    "lon": -71.1061381
+  },
+  "31 union street, north adams, ma 01247": {
+    "lat": 42.7007438,
+    "lon": -73.106933
+  },
+  "56 gardner road, hubbardston, ma 01452": {
+    "lat": 42.4903954,
+    "lon": -72.0120825
+  },
+  "69 hook street, southbridge, ma 01550": {
+    "lat": 42.0775632,
+    "lon": -72.0333417
+  },
+  "22 birch street, boston, ma 02131": {
+    "lat": 42.2867553,
+    "lon": -71.1299217
+  },
+  "17 east street, easthampton, ma 01027": {
+    "lat": 42.2865724,
+    "lon": -72.618571
+  },
+  "297 newbury street, boston, ma 02115": {
+    "lat": 42.3491016,
+    "lon": -71.0852358
+  },
+  "221 bear hill road, waltham, ma 02451": {
+    "lat": 42.3836285,
+    "lon": -71.2646369
+  },
+  "1 nauset street, new bedford, ma 02746": {
+    "lat": 41.6620658,
+    "lon": -70.9370638
+  },
+  "23 rindge state road, ashburnham, ma 01430": {
+    "lat": 42.6879248,
+    "lon": -71.8792993
+  },
+  "26 strong avenue, northampton, ma 01060": {
+    "lat": 42.3198079,
+    "lon": -72.6279765
+  },
+  "385 atlantic avenue, marblehead, ma 01945": {
+    "lat": 42.4829603,
+    "lon": -70.875852
+  },
+  "25 nason street, maynard, ma 01754": {
+    "lat": 42.4327283,
+    "lon": -71.4531656
+  },
+  "2363-2365 washington street, boston, ma 02119": null,
+  "240 bridge street, fairhaven, ma 02719": {
+    "lat": 41.6468163,
+    "lon": -70.8866809
+  },
+  "587-595 main street, springfield, ma 01105": {
+    "lat": 42.0955284,
+    "lon": -72.5814979
+  },
+  "715 washington street, quincy, ma 02169": {
+    "lat": 42.2448693,
+    "lon": -70.9692305
+  },
+  "307 tremont street, carver, ma 02330": {
+    "lat": 41.8291856,
+    "lon": -70.7531431
+  },
+  "120 macarthur boulevard, bourne, ma 02532": {
+    "lat": 41.7369233,
+    "lon": -70.5859862
+  },
+  "888 morton street, boston, ma 02124": {
+    "lat": 42.2805986,
+    "lon": -71.084016
+  },
+  "1908 massachusetts avenue, cambridge, ma 02140": {
+    "lat": 42.3892356,
+    "lon": -71.119685
+  },
+  "48-62 brookline avenue, boston, ma 02215": {
+    "lat": 42.3426568,
+    "lon": -71.1033568
+  },
+  "greenfield road, deerfield, ma 01342": {
+    "lat": 42.5337085,
+    "lon": -72.6034704
+  },
+  "1 n main street, templeton, ma 01468": {
+    "lat": 42.563419,
+    "lon": -72.038322
+  },
+  "14 west street, ware, ma 01082": {
+    "lat": 42.2600207,
+    "lon": -72.2433846
+  },
+  "329 columbus avenue, boston, ma 02116": {
+    "lat": 42.3462713,
+    "lon": -71.0750533
+  },
+  "727 atlantic avenue, boston, ma 02111": {
+    "lat": 42.3506754,
+    "lon": -71.056699
+  },
+  "127 columbia street, adams, ma 01220": {
+    "lat": 42.6334915,
+    "lon": -73.1137631
+  },
+  "43 summer street, lunenburg, ma 01462": {
+    "lat": 42.567439,
+    "lon": -71.7642965
+  },
+  "239 west street, pittsfield, ma 01201": {
+    "lat": 42.4478158,
+    "lon": -73.2619448
+  },
+  "1015 hingham street, rockland, ma 02370": {
+    "lat": 42.1622436,
+    "lon": -70.9005166
+  },
+  "1379-1385 blue hill avenue, boston, ma 02126": null,
+  "15 main street, holyoke, ma 01040": {
+    "lat": 42.2054676,
+    "lon": -72.6024339
+  },
+  "2727 jacobs ladder road, becket, ma 01223": {
+    "lat": 42.2638064,
+    "lon": -73.1348002
+  },
+  "160 hartwell street, fall river, ma 02721": {
+    "lat": 41.6979611,
+    "lon": -71.1533559
+  },
+  "1295-1297 river street hyde park, boston, ma 02136": {
+    "lat": 42.2558987,
+    "lon": -71.1247806
+  },
+  "42 main street, maynard, ma 01754": {
+    "lat": 42.4323363,
+    "lon": -71.45213
+  },
+  "1695 shawsheen street, tewksbury, ma 01876": {
+    "lat": 42.6181965,
+    "lon": -71.1846698
+  },
+  "1903 fall river avenue, seekonk, ma 02771": {
+    "lat": 41.7800925,
+    "lon": -71.2981381
+  },
+  "15 liberty street, quincy, ma 02169": {
+    "lat": 42.2404148,
+    "lon": -71.0060841
+  },
+  "1102 riverdale street, west springfield, ma 01089": {
+    "lat": 42.1343088,
+    "lon": -72.6265651
+  },
+  "193-195 oxford street, lynn, ma 01901": {
+    "lat": 42.4630221,
+    "lon": -70.9475471
+  },
+  "0 & 403 riverside avenue, medford, ma 02155": null,
+  "266 washington street, attleboro, ma 02703": {
+    "lat": 41.9211901,
+    "lon": -71.3577314
+  },
+  "20 john williams street, unit 2, attleboro, ma 02703": null,
+  "591 albany street, boston, ma 02118": {
+    "lat": 42.3374857,
+    "lon": -71.0683483
+  },
+  "408 old colony road, norton, ma 02766": {
+    "lat": 41.9529395,
+    "lon": -71.2409947
+  },
+  "770 gallivan boulevard, boston, ma 02122": {
+    "lat": 42.2851283,
+    "lon": -71.0445764
+  },
+  "1010 union street, west springfield, ma 01089": {
+    "lat": 42.0959353,
+    "lon": -72.6056396
+  },
+  "4 town forest road, webster, ma 01570": {
+    "lat": 42.0779771,
+    "lon": -71.8613794
+  },
+  "142 southbridge street, worcester, ma 01608": {
+    "lat": 42.2577549,
+    "lon": -71.8037004
+  },
+  "882-886 south street, boston, ma 02131": {
+    "lat": 42.2972016,
+    "lon": -71.1203774
+  },
+  "31 cambridge street, boston, ma 02129": {
+    "lat": 42.3840037,
+    "lon": -71.0745906
+  },
+  "10 canal street, bourne, ma 02532": {
+    "lat": 41.7798021,
+    "lon": -70.5428115
+  },
+  "681 college hwy, southwick, ma 01077": {
+    "lat": 42.0724507,
+    "lon": -72.7665637
+  },
+  "251 russell street, hadley, ma 01035": {
+    "lat": 42.3481392,
+    "lon": -72.5696563
+  },
+  "325 stockbridge road, great barrington, ma 01230": {
+    "lat": 42.2113446,
+    "lon": -73.3464175
+  }
 }
