@@ -9873,5 +9873,145 @@
   "325 stockbridge road, great barrington, ma 01230": {
     "lat": 42.2113446,
     "lon": -73.3464175
+  },
+  "1426 north academy boulevard, colorado springs, co 80909": {
+    "lat": 38.8539956,
+    "lon": -104.757955
+  },
+  "1301 n marion street, denver, co 80218": {
+    "lat": 39.7822939,
+    "lon": -104.9714612
+  },
+  "5238 west 44th avenue, denver, co 80212": {
+    "lat": 39.7765786,
+    "lon": -105.0480361
+  },
+  "1374 se lund ave, port orchard, wa 98366": {
+    "lat": 47.5195538,
+    "lon": -122.6333942
+  },
+  "12833 martin luther king jr wa, seattle, wa 98178": {
+    "lat": 47.4876599,
+    "lon": -122.2590582
+  },
+  "3230 e hwy 101, port angeles, wa 98362": null,
+  "36728 us 2 smp - 2, sultan, wa 98294": null,
+  "10861 1st ave s ste a, seattle, wa 98168": null,
+  "3202 e portland ave, tacoma, wa 98404": {
+    "lat": 47.234596,
+    "lon": -122.4095914
+  },
+  "257 county road 39a, southampton, ny 11968": {
+    "lat": 40.899608,
+    "lon": -72.3899048
+  },
+  "50 n highland ave, ossining, ny 10562": {
+    "lat": 41.1642593,
+    "lon": -73.8614573
+  },
+  "16220 northern blvd, flushing, ny 11358": {
+    "lat": 40.7629632,
+    "lon": -73.8057492
+  },
+  "309 s. main st, elmira, ny 14904": {
+    "lat": 42.0819188,
+    "lon": -76.8042603
+  },
+  "31 main st, milo, me": {
+    "lat": 45.2520128,
+    "lon": -68.9867464
+  },
+  "1022 stillwater ave, bangor, me": {
+    "lat": 44.8423004,
+    "lon": -68.7442656
+  },
+  "434 main st, damariscotta, me": {
+    "lat": 44.0344406,
+    "lon": -69.5149964
+  },
+  "482 congress st, portland, me": {
+    "lat": 43.6565231,
+    "lon": -70.2595509
+  },
+  "999 william south canning boulevard, fall river, ma 02721": null,
+  "401 east main street, georgetown, ma 01833": {
+    "lat": 42.7071279,
+    "lon": -70.9595403
+  },
+  "62-68 west boylston street, worcester, ma 01606": {
+    "lat": 42.3117848,
+    "lon": -71.7978015
+  },
+  "1450 east street - ste 2, pittsfield, ma 01201": null,
+  "35 north main street, lanesborough, ma 01237": {
+    "lat": 42.518841,
+    "lon": -73.2281201
+  },
+  "143 southwest cutoff, worcester, ma 01604": {
+    "lat": 42.2341243,
+    "lon": -71.7500236
+  },
+  "255 north pearl street, brockton, ma 02301": {
+    "lat": 42.0984182,
+    "lon": -71.0656294
+  },
+  "78 worcester road, ste 225, webster, ma 01520": null,
+  "44 william c gould jr way, kingston, ma 02364": {
+    "lat": 41.9720204,
+    "lon": -70.7064467
+  },
+  "24 west main street, ware, ma 01082": {
+    "lat": 42.2604622,
+    "lon": -72.243848
+  },
+  "200 monsignor obrien highway, cambridge, ma 02141": null,
+  "11 mccracken road, ste c, millbury, ma 01527": null,
+  "27 robert j way, plymouth, ma 02360": {
+    "lat": 41.9297387,
+    "lon": -70.6495499
+  },
+  "1 north main street, templeton, ma 01468": {
+    "lat": 42.563419,
+    "lon": -72.038322
+  },
+  "470 main street, clinton, ma 01510": {
+    "lat": 42.416466,
+    "lon": -71.6899392
+  },
+  "2 merchant street., unit 4, sharon, ma 02067": null,
+  "325 state road, phillipston, ma 01331": {
+    "lat": 42.5722779,
+    "lon": -72.1601019
+  },
+  "220 william mcclellan highway, boston, ma 02128": {
+    "lat": 42.3875613,
+    "lon": -71.0176026
+  },
+  "701-703b mt auburn street, cambridge, ma 02138": null,
+  "5 cheshire road ste 12, pittsfield, ma 01201": null,
+  "19 belmont street, cambridge, ma 02138": {
+    "lat": 42.374904,
+    "lon": -71.1508606
+  },
+  "220 oneil boulevard, attleboro, ma 02703": null,
+  "100 leo m birmingham parkway, boston, ma 02135": {
+    "lat": 42.3586773,
+    "lon": -71.1467326
+  },
+  "399 boston road west, monson, ma 01057": {
+    "lat": 42.1538647,
+    "lon": -72.371858
+  },
+  "2447-2449 massachusetts avenue, cambridge, ma 02140": {
+    "lat": 42.3932775,
+    "lon": -71.1255254
+  },
+  "681 college highway, southwick, ma 01077": {
+    "lat": 42.0724507,
+    "lon": -72.7665637
+  },
+  "156-162 main street, brockton, ma 02302": {
+    "lat": 42.0853714,
+    "lon": -71.0198587
   }
 }
