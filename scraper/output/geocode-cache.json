@@ -10013,5 +10013,57 @@
   "156-162 main street, brockton, ma 02302": {
     "lat": 42.0853714,
     "lon": -71.0198587
+  },
+  "10825 myers way s, seattle, wa 98168": {
+    "lat": 47.5063638,
+    "lon": -122.3327611
+  },
+  "4525 road 68 ste j, pasco, wa 99301": null,
+  "4444 meridian st, bellingham, wa 98226": {
+    "lat": 48.8023445,
+    "lon": -122.4855467
+  },
+  "100 old hill rd, aberdeen, wa 98520": null,
+  "3858 broadway, new york, ny 10032": {
+    "lat": 40.836409,
+    "lon": -73.943037
+  },
+  "53 main st., delhi, ny 13753": {
+    "lat": 42.2753382,
+    "lon": -74.9190986
+  },
+  "7621 oswego rd., liverpool, ny 13090": {
+    "lat": 43.1393002,
+    "lon": -76.2277206
+  },
+  "53 west fordham rd. store 1, bronx, ny 10468": null,
+  "2 coenties slip, new york, ny 10004": {
+    "lat": 40.7036183,
+    "lon": -74.0103747
+  },
+  "545 w ridge rd, rochester, ny 14615": {
+    "lat": 43.2014869,
+    "lon": -77.6409681
+  },
+  "245-02 merrick blvd, rosedale, ny 11422": null,
+  "656 south ave, rochester, ny 14620": {
+    "lat": 43.1427538,
+    "lon": -77.6044436
+  },
+  "1085 main st, lewiston, me": {
+    "lat": 44.1396185,
+    "lon": -70.1922305
+  },
+  "86 #1 kirkland street, cambridge, ma 02138": {
+    "lat": 42.3764781,
+    "lon": -71.1148966
+  },
+  "204 north beacon street, boston, ma 02135": {
+    "lat": 42.3558011,
+    "lon": -71.1486807
+  },
+  "181 broadway, saugus, ma 01906": {
+    "lat": 42.4934907,
+    "lon": -71.0171477
   }
 }
