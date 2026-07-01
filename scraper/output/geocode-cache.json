@@ -10065,5 +10065,65 @@
   "181 broadway, saugus, ma 01906": {
     "lat": 42.4934907,
     "lon": -71.0171477
+  },
+  "211 east costilla street, colorado springs, co 80903": {
+    "lat": 38.8278033,
+    "lon": -104.802146
+  },
+  "1845 north federal boulevard, suite 120, denver, co 80204": null,
+  "21911 64th ave w  ste d, mountlake terrace, wa 98043": null,
+  "7531 196th st sw, lynnwood, wa 98036": {
+    "lat": 47.8217111,
+    "lon": -122.3353289
+  },
+  "28 sawgrass dr, bellport, ny 11713": {
+    "lat": 40.803238,
+    "lon": -72.9494262
+  },
+  "229a beach 20th st, far rockaway, ny 11691": {
+    "lat": 40.5962609,
+    "lon": -73.7543628
+  },
+  "256 manhattan ave, new york, ny 10026": {
+    "lat": 40.8016407,
+    "lon": -73.9591026
+  },
+  "2273a broadway, new york, ny 10024": {
+    "lat": 40.7860775,
+    "lon": -73.9781924
+  },
+  "1 old route 299, new paltz, ny 12561": {
+    "lat": 41.7412741,
+    "lon": -74.0572658
+  },
+  "133-36 whitestone expressway, flushing, ny 11354": {
+    "lat": 40.7747107,
+    "lon": -73.8289413
+  },
+  "243 wolf rd, colonie, ny 12205": {
+    "lat": 42.7268306,
+    "lon": -73.7949919
+  },
+  "2 s central ave, spring valley, ny 10977": {
+    "lat": 41.1080732,
+    "lon": -74.0397606
+  },
+  "722 n winton rd, rochester, ny 14609": {
+    "lat": 43.1593064,
+    "lon": -77.5474612
+  },
+  "3162 lake rd ste 4, horseheads, ny 14845": null,
+  "2 munsell road, medford, ny 11763": {
+    "lat": 40.805708,
+    "lon": -72.961171
+  },
+  "461 old rte 1, baring plt, me": null,
+  "105 greenfield road, deerfield, ma 01342": {
+    "lat": 42.4997445,
+    "lon": -72.6091841
+  },
+  "180 elm street, pittsfield, ma 01201": {
+    "lat": 42.4432015,
+    "lon": -73.2379746
   }
 }
