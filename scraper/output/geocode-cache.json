@@ -10125,5 +10125,300 @@
   "180 elm street, pittsfield, ma 01201": {
     "lat": 42.4432015,
     "lon": -73.2379746
+  },
+  "3142 e highway 101, port angeles, wa 98362": {
+    "lat": 48.1059568,
+    "lon": -123.4709835
+  },
+  "400 s main st unit #1, ellensburg, wa 98926": null,
+  "500 highland ave, peekskill, ny 10566": {
+    "lat": 41.2963148,
+    "lon": -73.9202607
+  },
+  "1260 castle hill ave, bronx, ny 10462": {
+    "lat": 40.8335785,
+    "lon": -73.8512332
+  },
+  "1300 wellwood ave, west babylon, ny 11704": {
+    "lat": 40.7338509,
+    "lon": -73.3984222
+  },
+  "142 route 17k, newburgh, ny 12550": null,
+  "14601 union tpke, flushing, ny 11367": null,
+  "695 5th ave, brooklyn, ny 11215": {
+    "lat": 40.6610486,
+    "lon": -73.9934429
+  },
+  "6740 state route 31 e, newark, ny 14513": null,
+  "3653 e tremont ave, bronx, ny 10465": {
+    "lat": 40.8281462,
+    "lon": -73.8236055
+  },
+  "148 kingsland ave, brooklyn, ny 11222": {
+    "lat": 40.7215587,
+    "lon": -73.9406838
+  },
+  "10412 lefferts blvd, south richmond hill, ny 11419": null,
+  "348 n goodman st, rochester, ny 14607": {
+    "lat": 43.1599851,
+    "lon": -77.5841084
+  },
+  "765 washington ave, brooklyn, ny 11238": {
+    "lat": 40.6739537,
+    "lon": -73.9627347
+  },
+  "9206 3rd ave, brooklyn, ny 11209": {
+    "lat": 40.6191814,
+    "lon": -74.033113
+  },
+  "25-15a broadway, astoria, ny 11106": {
+    "lat": 40.7665188,
+    "lon": -73.9340389
+  },
+  "1557 lexington ave, new york, ny 10029": {
+    "lat": 40.7879895,
+    "lon": -73.9490858
+  },
+  "388 west st, new york, ny 10014": {
+    "lat": 40.9695028,
+    "lon": -73.7311846
+  },
+  "548 court st, brooklyn, ny 11231": {
+    "lat": 40.6751125,
+    "lon": -73.999617
+  },
+  "151 hoosick street, troy, ny 12180": {
+    "lat": 42.7393655,
+    "lon": -73.6766242
+  },
+  "1645 state route 104, ontario, ny 14519": {
+    "lat": 43.2255007,
+    "lon": -77.3587816
+  },
+  "3219 broadway, new york, ny 11106": {
+    "lat": 40.8161807,
+    "lon": -73.9582677
+  },
+  "1597 saint nicholas ave, new york, ny 10040": {
+    "lat": 40.8548259,
+    "lon": -73.9299387
+  },
+  "1719 main st, peekskill, ny 10566": {
+    "lat": 41.2933986,
+    "lon": -73.9066258
+  },
+  "399 albany shaker rd, loudonville, ny 12211": {
+    "lat": 42.6973795,
+    "lon": -73.7675893
+  },
+  "1055 flushing ave, brooklyn, ny 11237": {
+    "lat": 40.7043805,
+    "lon": -73.9301749
+  },
+  "772 nostrand ave, brooklyn, ny 11216": {
+    "lat": 40.6722313,
+    "lon": -73.9505496
+  },
+  "302 kings hwy, brooklyn, ny 11223": {
+    "lat": 40.6048701,
+    "lon": -73.9793435
+  },
+  "1011 w genesse st. #7, syracuse, ny 13204": null,
+  "110-04 jamaica ave, queens, ny 11418": {
+    "lat": 40.696236,
+    "lon": -73.8377337
+  },
+  "1823 western ave, albany, ny 12203": {
+    "lat": 42.690763,
+    "lon": -73.8683595
+  },
+  "227 smith st, brooklyn, ny 11231": {
+    "lat": 40.6839344,
+    "lon": -73.9921034
+  },
+  "577 forest ave, buffalo, ny 14222": {
+    "lat": 42.9277941,
+    "lon": -78.877484
+  },
+  "6519 main st unit b, westport, ny 12993": null,
+  "2121 niagarafall blvd, amherst, ny 14215": null,
+  "2235 31st st, astoria, ny 11105": null,
+  "136-15 roosevelt ave, flushing, ny 11354": {
+    "lat": 40.762783,
+    "lon": -73.8177819
+  },
+  "1601 avenue u, brooklyn, ny 11229": {
+    "lat": 40.5990712,
+    "lon": -73.9553585
+  },
+  "9 newkirk plz, brooklyn, ny 11226": {
+    "lat": 40.6352436,
+    "lon": -73.9626722
+  },
+  "95-31 jamaica ave, woodhaven, ny 11421": {
+    "lat": 40.6923948,
+    "lon": -73.8602138
+  },
+  "29 n cascade dr, springville, ny 14141": {
+    "lat": 42.5102435,
+    "lon": -78.6889845
+  },
+  "103 avenue a, new york, ny 10009": {
+    "lat": 40.7259108,
+    "lon": -73.9838254
+  },
+  "3478 walden ave, depew, ny 14043": {
+    "lat": 42.9146865,
+    "lon": -78.6798965
+  },
+  "71-19 austin st, forest hills, ny 11375": {
+    "lat": 40.7200773,
+    "lon": -73.8438862
+  },
+  "570 -574 midland ave, staten island, ny 10306": {
+    "lat": 40.5790202,
+    "lon": -74.1043576
+  },
+  "2540 george urban blvd, depew, ny 14043": {
+    "lat": 42.9190559,
+    "lon": -78.7182592
+  },
+  "12 w 18th st, new york, ny 10011": {
+    "lat": 40.7388057,
+    "lon": -73.9930371
+  },
+  "246-01 jamaica ave, bellerose, ny 11426": {
+    "lat": 40.7256473,
+    "lon": -73.7195565
+  },
+  "1332 upper front st ste 4, binghamton, ny 13901": null,
+  "911 n salina st, syracuse, ny 13208": {
+    "lat": 43.063281,
+    "lon": -76.1556179
+  },
+  "45 main st, hastings on hudson, ny 10706": {
+    "lat": 40.9943825,
+    "lon": -73.8809415
+  },
+  "471 mclean ave, yonkers, ny 10705": {
+    "lat": 40.9105173,
+    "lon": -73.8825451
+  },
+  "201 w main st, honeoye falls, ny 14472": {
+    "lat": 42.9493538,
+    "lon": -77.6029401
+  },
+  "3118 main st, buffalo, ny 14214": {
+    "lat": 42.9497616,
+    "lon": -78.8278816
+  },
+  "1280 1st ave, new york, ny 10065": {
+    "lat": 40.7656142,
+    "lon": -73.9573792
+  },
+  "566 7th ave, new york, ny 10018": {
+    "lat": 40.7552122,
+    "lon": -73.9880138
+  },
+  "15 campbell ave # 2, troy, ny 12180": null,
+  "9170 transit rd, east amherst, ny 14051": {
+    "lat": 43.0188639,
+    "lon": -78.697658
+  },
+  "8508 pitkin ave, ozone park, ny 11417": {
+    "lat": 40.6749042,
+    "lon": -73.8507892
+  },
+  "377 metropolitan ave, brooklyn, ny 11211": {
+    "lat": 40.7142207,
+    "lon": -73.9554959
+  },
+  "1172 victory blvd # 4, staten island, ny 10301": null,
+  "982 main st ste 5, fishkill, ny 12524": null,
+  "4535 vestal rd., vestal, ny 13850": {
+    "lat": 42.0955132,
+    "lon": -75.9588371
+  },
+  "7520 roosevelt ave, jackson heights, ny 11372": null,
+  "85 nassau street, new york, ny 10038": {
+    "lat": 40.7101493,
+    "lon": -74.0082034
+  },
+  "3565 us highway 9w, highland, ny 12528": null,
+  "317 10th ave, new york, ny 10001": {
+    "lat": 40.7511317,
+    "lon": -74.0019094
+  },
+  "599 10th ave, new york, ny 10036": {
+    "lat": 40.7607134,
+    "lon": -73.9950761
+  },
+  "4245 lakeville rd, geneseo, ny 14454": {
+    "lat": 42.797672,
+    "lon": -77.7888777
+  },
+  "351 southern blvd, albany, ny 12209": {
+    "lat": 42.6298443,
+    "lon": -73.7754818
+  },
+  "683 state fair blvd., syracuse, ny 13209": {
+    "lat": 43.0818101,
+    "lon": -76.2310056
+  },
+  "110 broadway, brooklyn, ny 11249": {
+    "lat": 40.7101953,
+    "lon": -73.9649056
+  },
+  "6401 grand ave, maspeth, ny 11378": {
+    "lat": 40.7203896,
+    "lon": -73.9085423
+  },
+  "734 ny-32a, palenville, ny 12414": {
+    "lat": 42.1745858,
+    "lon": -74.019439
+  },
+  "4123 state route 96, manchester, ny 14504": {
+    "lat": 42.9747133,
+    "lon": -77.2290084
+  },
+  "40 w 55th st, new york, ny 10019": {
+    "lat": 40.7622037,
+    "lon": -73.9767431
+  },
+  "10439 queens blvd, forest hills, ny 11375": {
+    "lat": 40.7238763,
+    "lon": -73.8489846
+  },
+  "31 washington st apt 1, brooklyn, ny 11201": null,
+  "2 e main st, bloomfield, ny 14469": {
+    "lat": 42.9021695,
+    "lon": -77.4194524
+  },
+  "144 eastern blvd ste 11, watertown, ny 13601": null,
+  "7928 metropolitan ave, middle village, ny 11379": {
+    "lat": 40.7127614,
+    "lon": -73.8789955
+  },
+  "17936 hillside ave, jamaica, ny 11432": null,
+  "111 central park north store frnt b, new york, ny 10026": null,
+  "recreational building 185 pleasant st, rockland, me": null,
+  "1027 sabattus st, lewiston, me": {
+    "lat": 44.1012374,
+    "lon": -70.1601855
+  },
+  "634 main st unit 2, oxford, me": null,
+  "202 us hwy 1, baring plantation, me": null,
+  "53 south maple street, brookfield, ma 01506": {
+    "lat": 42.2111619,
+    "lon": -72.0851922
+  },
+  "71 downing industrial parkway, pittsfield, ma 01201": null,
+  "571b washington street, boston, ma 02124": {
+    "lat": 42.2916764,
+    "lon": -71.0720017
+  },
+  "246 east main street, norton, ma 02766": {
+    "lat": 41.9857665,
+    "lon": -71.1576015
   }
 }
