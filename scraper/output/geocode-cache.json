@@ -10420,5 +10420,73 @@
   "246 east main street, norton, ma 02766": {
     "lat": 41.9857665,
     "lon": -71.1576015
-  }
+  },
+  "2727 palmer park boulevard unit a, colorado springs, co 80909": null,
+  "683 horizon drive, unit 110, grand junction, co 81506": null,
+  "5761 constitution avenue, colorado springs, co 80915": {
+    "lat": 38.8716545,
+    "lon": -104.7221498
+  },
+  "11493 clear creek rd nw, silverdale, wa 98383": {
+    "lat": 47.668212,
+    "lon": -122.6925337
+  },
+  "19740 viking ave nw, poulsbo, wa 98370": {
+    "lat": 47.7423069,
+    "lon": -122.6566419
+  },
+  "56 sr 150 ste 3, chelan, wa 98816": {
+    "lat": 47.8409698,
+    "lon": -120.0164591
+  },
+  "45 aqueduct rd, white plains, ny 10606": {
+    "lat": 41.0361359,
+    "lon": -73.782567
+  },
+  "418a e sandford blvd, mount vernon, ny 10550": null,
+  "190 south plank road unit 10, newburgh, ny 12550": null,
+  "147 route 9w, haverstraw, ny 10927": null,
+  "3042b fenton ave, the bronx, ny 10469": {
+    "lat": 40.8639293,
+    "lon": -73.8444075
+  },
+  "424 troutman st, brooklyn, ny 11237": {
+    "lat": 40.7069606,
+    "lon": -73.9221065
+  },
+  "1839 south rd, wappingers falls, ny 12590": {
+    "lat": 41.6145732,
+    "lon": -73.9154376
+  },
+  "7723 s main st, pine plains, ny 12567": {
+    "lat": 41.9735549,
+    "lon": -73.6558665
+  },
+  "2101 mott ave, far rockaway, ny 11691": {
+    "lat": 40.6059314,
+    "lon": -73.7582839
+  },
+  "649 park ave, rochester, ny 14607": {
+    "lat": 43.148071,
+    "lon": -77.578385
+  },
+  "133 wyckoff ave, brooklyn, ny 11237": {
+    "lat": 40.7041616,
+    "lon": -73.9186166
+  },
+  "4930 broadway, new york, ny 10034": {
+    "lat": 40.8674687,
+    "lon": -73.92138
+  },
+  "600 state route 299, highland, ny 12528": null,
+  "66 jane st, new york, ny 10014": {
+    "lat": 40.7380607,
+    "lon": -74.0062562
+  },
+  "601 western ave bldg 1, manchester, me": null,
+  "181 state rd, kittery, me": {
+    "lat": 43.1014756,
+    "lon": -70.7439796
+  },
+  "818 main st unit 2b, south portland, me": null
 }
