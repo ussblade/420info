@@ -10488,5 +10488,40 @@
     "lat": 43.1014756,
     "lon": -70.7439796
   },
-  "818 main st unit 2b, south portland, me": null
+  "818 main st unit 2b, south portland, me": null,
+  "879 struthers avenue, unit a, grand junction, co 81501": null,
+  "1750 30th street, unit 84a, boulder, co 80301": null,
+  "8860 federal boulevard, suite 66e, denver, co 80260": null,
+  "21502 e gilbert rd, otis orchards, wa 99027": null,
+  "1910 w main st ste 101, battle ground, wa 98604": null,
+  "1423 s machias rd, snohomish, wa 98290": {
+    "lat": 47.98274,
+    "lon": -122.0401894
+  },
+  "745 n grand ave ste 106, pullman, wa 99163": null,
+  "11800 ne 65th st unit 101, vancouver, wa 98662": null,
+  "856 knickerbocker avenue, brooklyn, ny 11207": {
+    "lat": 40.6915414,
+    "lon": -73.9058114
+  },
+  "21 milk street, boston, ma 02109": {
+    "lat": 42.357959,
+    "lon": -71.0501178
+  },
+  "76 astor avenue, norwood, ma 02062": {
+    "lat": 42.1693855,
+    "lon": -71.1918134
+  },
+  "930 main street, southbridge, ma 01550": {
+    "lat": 42.0828518,
+    "lon": -72.0477649
+  },
+  "417 hyde park avenue, boston, ma 02131": {
+    "lat": 42.2860183,
+    "lon": -71.1188622
+  },
+  "1625 andover street, tewksbury, ma 01876": {
+    "lat": 42.6427574,
+    "lon": -71.234997
+  }
 }
